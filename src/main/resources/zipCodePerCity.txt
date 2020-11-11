@@ -1,0 +1,8400 @@
+1945;Hohenbocka
+1945;Hermsdorf
+1945;Guteborn
+1945;Grünewald
+1945;Lindenau
+1945;Tettau
+1945;Schwarzbach
+1945;Ruhland
+1945;Kroppen
+1968;Schipkau Hörlitz
+1968;Schipkau
+1968;Senftenberg
+1979;Lauchhammer
+1983;Großräschen
+1983;Neu-Seeland
+1987;Schwarzheide
+1990;Großkmehlen
+1990;Frauendorf
+1990;Ortrand
+1993;Schipkau Schipkau
+1993;Schipkau
+1994;Schipkau Meuro
+1994;Schipkau Drochow
+1994;Schipkau
+1994;Schipkau Annahütte, Herrnnmühle
+1994;Schipkau Annahütte, Karl-Marx-Siedlung
+1994;Schipkau Annahütte, Annahütte
+1994;Schipkau Annahütte
+1994;Schipkau Annahütte, Annahütte-Siedlung
+1996;Hosena
+1998;Schipkau Klettwitz
+1998;Schipkau
+1998;Schipkau Meuro
+3042;Cottbus
+3044;Cottbus
+3046;Cottbus
+3048;Cottbus
+3050;Cottbus
+3051;Cottbus
+3052;Cottbus
+3053;Cottbus
+3054;Cottbus
+3055;Cottbus
+3058;Sergen
+3058;Groß Oßnig
+3058;Groß Gaglow
+3058;Groß Döbbern
+3058;Haasow
+3058;Gallinchen
+3058;Gablenz
+3058;Frauendorf
+3058;Kiekebusch
+3058;Klein Döbbern
+3058;Koppatz
+3058;Laubsdorf
+3058;Roggosen
+3058;Neuhausen
+3058;Komptendorf
+3058;Kathlow
+3096;Werben
+3096;Guhrow
+3096;Dissen-Striesow
+3096;Burg (Spreewald)
+3096;Briesen
+3096;Schmogrow-Fehrow
+3099;Kolkwitz
+3103;Neu-Seeland
+3103;Neupetershain
+3116;Drebkau
+3119;Welzow
+3130;Hornow-Wadelsdorf
+3130;Haidemühl
+3130;Groß Luja
+3130;Graustein
+3130;Felixsee
+3130;Bagenz
+3130;Reuthen
+3130;Tschernitz
+3130;Drieschnitz-Kahsel
+3130;Türkendorf
+3130;Spremberg
+3130;Proschim
+3130;Wolfshain
+3130;Lieskau
+3130;Jämlitz-Klein Düben
+3139;Terpe
+3149;Groß Schacksdorf-Simmersdorf
+3149;Forst (Lausitz)
+3149;Wiesengrund
+3159;Wiesengrund
+3159;Döbern
+3159;Neiße-Malxetal
+3172;Guben
+3172;Grießen
+3172;Gastrose-Kerkwitz
+3172;Bärenklau
+3172;Lutzketal
+3172;Pinnow-Heideland
+3172;Grabko
+3172;Atterwasch
+3185;Heinersbrück
+3185;Grötsch
+3185;Turnow-Preilack
+3185;Drehnow
+3185;Teichland
+3185;Tauer
+3185;Drachhausen
+3185;Peitz
+3197;Drewitz
+3197;Jänschwalde
+3202;Luckow-Petershagen
+3205;Groß-Mehßow
+3205;Laasow
+3205;Kemmen
+3205;Werchow
+3205;Calau
+3205;Bronkow
+3205;Bolschwitz
+3205;Saßleben
+3205;Bischdorf
+3205;Ogrosen
+3205;Mlode
+3205;Missen
+3205;Lug
+3205;Luckaitztal
+3205;Lipten
+3222;Hindenberg
+3222;Groß Beuchow
+3222;Groß-Klessow
+3222;Boblitz
+3222;Lübbenau/Spreewald
+3222;Ragow
+3222;Klein Radden
+3222;Kittlitz
+3226;Koßwig
+3226;Vetschau
+3226;Suschow
+3226;Leipe
+3226;Raddusch
+3229;Altdöbern
+3229;Luckaitztal
+3238;Gorden
+3238;Göllnitz
+3238;Finsterwalde
+3238;Gruhno
+3238;Schacksdorf
+3238;Oppelhain
+3238;Eichholz-Drößig
+3238;Dollenchen
+3238;Betten
+3238;Gröbitz
+3238;Staupitz
+3238;Schadewitz
+3238;Sallgast
+3238;Rückersdorf
+3238;Ponnsdorf
+3238;Münchhausen
+3238;Fischwasser
+3238;Massen
+3238;Lugau
+3238;Lindthal
+3238;Lieskau
+3238;Lichterfeld
+3238;Lindena
+3246;Gahro
+3246;Crinitz
+3246;Babben
+3249;Großkrausnik
+3249;Goßmar
+3249;Kleinkrausnik
+3249;Bahren
+3249;Zeckerin
+3249;Breitenau
+3249;Sonnewalde
+3249;Pahlsdorf
+3253;Hennersdorf
+3253;Friedersdorf
+3253;Nexdorf
+3253;Frankena
+3253;Schilda
+3253;Dübrichen
+3253;Werenzhain
+3253;Doberlug-Kirchhain
+3253;Tröbitz
+3253;Trebbus
+3253;Buchhain
+3253;Brenitz
+3253;Schönborn
+3253;Schönewalde
+3253;Prießen
+3253;Arenzhain
+4895;Falkenberg/Elster
+4910;Haida
+4910;Elsterwerda
+4916;Herzberg (Elster)
+4916;Heideeck
+4916;Wildberg
+4916;Werchau
+4916;Themesgrund
+4916;Stolzenhain
+4924;Bad Liebenwerda
+4924;Uebigau-Wahrenbrück
+4928;Döllingen
+4928;Schraden
+4928;Plessa
+4928;Kahla
+4931;Mühlberg (Elbe)
+4932;Gröden
+4932;Hirschfeld
+4932;Großthiemig
+4932;Prösen
+4932;Wainsdorf
+4932;Saathain
+4932;Reichenhain
+4932;Merzdorf
+4934;Hohenleipisch
+4934;Dreska
+4936;Hohenbucko
+4936;Hillmersdorf
+4936;Freileben
+4936;Frankenhain
+4936;Jagsal
+4936;Schlieben
+4936;Stechau
+4936;Wehrhain
+4936;Schöna-Kolpien
+4936;Proßmarke
+4936;Ölsig
+4936;Naundorf
+4936;Malitschkendorf
+4936;Lebusa
+4936;Körba
+4936;Kolochau
+4938;Uebigau-Wahrenbrück
+12529;Berlin
+12529;Schönefeld
+13047;Reinickendorf
+14461;Potsdam
+14467;Potsdam
+14469;Potsdam
+14471;Potsdam
+14473;Potsdam
+14476;Satzkorn
+14476;Neu Fahrland
+14476;Groß Glienicke
+14476;Golm
+14476;Marquardt
+14476;Seeburg
+14476;Fahrland
+14476;Uetz-Paaren
+14476;Töplitz
+14478;Potsdam
+14480;Potsdam
+14482;Potsdam
+14513;Teltow
+14532;Stahnsdorf
+14532;Fahlhorst
+14532;Kleinmachnow
+14532;Philippsthal
+14532;Nudow
+14542;Werder (Havel)
+14542;Schwielowsee
+14542;Kloster Lehnin
+14547;Stücken
+14547;Beelitz
+14548;Schwielowsee
+14550;Groß Kreutz
+14550;Schmergow
+14550;Derwitz
+14550;Deetz
+14550;Bochow
+14550;Krielow
+14552;Wildenbruch
+14552;Fresdorf
+14552;Tremsdorf
+14552;Saarmund
+14552;Michendorf
+14554;Seddiner See
+14557;Wilhelmshorst
+14557;Langerwisch
+14558;Bergholz-Rehbrücke
+14612;Falkensee
+14621;Schönwalde
+14624;Dallgow-Döberitz
+14627;Elstal
+14641;Grünefeld
+14641;Falkenrehde
+14641;Kienberg
+14641;Bergerdamm
+14641;Berge
+14641;Paaren im Glien
+14641;Wachow
+14641;Bredow
+14641;Pausin
+14641;Groß Behnitz
+14641;Wustermark
+14641;Wansdorf
+14641;Markee
+14641;Tremmen
+14641;Tietzow
+14641;Brädikow
+14641;Börnicke
+14641;Selbelang
+14641;Zeestow
+14641;Ribbeck
+14641;Retzow
+14641;Pessin
+14641;Perwenitz
+14641;Paulinenaue
+14641;Nauen
+14641;Mühlenberge
+14641;Etzin
+14641;Lietzow
+14641;Klein Behnitz
+14656;Brieselang
+14662;Friesack
+14662;Warsow
+14662;Vietznitz
+14662;Mühlenberge
+14669;Ketzin
+14669;Zachow
+14712;Rathenow
+14715;Großwudicke
+14715;Gräningen
+14715;Bamme
+14715;Liepe
+14715;Bützer
+14715;Märkisch Luch Garlitz
+14715;Möthlitz
+14715;Märkisch Luch Möthlow
+14715;Zollchow
+14715;Stechow-Ferchesar
+14715;Landin
+14715;Vieritz
+14715;Mützlitz
+14715;Seeblick
+14715;Havelaue
+14715;Schollene
+14715;Kriele
+14715;Nennhausen
+14715;Nitzahn
+14715;Milow
+14715;Märkisch Luch Buschow
+14715;Märkisch Luch Barnewitz
+14715;Märkisch Luch
+14715;Kotzen
+14715;Jerchel
+14727;Premnitz
+14727;Döberitz
+14728;Havelaue
+14728;Gollenberg
+14728;Kleßen-Görne
+14728;Rhinow
+14770;Brandenburg an der Havel
+14772;Brandenburg an der Havel
+14774;Brandenburg an der Havel
+14776;Brandenburg an der Havel
+14778;Beetzsee
+14778;Havelsee
+14778;Beetzseeheide
+14778;Götz
+14778;Kloster Lehnin
+14778;Trechwitz
+14778;Jeserig
+14778;Gollwitz
+14778;Golzow
+14778;Päwesin
+14778;Wust
+14778;Wollin
+14778;Wenzlow
+14778;Schenkenberg
+14778;Roskow
+14778;Planetal
+14778;Planebruch
+14789;Bensdorf
+14789;Wusterwitz
+14789;Rosenau
+14793;Buckautal
+14793;Gräben
+14793;Ziesar
+14793;Rottstock
+14797;Kloster Lehnin
+14798;Havelsee
+14806;Hagelberg
+14806;Planetal
+14806;Belzig
+14806;Schwanebeck
+14822;Brück
+14822;Borkwalde
+14822;Borkheide
+14822;Planebruch
+14822;Mühlenfließ
+14822;Linthe
+14823;Niemegk
+14823;Mühlenfließ
+14823;Rabenstein/Fläming
+14827;Wiesenburg
+14828;Görzke
+14913;Hohenseefeld
+14913;Wahlsdorf
+14913;Jüterbog
+14913;Ihlow
+14913;Herbersdorf
+14913;Nuthe-Urstromtal
+14913;Niedergörsdorf
+14913;Niederer Fläming
+14913;Niebendorf-Heinsdorf
+14929;Treuenbrietzen
+14943;Luckenwalde
+14943;Lüdersdorf
+14943;Lühsdorf
+14947;Nuthe-Urstromtal
+14959;Trebbin
+14959;Schönhagen
+14974;Ludwigsfelde
+14974;Thyrow
+14979;Großbeeren
+15230;Frankfurt (Oder)
+15232;Frankfurt (Oder)
+15234;Frankfurt (Oder)
+15236;Jacobsdorf Jacobsdorf
+15236;Jacobsdorf
+15236;Jacobsdorf Pillgram
+15236;Frankfurt (Oder)
+15236;Treplin
+15236;Jacobsdorf Sieversdorf
+15236;Jacobsdorf Petersdorf bei Briesen
+15295;Groß Lindow Weißenspring
+15295;Groß Lindow
+15295;Groß Lindow Schlaubehammer
+15295;Ziltendorf Aurith
+15295;Ziltendorf
+15295;Wiesenau
+15295;Brieskow-Finkenheerd
+15295;Ziltendorf Ernst-Thälmann-Siedlung
+15299;Grunow-Dammendorf Grunow
+15299;Grunow-Dammendorf
+15299;Dammendorf
+15299;Müllrose
+15299;Mixdorf
+15306;Gusow-Platkow Gusow
+15306;Gusow-Platkow
+15306;Lindendorf
+15306;Falkenhagen
+15306;Fichtenhöhe
+15306;Lindendorf Sachsendorf
+15306;Gusow-Platkow Platkow
+15306;Vierlinden Alt Rosenthal
+15306;Fichtenhöhe Niederjesar
+15306;Lindendorf Libbenichen
+15306;Fichtenhöhe Alt Mahlisch
+15306;Lindendorf Dolgelin
+15306;Vierlinden Friedersdorf
+15306;Lindendorf Neu Mahlisch
+15306;Vierlinden Diedersdorf
+15306;Vierlinden Görlsdorf
+15306;Vierlinden Marxdorf
+15306;Vierlinden Worin
+15306;Lietzen
+15306;Werbig
+15306;Seelow
+15306;Vierlinden
+15306;Vierlinden Neuentempel
+15320;Neuhardenberg Wulkow bei Trebnitz
+15320;Neuhardenberg Quappendorf
+15320;Neuhardenberg Neuhardenberg
+15320;Neuhardenberg Altfriedland
+15320;Neutrebbin Alttrebbin
+15320;Sietzing
+15320;Neutrebbin Neutrebbin
+15320;Neutrebbin Altbarnim
+15320;Neutrebbin
+15320;Neuhardenberg
+15324;Gieshof-Zelliner Loose
+15324;Groß Neuendorf
+15324;Letschin
+15324;Ortwig
+15324;Neubarnim
+15324;Kienitz
+15324;Kiehnwerder
+15326;Lebus Schönfließ
+15326;Fichtenhöhe Carzig
+15326;Fichtenhöhe
+15326;Zeschdorf Petershagen
+15326;Zeschdorf Alt Zeschdorf
+15326;Zeschdorf
+15326;Lebus Mallnow
+15326;Lebus
+15326;Zeschdorf Döbberin
+15326;Podelzig
+15326;Lebus Wulkow
+15326;Lebus Lebus
+15328;Küstriner Vorland Manschnow
+15328;Zechin
+15328;Golzow
+15328;Küstriner Vorland Gorgast
+15328;Alt Tucheband Alt Tucheband
+15328;Bleyen-Genschmar
+15328;Bleyen-Genschmar Bleyen
+15328;Küstriner Vorland
+15328;Alt Tucheband Ratstock
+15328;Zechin Buschdorf
+15328;Zechin Zechin
+15328;Zechin Friedrichsaue
+15328;Bleyen-Genschmar Genschmar
+15328;Reitwein
+15328;Küstriner Vorland Küstrin-Kietz
+15328;Alt Tucheband Hathenow
+15328;Alt Tucheband
+15344;Strausberg
+15345;Garzau-Garzin Garzin
+15345;Garzau-Garzin Garzau
+15345;Garzau-Garzin
+15345;Rehfelde
+15345;Rehfelde Werder
+15345;Oberbarnim
+15345;Lichtenow
+15345;Oberbarnim Klosterdorf
+15345;Rehfelde Zinndorf
+15345;Zinndorf
+15345;Reichenow-Möglin
+15345;Werder
+15345;Prötzel Harnekop
+15345;Prötzel Prädikow
+15345;Prötzel
+15345;Reichenow-Möglin Reichenow
+15345;Reichenow-Möglin Möglin
+15345;Rehfelde Rehfelde
+15345;Prötzel Sternebeck
+15345;Prötzel Prötzel
+15345;Petershagen-Eggersdorf
+15345;Altlandsberg
+15366;Dahlwitz-Hoppegarten
+15366;Hönow
+15366;Münchehofe
+15366;Neuenhagen bei Berlin
+15370;Fredersdorf-Vogelsdorf
+15370;Petershagen-Eggersdorf
+15372;Müncheberg
+15374;Müncheberg
+15377;Märkische Höhe Batzlow
+15377;Märkische Höhe Reichenberg
+15377;Waldsieversdorf
+15377;Ihlow
+15377;Oberbarnim Bollersdorf, Bollersdorf
+15377;Oberbarnim Bollersdorf, Pritzhagen
+15377;Oberbarnim Grunow, Ernsthof
+15377;Märkische Höhe
+15377;Oberbarnim
+15377;Buckow
+15377;Oberbarnim Grunow, Grunow
+15377;Oberbarnim Grunow
+15377;Oberbarnim Bollersdorf
+15377;Märkische Höhe Ringenwalde
+15378;Herzfelde
+15378;Hennickendorf
+15517;Fürstenwalde/Spree Trebus
+15517;Fürstenwalde/Spree Fürstenwalde
+15517;Fürstenwalde/Spree
+15518;Madlitz-Wilmersdorf
+15518;Steinhöfel Beerfelde
+15518;Falkenberg
+15518;Steinhöfel
+15518;Steinhöfel Demnitz
+15518;Madlitz-Wilmersdorf Wilmersdorf
+15518;Steinhöfel Gölsdorf
+15518;Madlitz-Wilmersdorf Alt Madlitz
+15518;Langewahl
+15518;Steinhöfel Tempelberg
+15518;Steinhöfel Neuendorf im Sande
+15518;Steinhöfel Schönfelde
+15518;Berkenbrück
+15518;Grünheide (Mark) Hangelsberg
+15518;Steinhöfel Hasenfelde
+15518;Rauen
+15518;Briesen (Mark) Briesen (Mark)
+15518;Steinhöfel Steinhöfel
+15518;Steinhöfel Jänickendorf
+15518;Steinhöfel Heinersdorf
+15518;Steinhöfel Buchholz
+15518;Steinhöfel Arensdorf
+15518;Grünheide (Mark)
+15518;Briesen (Mark)
+15518;Madlitz-Wilmersdorf Falkenberg
+15518;Briesen (Mark) Biegen
+15526;Bad Saarow Petersdorf
+15526;Bad Saarow Neu Golm
+15526;Bad Saarow Bad Saarow
+15526;Reichenwalde Reichenwalde
+15526;Reichenwalde Kolpin
+15526;Reichenwalde Dahmsdorf
+15526;Rietz-Neuendorf Alt Golm
+15526;Rietz-Neuendorf
+15526;Reichenwalde
+15526;Bad Saarow
+15528;Spreenhagen Markgrafpieske
+15528;Spreenhagen
+15528;Grünheide (Mark)
+15528;Grünheide (Mark) Mönchwinkel
+15528;Spreenhagen Hartmannsdorf
+15528;Grünheide (Mark) Spreeau
+15528;Spreenhagen Spreenhagen
+15528;Spreenhagen Braunsdorf
+15537;Grünheide (Mark) Kienbaum
+15537;Grünheide (Mark) Kagel
+15537;Grünheide (Mark)
+15537;Gosen Neu Zittau
+15537;Grünheide (Mark) Grünheide
+15537;Gosen
+15537;Erkner
+15537;Wernsdorf
+15537;Gosen Gosen
+15562;Rüdersdorf bei Berlin
+15566;Schöneiche bei Berlin
+15569;Woltersdorf
+15711;Zeesen
+15711;Königs Wusterhausen
+15711;Schenkendorf
+15732;Eichwalde
+15732;Waltersdorf
+15732;Schulzendorf
+15738;Zeuthen
+15741;Gräbendorf
+15741;Pätz
+15741;Motzen
+15741;Bestensee
+15745;Wildau
+15746;Groß Köris
+15748;Münchehofe
+15748;Märkisch Buchholz
+15749;Mittenwalde
+15749;Gallun
+15749;Brusendorf
+15749;Ragow
+15749;Kiekebusch
+15751;Niederlehme
+15752;Streganz
+15752;Prieros
+15752;Kolberg
+15754;Gussow
+15754;Friedersdorf
+15754;Bindow
+15754;Wolzig
+15754;Dolgenbrodt
+15754;Dannenreich
+15754;Blossin
+15754;Senzig
+15755;Töpchin
+15755;Teupitz
+15755;Schwerin
+15757;Halbe
+15757;Löpten
+15757;Briesen
+15757;Oderin
+15757;Freidorf
+15758;Zernsdorf
+15758;Kablow
+15806;Groß Schulzendorf
+15806;Kallinchen
+15806;Groß Machnow
+15806;Glienick
+15806;Saalow
+15806;Schöneiche
+15806;Nächst Neuendorf
+15806;Nunsdorf
+15806;Mellensee
+15806;Zossen
+15806;Gadsdorf
+15806;Telz
+15806;Kummersdorf-Alexanderdorf
+15806;Rehagen
+15827;Dahlewitz
+15827;Blankenfelde
+15831;Großziethen
+15831;Groß Kienitz
+15831;Selchow
+15831;Waßmannsdorf
+15831;Mahlow
+15831;Diepensee
+15831;Jühnsdorf
+15834;Rangsdorf
+15837;Baruth/Mark
+15838;Sperenberg
+15838;Klausdorf
+15838;Wünsdorf
+15838;Kummersdorf-Gut
+15848;Speichrow
+15848;Friedland Karras
+15848;Beeskow Bornow
+15848;Friedland Klein Muckrow
+15848;Friedland
+15848;Tauche Görsdorf bei Beeskow
+15848;Friedland Zeust
+15848;Friedland Schadow
+15848;Friedland Reudnitz
+15848;Friedland Pieskow
+15848;Friedland Niewisch
+15848;Beeskow Oegeln
+15848;Friedland Kummerow
+15848;Friedland Groß Briesen
+15848;Friedland Leißnitz
+15848;Tauche Stremmen
+15848;Tauche Werder
+15848;Friedland Chossewitz
+15848;Friedland Lindow
+15848;Beeskow
+15848;Beeskow Kohlsdorf
+15848;Friedland Günthersdorf
+15848;Tauche Trebatsch
+15848;Ragow-Merz Ragow
+15848;Beeskow Krügersdorf
+15848;Rietz-Neuendorf Herzberg
+15848;Rietz-Neuendorf Neubrück (Spree)
+15848;Rietz-Neuendorf Drahendorf
+15848;Rietz-Neuendorf Sauen
+15848;Rietz-Neuendorf Groß Rietz
+15848;Rietz-Neuendorf Görzig
+15848;Rietz-Neuendorf Birkholz
+15848;Tauche Mittweide
+15848;Rietz-Neuendorf Wilmersdorf
+15848;Rietz-Neuendorf Ahrensdorf
+15848;Friedland Friedland
+15848;Friedland Weichensdorf
+15848;Tauche Tauche
+15848;Tauche Ranzig
+15848;Tauche Lindenberg
+15848;Tauche Kossenblatt
+15848;Tauche Falkenberg
+15848;Beeskow Radinkendorf
+15848;Tauche
+15848;Beeskow Schneeberg
+15848;Beeskow Neuendorf
+15848;Rietz-Neuendorf Pfaffendorf
+15848;Rietz-Neuendorf Buckow
+15848;Rietz-Neuendorf Behrensdorf
+15848;Rietz-Neuendorf
+15848;Ragow-Merz Merz
+15848;Ragow-Merz
+15848;Plattkow
+15848;Tauche Giesensdorf
+15848;Tauche Briescht
+15859;Storkow (Mark) Bugk
+15859;Storkow (Mark) Selchow
+15859;Storkow (Mark) Görsdorf bei Storkow
+15859;Storkow (Mark) Wochowsee
+15859;Storkow (Mark)
+15859;Storkow (Mark) Schwerin
+15859;Storkow (Mark) Limsdorf
+15859;Storkow (Mark) Storkow
+15859;Storkow (Mark) Kummersdorf
+15859;Storkow (Mark) Groß Schauen
+15859;Storkow (Mark) Alt Stahnsdorf
+15859;Philadelphia
+15859;Storkow (Mark) Groß Eichholz
+15859;Kummersdorf
+15859;Kehrigk
+15859;Rieplos
+15864;Diensdorf-Radlow
+15864;Rietz-Neuendorf Glienicke
+15864;Wendisch Rietz
+15864;Rietz-Neuendorf
+15868;Friedland
+15868;Ullersdorf
+15868;Lieberose
+15868;Friedland Groß Muckrow
+15868;Doberburg
+15868;Leeskow
+15868;Jamlitz
+15890;Schlaubetal
+15890;Eisenhüttenstadt
+15890;Eisenhüttenstadt Fürstenberg
+15890;Siehdichum Pohlitz
+15890;Siehdichum Rießen
+15890;Schlaubetal Bremsdorf
+15890;Schlaubetal Kieselwitz
+15890;Eisenhüttenstadt Schönfließ
+15890;Eisenhüttenstadt Diehlo
+15890;Vogelsang
+15890;Siehdichum Schernsdorf
+15890;Siehdichum
+15890;Schlaubetal Fünfeichen
+15898;Neißemünde Wellmitz
+15898;Neuzelle Neuzelle
+15898;Neißemünde
+15898;Lawitz
+15898;Neuzelle Göhlen
+15898;Neuzelle Streichwitz
+15898;Neuzelle Kobbeln
+15898;Neißemünde Ratzdorf
+15898;Neuzelle Treppeln
+15898;Neißemünde Coschen
+15898;Neuzelle Steinsdorf
+15898;Neuzelle Schwerzko
+15898;Neuzelle Ossendorf
+15898;Neuzelle Möbiskruge
+15898;Neuzelle Henzendorf
+15898;Neuzelle Bahro
+15898;Neißemünde Breslack
+15898;Neuzelle
+15898;Neuzelle Bomsdorf
+15907;Lübben (Spreewald)
+15910;Schuhlen-Wiese
+15910;Hohenbrück-Neu Schadow
+15910;Gröditsch
+15910;Wittmannsdorf-Bückchen
+15910;Krausnick-Groß Wasserburg
+15910;Alt-Schadow
+15910;Unterspreewald
+15910;Schönwald
+15910;Dürrenhofe
+15910;Schlepzig
+15910;Rietzneuendorf-Staakow
+15910;Pretschen
+15910;Kuschkow
+15913;Lamsfeld-Groß Liebitz
+15913;Alt Zauche
+15913;Goyatz
+15913;Butzen
+15913;Groß Leuthen
+15913;Briesensee
+15913;Straupitz
+15913;Byhlen
+15913;Byhleguhre
+15913;Glietz
+15913;Leibchel
+15913;Mochow
+15913;Ressen-Zaue
+15913;Biebersdorf
+15913;Caminchen
+15913;Dollgen
+15913;Wußwerk
+15913;Sacrow-Waldow
+15913;Neu Zauche
+15913;Groß Leine
+15913;Laasow
+15913;Krugau
+15913;Klein Leine
+15913;Jessern
+15926;Cahnsdorf
+15926;Heideblick Langengrassau
+15926;Heideblick Bornsdorf
+15926;Schlabendorf
+15926;Heideblick
+15926;Heideblick Falkenberg
+15926;Bersteland Niewitz
+15926;Heideblick Beesdau
+15926;Bersteland Reichwalde
+15926;Heideblick Goßmar
+15926;Heideblick Weißack
+15926;Heideblick Riedebeck
+15926;Heideblick Waltersdorf
+15926;Bersteland Freiwalde
+15926;Heideblick Pitschen-Pickel
+15926;Heideblick Gehren
+15926;Luckau
+15926;Duben
+15926;Heideblick Wüstermarke
+15926;Walddrehna
+15926;Görlsdorf
+15926;Bersteland
+15936;Steinreich
+15936;Steinreich Glienig
+15936;Dahmetal
+15936;Dahme/Mark
+15938;Golßen
+15938;Kasel-Golzig
+15938;Steinreich Sellendorf
+15938;Drahnsdorf
+15938;Steinreich
+16225;Eberswalde
+16227;Eberswalde
+16230;Chorin
+16230;Breydin
+16230;Sydower Fließ
+16230;Britz
+16230;Melchow
+16244;Finowfurt
+16244;Altenhof
+16247;Friedrichswalde
+16247;Joachimsthal
+16247;Althüttendorf
+16247;Neugrimnitz
+16247;Ziethen
+16248;Niederfinow
+16248;Liepe
+16248;Bölkendorf
+16248;Lunow-Stolzenhagen
+16248;Hohenfinow
+16248;Oderberg
+16248;Hohensaaten
+16248;Parsteinsee
+16259;Heckelberg-Brunow Heckelberg
+16259;Oderaue Neureetz
+16259;Beiersdorf-Freudenberg Beiersdorf
+16259;Falkenberg Kruge/Gersdorf, Gersdorf
+16259;Neulewin Neulietzegöricke
+16259;Falkenberg Kruge/Gersdorf, Neugersdorf
+16259;Heckelberg-Brunow Brunow
+16259;Höhenland Leuenberg
+16259;Hohenwutzen
+16259;Falkenberg Dannenberg/Mark
+16259;Heckelberg-Brunow
+16259;Falkenberg Kruge/Gersdorf, Kruge
+16259;Oderaue Mädewitz, Neumädewitz
+16259;Neulewin Güstebieser Loose
+16259;Beiersdorf-Freudenberg
+16259;Bralitz
+16259;Oderaue Mädewitz
+16259;Oderaue
+16259;Oderaue Wustrow, Neu-Wustrow
+16259;Tiefensee
+16259;Falkenberg Falkenberg/Mark
+16259;Altglietzen
+16259;Neuenhagen
+16259;Oderaue Wustrow, Wustrow
+16259;Höhenland
+16259;Oderaue Neurüdnitz
+16259;Oderaue Wustrow
+16259;Höhenland Wölsickendorf-Wollenberg, Wollenberg
+16259;Höhenland Steinbeck
+16259;Oderaue Neuküstrinchen
+16259;Oderaue Zäckericker Loose
+16259;Höhenland Wölsickendorf-Wollenberg
+16259;Höhenland Wölsickendorf-Wollenberg, Wölsickendorf
+16259;Schiffmühle
+16259;Falkenberg Kruge/Gersdorf
+16259;Falkenberg
+16259;Oderaue Altreetz
+16259;Neulewin Neulewin
+16259;Neulewin
+16259;Beiersdorf-Freudenberg Freudenberg
+16259;Oderaue Mädewitz, Altmädewitz
+16259;Bad Freienwalde
+16269;Bliesdorf Bliesdorf
+16269;Bliesdorf Metzdorf
+16269;Bliesdorf
+16269;Wriezen
+16269;Wriezener Höhe
+16269;Bliesdorf Kunersdorf
+16278;Greiffenberg
+16278;Görlsdorf
+16278;Gellmersdorf
+16278;Günterberg
+16278;Angermünde
+16278;Biesenbrow
+16278;Kerkow
+16278;Schmargendorf
+16278;Herzsprung
+16278;Bruchhagen
+16278;Wolletz
+16278;Wilmersdorf
+16278;Welsow
+16278;Crussow
+16278;Frauenhagen
+16278;Schmiedeberg
+16278;Stolpe/Oder
+16278;Schöneberg
+16278;Mürow
+16278;Pinnow
+16278;Mark Landin
+16278;Neukünkendorf
+16278;Steinhöfel
+16303;Schwedt/Oder
+16306;Casekow
+16306;Stendell
+16306;Luckow-Petershagen
+16306;Wartin
+16306;Blumberg
+16306;Groß Pinnow
+16306;Friedrichsthal
+16306;Schönow
+16306;Hohenselchow
+16306;Vierraden
+16306;Berkholz-Meyenburg
+16306;Passow
+16306;Zichow
+16306;Biesendahlshof
+16306;Woltersdorf
+16307;Hohenreinkendorf
+16307;Tantow
+16307;Mescherin
+16307;Gartz (Oder)
+16307;Rosow
+16307;Geesow
+16307;Schönfeld
+16307;Radekow
+16307;Neurochlitz
+16321;Rüdnitz
+16321;Bernau
+16321;Schönow
+16321;Lobetal
+16321;Börnicke
+16321;Lindenberg
+16321;Danewitz
+16341;Zepernick
+16341;Schwanebeck
+16348;Groß Schönebeck (Schorfheide)
+16348;Zerpenschleuse
+16348;Klosterfelde
+16348;Marienwerder
+16348;Stolzenhagen
+16348;Wandlitz
+16348;Ruhlsdorf
+16348;Prenden
+16352;Schönerlinde
+16352;Schönwalde
+16352;Basdorf
+16356;Eiche
+16356;Seefeld
+16356;Hirschfelde
+16356;Mehrow
+16356;Blumberg
+16356;Ahrensfelde
+16356;Wilmersdorf
+16356;Werneuchen
+16356;Schönfeld
+16356;Krummensee
+16359;Biesenthal
+16359;Lanke
+16515;Freienhagen
+16515;Nassenheide
+16515;Malz
+16515;Zehlendorf
+16515;Neuholland
+16515;Zühlsdorf
+16515;Schmachtenhagen
+16515;Oranienburg
+16515;Friedrichsthal
+16515;Wensickendorf
+16540;Stolpe
+16540;Hohen Neuendorf
+16547;Birkenwerder
+16548;Glienicke/Nordbahn
+16552;Schildow
+16556;Borgsdorf
+16559;Hammer
+16559;Liebenthal
+16559;Liebenwalde
+16559;Kreuzbruch
+16562;Bergfelde
+16565;Lehnitz
+16567;Schönfließ
+16567;Mühlenbeck
+16727;Oberkrämer
+16727;Velten
+16761;Hennigsdorf
+16766;Oberkrämer
+16766;Kremmen
+16767;Germendorf
+16767;Leegebruch
+16775;Sonnenberg
+16775;Gransee
+16775;Großwoltersdorf
+16775;Barsdorf
+16775;Krewelin
+16775;Kappe
+16775;Marienthal
+16775;Rönnebeck
+16775;Löwenberger Land
+16775;Schönermark
+16775;Mildenberg
+16775;Tornow
+16775;Badingen
+16775;Zabelsdorf
+16775;Bredereiche
+16775;Stechlin
+16775;Blumenow
+16775;Schulzendorf
+16775;Burgwall
+16775;Klein-Mutz
+16792;Kurtschlag
+16792;Wesendorf
+16792;Zehdenick
+16798;Steinförde
+16798;Zootzen
+16798;Fürstenberg/Havel
+16798;Altthymen
+16798;Himmelpfort
+16816;Neuruppin
+16818;Basdorf
+16818;Märkisch Linden
+16818;Fehrbellin Wall
+16818;Fehrbellin Langen
+16818;Walsleben
+16818;Dabergotz
+16818;Fehrbellin Wustrau-Altfriesack
+16818;Fehrbellin Deutschhof
+16818;Temnitzquell
+16818;Rheinsberg Braunsberg
+16818;Storbeck-Frankendorf
+16827;Alt Ruppin
+16831;Rheinsberg Zechow
+16831;Rheinsberg Heinrichsdorf
+16831;Rheinsberg Schwanow
+16831;Rheinsberg Zühlen
+16831;Rheinsberg Zechlinerhütte
+16831;Rheinsberg Kleinzerlang
+16831;Rheinsberg Großzerlang
+16831;Rheinsberg
+16831;Rheinsberg Linow
+16833;Fehrbellin Dechtow
+16833;Fehrbellin Linum
+16833;Fehrbellin Betzin
+16833;Fehrbellin Protzen
+16833;Fehrbellin Lentzke
+16833;Fehrbellin
+16833;Fehrbellin Brunne
+16833;Fehrbellin Königshorst
+16833;Fehrbellin Walchow
+16833;Fehrbellin Tarmow
+16833;Fehrbellin Karwesee
+16833;Fehrbellin Hakenberg
+16835;Seebeck-Strubensee
+16835;Lindow (Mark)
+16835;Vielitz
+16835;Lindow (Mark) Schönberg (Mark)
+16835;Herzberg
+16835;Rheinsberg Dierberg
+16835;Rüthnick
+16835;Lindow (Mark) Hindenberg
+16837;Rheinsberg Kagar
+16837;Rheinsberg Dorf Zechlin
+16837;Rheinsberg Flecken Zechlin
+16837;Rheinsberg Wallitz
+16837;Rheinsberg Luhme
+16837;Wittstock/Dosse Zempow
+16845;Großderschau
+16845;Stüdenitz-Schönermark
+16845;Breddin
+16845;Temnitztal
+16845;Temnitztal Wildberg
+16845;Zernitz-Lohm
+16845;Fehrbellin Manker
+16845;Kyritz Holzhausen
+16845;Märkisch Linden
+16845;Dreetz
+16845;Sieversdorf-Hohenofen
+16845;Neustadt (Dosse)
+16845;Temnitztal Garz
+16866;Bork-Lellichow
+16866;Gumtow
+16866;Groß Welle
+16866;Görike
+16866;Döllen
+16866;Kyritz Kötzlin
+16866;Barenthin
+16866;Teetz-Ganz
+16866;Dannenwalde
+16866;Schönhagen
+16866;Kunow
+16866;Demerthin
+16866;Kyritz Drewen
+16866;Granzow
+16866;Kolrep
+16866;Vehlin
+16866;Vehlow
+16866;Kyritz
+16866;Rehfeld-Berlitt
+16866;Wutike
+16866;Schrepkow
+16868;Wusterhausen (Dosse)
+16909;Heiligengrabe Liebenthal
+16909;Heiligengrabe Jabel
+16909;Heiligengrabe Grabow bei Blumenthal
+16909;Heiligengrabe Blandikow
+16909;Heiligengrabe
+16909;Wittstock/Dosse Dossow
+16909;Wittstock/Dosse Sewekow
+16909;Wittstock/Dosse Herzsprung
+16909;Heiligengrabe Blesendorf
+16909;Wittstock/Dosse Christdorf
+16909;Heiligengrabe Zaatzke
+16909;Heiligengrabe Wernikow
+16909;Wittstock/Dosse Zootzen
+16909;Wittstock/Dosse Wulfersdorf
+16909;Wittstock/Dosse Schweinrich
+16909;Wittstock/Dosse Rossow
+16909;Wittstock/Dosse Niemerlang
+16909;Wittstock/Dosse Groß Haßlow
+16909;Wittstock/Dosse Gadow
+16909;Wittstock/Dosse Dranse
+16909;Heiligengrabe Papenbruch
+16909;Wittstock/Dosse Fretzdorf
+16909;Heiligengrabe Maulbeerwalde
+16909;Wittstock/Dosse Königsberg
+16909;Wittstock/Dosse Berlinchen
+16909;Wittstock/Dosse Goldbeck
+16909;Wittstock/Dosse
+16918;Wittstock/Dosse Freyenstein
+16921;Alt Krüssow
+16928;Hoppenrade
+16928;Tüchen
+16928;Groß Pankow
+16928;Kuhbier
+16928;Schönebeck
+16928;Buchholz
+16928;Kemnitz
+16928;Beveringen
+16928;Kehrberg
+16928;Mesendorf
+16928;Sadenbeck
+16928;Groß Woltersdorf
+16928;Alt Krüssow
+16928;Heiligengrabe Blumenthal
+16928;Boddin-Langnow
+16928;Vettin
+16928;Gerdshagen
+16928;Pritzwalk
+16928;Heiligengrabe Rosenwinkel
+16928;Lindenberg
+16928;Wilmersdorf
+16928;Kuhsdorf
+16928;Steffenshagen
+16928;Falkenhagen
+16928;Helle
+16928;Klein Woltersdorf
+16945;Meyenburg
+16945;Kümmernitztal
+16945;Marienfließ
+16945;Halenbeck-Rohlsdorf
+16949;Putlitz
+16949;Triglitz
+17268;Storkow
+17268;Petznick
+17268;Gollin
+17268;Röddelin
+17268;Milmersdorf
+17268;Gerswalde
+17268;Mittenwalde
+17268;Beutel
+17268;Hammelspring
+17268;Herzfelde
+17268;Densow
+17268;Flieth-Stegelitz
+17268;Grunewald
+17268;Templin
+17268;Temmen-Ringenwalde
+17268;Boitzenburger Land
+17268;Groß Dölln
+17268;Vietmannsdorf
+17268;Klosterwalde
+17268;Gandenitz
+17279;Lychen
+17291;Göritz
+17291;Carmzow-Wallmow
+17291;Randowtal
+17291;Prenzlau
+17291;Uckerfelde
+17291;Oberuckersee
+17291;Nordwestuckermark
+17291;Gramzow
+17291;Schenkenberg
+17291;Grünow
+17291;Schönfeld
+17326;Brüssow
+19309;Lenzen (Elbe)
+19309;Besandten
+19309;Lanz
+19309;Mellen
+19309;Eldenburg
+19309;Wootz
+19322;Cumlosen
+19322;Breese
+19322;Rühstädt
+19322;Wittenberge
+19322;Weisen
+19322;Groß Breese
+19336;Bad Wilsnack
+19336;Viesecke
+19336;Kletzke
+19336;Legde/Quitzöbel
+19339;Netzow
+19339;Glöwen
+19339;Bendelin
+19348;Perleberg
+19348;Berge
+19348;Retzin
+19348;Pirow
+19348;Klein Gottschow
+19348;Gülitz-Reetz
+19348;Krampfer
+19348;Nebelin
+19348;Wolfshagen
+19348;Kleinow
+19348;Baek
+10115;Berlin
+10117;Berlin
+10119;Berlin
+10178;Berlin
+10179;Berlin
+10243;Berlin Friedrichshain
+10245;Berlin Friedrichshain
+10247;Berlin Friedrichshain
+10249;Berlin Friedrichshain
+10315;Berlin
+10317;Berlin
+10318;Berlin
+10319;Berlin
+10365;Berlin
+10367;Berlin
+10369;Berlin
+10405;Berlin
+10407;Berlin
+10409;Berlin
+10435;Berlin
+10437;Berlin
+10439;Berlin
+10551;Berlin
+10553;Berlin
+10555;Berlin
+10557;Berlin
+10559;Berlin
+10585;Berlin
+10587;Berlin
+10589;Berlin
+10623;Berlin
+10625;Berlin
+10627;Berlin
+10629;Berlin
+10707;Berlin
+10709;Berlin
+10711;Berlin
+10713;Berlin
+10715;Berlin
+10717;Berlin
+10719;Berlin
+10777;Berlin
+10779;Berlin
+10781;Berlin
+10783;Berlin
+10785;Berlin
+10787;Berlin
+10789;Berlin
+10823;Berlin
+10825;Berlin
+10827;Berlin
+10829;Berlin
+10961;Berlin Kreuzberg
+10963;Berlin Kreuzberg
+10965;Berlin Kreuzberg
+10967;Berlin Kreuzberg
+10969;Berlin Kreuzberg
+10997;Berlin Kreuzberg
+10999;Berlin Kreuzberg
+12043;Berlin
+12045;Berlin
+12047;Berlin
+12049;Berlin
+12051;Berlin
+12053;Berlin
+12055;Berlin
+12057;Berlin
+12059;Berlin
+12099;Berlin
+12101;Berlin
+12103;Berlin
+12105;Berlin
+12107;Berlin
+12109;Berlin
+12157;Berlin
+12159;Berlin
+12161;Berlin
+12163;Berlin
+12165;Berlin
+12167;Berlin
+12169;Berlin
+12203;Berlin
+12205;Berlin
+12207;Berlin
+12209;Berlin
+12247;Berlin
+12249;Berlin
+12277;Berlin
+12279;Berlin
+12305;Berlin
+12307;Berlin
+12309;Berlin
+12347;Berlin
+12349;Berlin
+12351;Berlin
+12353;Berlin
+12355;Berlin
+12357;Berlin
+12359;Berlin
+12435;Berlin
+12437;Berlin
+12439;Berlin
+12459;Berlin
+12487;Berlin
+12489;Berlin
+12524;Berlin
+12526;Berlin
+12527;Berlin
+12555;Berlin
+12557;Berlin
+12559;Berlin
+12587;Berlin
+12589;Berlin
+12619;Berlin
+12621;Berlin
+12623;Berlin
+12627;Berlin
+12629;Berlin
+12679;Berlin
+12681;Berlin
+12683;Berlin
+12685;Berlin
+12687;Berlin
+12689;Berlin
+13051;Berlin
+13053;Berlin
+13055;Berlin
+13057;Berlin
+13059;Berlin
+13086;Berlin
+13088;Berlin
+13089;Berlin
+13125;Berlin
+13127;Berlin
+13129;Berlin
+13156;Berlin
+13158;Berlin
+13159;Berlin
+13187;Berlin
+13189;Berlin
+13347;Berlin
+13349;Berlin
+13351;Berlin
+13353;Berlin
+13355;Berlin
+13357;Berlin
+13359;Berlin
+13403;Berlin
+13405;Berlin
+13407;Berlin
+13409;Berlin
+13435;Berlin
+13437;Berlin
+13439;Berlin
+13465;Berlin
+13467;Berlin
+13469;Berlin
+13503;Berlin
+13505;Berlin
+13507;Berlin
+13509;Berlin
+13581;Berlin
+13583;Berlin
+13585;Berlin
+13587;Berlin
+13589;Berlin
+13591;Berlin
+13593;Berlin
+13595;Berlin
+13597;Berlin
+13599;Berlin
+13627;Berlin
+13629;Berlin
+14050;Berlin
+14052;Berlin
+14053;Berlin
+14055;Berlin
+14057;Berlin
+14059;Berlin
+14089;Berlin
+14109;Berlin
+14129;Berlin
+14131;Berlin
+14163;Berlin
+14165;Berlin
+14167;Berlin
+14169;Berlin
+14193;Berlin
+14195;Berlin
+14197;Berlin
+14199;Berlin
+70173;Stuttgart Stuttgart-Mitte
+70173;Stuttgart
+70174;Stuttgart Stuttgart-Nord
+70174;Stuttgart Stuttgart-Mitte
+70174;Stuttgart
+70176;Stuttgart Stuttgart-Mitte
+70176;Stuttgart Stuttgart-West
+70176;Stuttgart
+70178;Stuttgart Stuttgart-Mitte
+70178;Stuttgart
+70178;Stuttgart Stuttgart-West
+70178;Stuttgart Stuttgart-Süd
+70180;Stuttgart Stuttgart-Süd
+70180;Stuttgart Stuttgart-Mitte
+70180;Stuttgart
+70182;Stuttgart
+70182;Stuttgart Stuttgart-Mitte
+70184;Stuttgart
+70184;Stuttgart Stuttgart-Ost
+70184;Stuttgart Stuttgart-Süd
+70184;Stuttgart Frauenkopf
+70184;Stuttgart Stuttgart-Mitte
+70186;Stuttgart
+70186;Stuttgart Stuttgart-Ost
+70188;Stuttgart Stuttgart-Mitte
+70188;Stuttgart
+70188;Stuttgart Stuttgart-Ost
+70190;Stuttgart Stuttgart-Mitte
+70190;Stuttgart
+70190;Stuttgart Stuttgart-Ost
+70191;Stuttgart Stuttgart-Nord
+70191;Stuttgart Bad Cannstatt
+70191;Stuttgart
+70192;Stuttgart Stuttgart-Nord
+70192;Stuttgart Feuerbach
+70192;Stuttgart
+70193;Stuttgart Stuttgart-West
+70193;Stuttgart
+70193;Stuttgart Stuttgart-Nord
+70195;Stuttgart
+70195;Stuttgart Botnang
+70197;Stuttgart Stuttgart-West
+70197;Stuttgart
+70199;Stuttgart Stuttgart-Süd
+70199;Stuttgart Stuttgart-West
+70199;Stuttgart
+70327;Stuttgart Untertürkheim
+70327;Stuttgart Wangen
+70327;Stuttgart Stuttgart-Ost
+70327;Stuttgart
+70327;Stuttgart Luginsland
+70327;Stuttgart Rotenberg
+70327;Stuttgart Hedelfingen
+70329;Stuttgart Uhlbach
+70329;Stuttgart Rohracker
+70329;Stuttgart
+70329;Stuttgart Obertürkheim
+70372;Stuttgart Bad Cannstatt
+70372;Stuttgart
+70374;Stuttgart
+70374;Stuttgart Bad Cannstatt
+70374;Stuttgart Sommerrain
+70376;Stuttgart
+70376;Stuttgart Burgholzhof
+70376;Stuttgart Münster
+70376;Stuttgart Bad Cannstatt
+70378;Stuttgart
+70435;Stuttgart Zuffenhausen
+70435;Stuttgart
+70437;Stuttgart Mönchfeld
+70437;Stuttgart Zuffenhausen
+70437;Stuttgart
+70437;Stuttgart Zazenhausen
+70437;Stuttgart Rot
+70437;Stuttgart Freiberg
+70439;Stuttgart Stammheim
+70439;Stuttgart
+70439;Stuttgart Neuwirtshaus
+70439;Stuttgart Zuffenhausen
+70469;Stuttgart Zuffenhausen
+70469;Stuttgart Feuerbach
+70469;Stuttgart
+70499;Stuttgart Wolfbusch
+70499;Stuttgart
+70499;Stuttgart Giebel
+70499;Stuttgart Zuffenhausen
+70499;Stuttgart Bergheim
+70499;Stuttgart Hausen
+70499;Stuttgart Weilimdorf
+70563;Stuttgart
+70563;Stuttgart Vaihingen
+70563;Stuttgart Möhringen
+70565;Stuttgart Dürrlewang
+70565;Stuttgart Vaihingen
+70565;Stuttgart Möhringen
+70565;Stuttgart Fasanenhof
+70565;Stuttgart Rohr
+70565;Stuttgart
+70567;Stuttgart
+70567;Stuttgart Degerloch
+70567;Stuttgart Möhringen
+70569;Stuttgart Kaltental
+70569;Stuttgart
+70569;Stuttgart Vaihingen
+70569;Stuttgart Büsnau
+70597;Stuttgart Degerloch
+70597;Stuttgart
+70597;Stuttgart Kaltental
+70597;Stuttgart Hoffeld
+70597;Stuttgart Sonnenberg
+70597;Stuttgart Möhringen
+70599;Stuttgart
+70599;Stuttgart Asemwald
+70599;Stuttgart Birkach
+70599;Stuttgart Steckfeld
+70599;Stuttgart Schönberg
+70599;Stuttgart Plieningen
+70599;Stuttgart Hohenheim
+70619;Stuttgart Sillenbuch
+70619;Stuttgart Heumaden
+70619;Stuttgart Lederberg
+70619;Stuttgart Riedenberg
+70619;Stuttgart
+70629;Stuttgart
+70629;Stuttgart Flughafen
+70734;Fellbach
+70736;Fellbach
+70771;Leinfelden-Echterdingen
+70794;Filderstadt
+70806;Kornwestheim
+70825;Korntal-Münchingen
+70839;Gerlingen
+71032;Böblingen
+71034;Böblingen
+71063;Sindelfingen
+71065;Sindelfingen
+71067;Sindelfingen
+71083;Herrenberg
+71088;Holzgerlingen
+71093;Weil im Schönbuch
+71101;Schönaich
+71106;Magstadt
+71111;Waldenbuch
+71116;Gärtringen
+71120;Grafenau
+71126;Gäufelden
+71131;Jettingen
+71134;Aidlingen
+71139;Ehningen
+71144;Steinenbronn
+71149;Bondorf
+71154;Nufringen
+71155;Altdorf
+71157;Hildrizhausen
+71159;Mötzingen
+71229;Leonberg
+71254;Ditzingen
+71263;Weil der Stadt
+71272;Renningen
+71277;Rutesheim
+71282;Hemmingen
+71287;Weissach
+71332;Waiblingen
+71334;Waiblingen
+71336;Waiblingen
+71364;Winnenden
+71384;Weinstadt
+71394;Kernen im Remstal
+71397;Leutenbach
+71404;Korb
+71409;Schwaikheim
+71522;Backnang
+71540;Murrhardt
+71543;Beilstein
+71543;Wüstenrot
+71546;Aspach
+71549;Auenwald
+71554;Weissach im Tal
+71560;Sulzbach an der Murr
+71563;Affalterbach
+71566;Althütte
+71570;Oppenweiler
+71573;Allmersbach im Tal
+71576;Burgstetten
+71577;Großerlach
+71579;Spiegelberg
+71634;Ludwigsburg
+71636;Ludwigsburg
+71638;Ludwigsburg
+71640;Ludwigsburg
+71642;Ludwigsburg
+71665;Vaihingen an der Enz
+71672;Marbach am Neckar
+71679;Asperg
+71686;Remseck am Neckar
+71691;Freiberg am Neckar
+71696;Möglingen
+71701;Schwieberdingen
+71706;Markgröningen
+71711;Murr
+71711;Steinheim an der Murr
+71717;Beilstein
+71718;Billensbach
+71720;Oberstenfeld
+71723;Großbottwar
+71726;Benningen am Neckar
+71729;Erdmannhausen
+71732;Tamm
+71735;Eberdingen
+71737;Kirchberg an der Murr
+71739;Oberriexingen
+72622;Nürtingen
+72631;Aichtal
+72636;Frickenhausen
+72639;Neuffen
+72644;Oberboihingen
+72649;Wolfschlugen
+72654;Neckartenzlingen
+72655;Altdorf
+72657;Altenriet
+72658;Bempflingen
+72660;Beuren
+72663;Großbettlingen
+72664;Kohlberg
+72666;Neckartailfingen
+72667;Schlaitdorf
+72669;Unterensingen
+73033;Göppingen
+73035;Göppingen
+73037;Göppingen
+73054;Eislingen/Fils
+73061;Ebersbach an der Fils
+73066;Uhingen
+73072;Donzdorf
+73079;Süßen
+73084;Salach
+73087;Boll
+73092;Heiningen
+73095;Albershausen
+73098;Rechberghausen
+73099;Adelberg
+73101;Aichelberg
+73102;Birenbach
+73104;Börtlingen
+73105;Dürnau
+73107;Eschenbach
+73108;Gammelshausen
+73110;Hattenhofen
+73111;Lauterstein
+73113;Ottenbach
+73114;Schlat
+73116;Wäschenbeuren
+73117;Wangen
+73119;Zell unter Aichelberg
+73207;Plochingen
+73230;Kirchheim unter Teck
+73235;Weilheim an der Teck
+73240;Wendlingen am Neckar
+73249;Wernau
+73252;Lenningen
+73257;Köngen
+73262;Reichenbach an der Fils
+73265;Dettingen unter Teck
+73266;Bissingen an der Teck
+73268;Erkenbrechtsweiler
+73269;Hochdorf
+73271;Holzmaden
+73272;Neidlingen
+73274;Notzingen
+73275;Ohmden
+73277;Owen
+73278;Schlierbach
+73312;Geislingen an der Steige
+73312;Geislingen an der Steige Türkheim
+73312;Geislingen an der Steige Aufhausen
+73326;Deggingen
+73329;Kuchen
+73333;Gingen an der Fils
+73337;Bad Überkingen
+73342;Bad Ditzenbach
+73344;Gruibingen
+73345;Drackenstein
+73345;Hohenstadt
+73347;Mühlhausen im Täle
+73349;Wiesensteig
+73430;Aalen
+73431;Aalen
+73432;Aalen
+73433;Aalen
+73434;Aalen
+73441;Bopfingen
+73447;Oberkochen
+73450;Neresheim
+73453;Abtsgmünd
+73457;Essingen
+73460;Hüttlingen
+73463;Westhausen
+73466;Lauchheim
+73467;Kirchheim am Ries
+73469;Riesbürg
+73479;Ellwangen (Jagst)
+73485;Unterschneidheim
+73486;Adelmannsfelden
+73488;Ellenberg
+73489;Jagstzell
+73491;Neuler
+73492;Rainau
+73494;Rosenberg
+73495;Stödtlen
+73497;Tannhausen
+73499;Wört
+73525;Schwäbisch Gmünd
+73527;Schwäbisch Gmünd
+73527;Täferrot
+73529;Schwäbisch Gmünd
+73540;Heubach
+73547;Lorch
+73550;Waldstetten
+73553;Alfdorf
+73557;Mutlangen
+73560;Böbingen an der Rems
+73563;Mögglingen
+73565;Spraitbach
+73566;Bartholomä
+73568;Durlangen
+73569;Obergröningen
+73569;Eschach
+73571;Göggingen
+73572;Heuchlingen
+73574;Iggingen
+73575;Leinzell
+73577;Ruppertshofen
+73579;Schechingen
+73614;Schorndorf
+73630;Remshalden
+73635;Rudersberg
+73642;Welzheim
+73650;Winterbach
+73655;Plüderhausen
+73660;Urbach
+73663;Berglen
+73666;Baltmannsweiler
+73667;Kaisersbach
+73669;Lichtenwald
+73728;Esslingen am Neckar
+73730;Esslingen am Neckar
+73732;Esslingen am Neckar
+73733;Esslingen am Neckar
+73734;Esslingen am Neckar
+73760;Ostfildern
+73765;Neuhausen auf den Fildern
+73770;Denkendorf
+73773;Aichwald
+73776;Altbach
+73779;Deizisau
+74072;Heilbronn
+74074;Heilbronn
+74076;Heilbronn
+74078;Heilbronn
+74080;Heilbronn
+74081;Heilbronn
+74172;Neckarsulm
+74177;Bad Friedrichshall
+74182;Obersulm
+74189;Weinsberg
+74193;Schwaigern
+74196;Neuenstadt am Kocher
+74199;Untergruppenbach
+74206;Bad Wimpfen
+74211;Leingarten
+74214;Schöntal
+74219;Möckmühl
+74223;Flein
+74226;Nordheim
+74229;Oedheim
+74232;Abstatt
+74235;Erlenbach
+74238;Krautheim
+74239;Hardthausen am Kocher
+74243;Langenbrettach
+74245;Löwenstein
+74246;Eberstadt
+74248;Ellhofen
+74249;Jagsthausen
+74251;Lehrensteinsfeld
+74252;Massenbachhausen
+74254;Offenau
+74255;Roigheim
+74257;Untereisesheim
+74259;Widdern
+74321;Bietigheim-Bissingen
+74336;Brackenheim
+74337;Botenheim
+74343;Sachsenheim
+74348;Lauffen am Neckar
+74354;Besigheim
+74357;Bönnigheim
+74360;Ilsfeld
+74363;Güglingen
+74366;Kirchheim am Neckar
+74369;Löchgau
+74372;Sersheim
+74374;Zaberfeld
+74376;Gemmrigheim
+74379;Ingersheim
+74382;Neckarwestheim
+74385;Pleidelsheim
+74388;Talheim
+74389;Cleebronn
+74391;Erligheim
+74392;Freudental
+74394;Hessigheim
+74395;Mundelsheim
+74397;Pfaffenhofen
+74399;Walheim
+74405;Gaildorf
+74417;Gschwend
+74420;Oberrot
+74423;Obersontheim
+74424;Bühlertann
+74426;Bühlerzell
+74427;Fichtenberg
+74429;Sulzbach-Laufen
+74523;Schwäbisch Hall
+74532;Ilshofen
+74535;Mainhardt
+74538;Rosengarten
+74541;Vellberg
+74542;Braunsbach
+74544;Michelbach an der Bilz
+74545;Michelfeld
+74547;Untermünkheim
+74549;Wolpertshausen
+74564;Crailsheim
+74572;Blaufelden
+74575;Schrozberg
+74579;Fichtenau
+74582;Gerabronn
+74585;Rot am See
+74586;Frankenhardt
+74589;Satteldorf
+74592;Kirchberg an der Jagst
+74594;Kreßberg
+74595;Langenburg
+74597;Stimpfach
+74599;Wallhausen
+74613;Öhringen
+74626;Bretzfeld
+74629;Pfedelbach
+74632;Neuenstein
+74635;Kupferzell
+74638;Waldenburg
+74639;Zweiflingen
+74653;Künzelsau
+74653;Ingelfingen
+74670;Forchtenberg
+74673;Mulfingen
+74676;Niedernhall
+74677;Dörzbach
+74679;Weißbach
+74744;Ahorn
+74831;Gundelsheim
+74832;Bachenau
+74861;Neudenau
+74906;Bad Rappenau
+74912;Kirchardt
+74930;Ittlingen
+74936;Siegelsbach
+75031;Eppingen
+75050;Gemmingen
+75392;Deckenpfronn
+89168;Niederstotzingen
+89518;Heidenheim an der Brenz
+89520;Heidenheim an der Brenz
+89522;Heidenheim an der Brenz
+89537;Giengen an der Brenz
+89542;Herbrechtingen
+89547;Gerstetten
+89551;Königsbronn
+89555;Steinheim am Albuch
+89558;Böhmenkirch
+89561;Dischingen
+89564;Nattheim
+89567;Sontheim an der Brenz
+89568;Hermaringen
+97877;Wertheim
+97896;Freudenberg
+97900;Külsheim
+97922;Lauda-Königshofen
+97941;Tauberbischofsheim
+97944;Boxberg
+97947;Grünsfeld
+97950;Großrinderfeld
+97953;Königheim
+97956;Werbach
+97957;Wittighausen
+97959;Assamstadt
+97980;Bad Mergentheim
+97990;Weikersheim
+97993;Creglingen
+97996;Niederstetten
+97999;Igersheim
+68159;Mannheim
+68161;Mannheim
+68163;Mannheim
+68165;Mannheim
+68167;Mannheim
+68169;Mannheim
+68199;Mannheim
+68219;Mannheim
+68229;Mannheim
+68239;Mannheim
+68259;Mannheim
+68305;Mannheim
+68307;Mannheim
+68309;Mannheim
+68526;Ladenburg
+68535;Edingen-Neckarhausen
+68542;Heddesheim
+68549;Ilvesheim
+68723;Plankstadt
+68723;Schwetzingen
+68723;Oftersheim
+68753;Waghäusel
+68766;Hockenheim
+68775;Ketsch
+68782;Brühl
+68789;Sankt Leon-Rot
+68794;Oberhausen-Rheinhausen
+68799;Reilingen
+68804;Altlußheim
+68809;Neulußheim
+69115;Heidelberg
+69117;Heidelberg
+69118;Heidelberg
+69120;Heidelberg
+69121;Heidelberg
+69123;Heidelberg
+69124;Heidelberg
+69126;Heidelberg
+69151;Neckargemünd
+69168;Wiesloch
+69181;Leimen
+69190;Walldorf
+69198;Schriesheim
+69207;Sandhausen
+69214;Eppelheim
+69221;Dossenheim
+69226;Nußloch
+69231;Rauenberg
+69234;Dielheim
+69242;Mühlhausen
+69245;Bammental
+69250;Schönau
+69251;Gaiberg
+69253;Heiligkreuzsteinach
+69254;Malsch
+69256;Mauer
+69257;Wiesenbach
+69259;Wilhelmsfeld
+69412;Eberbach
+69427;Mudau
+69429;Waldbrunn
+69436;Schönbrunn
+69437;Neckargerach
+69439;Zwingenberg
+69469;Weinheim
+69493;Hirschberg an der Bergstraße
+69502;Hemsbach
+69514;Laudenbach
+71292;Friolzheim
+71296;Heimsheim
+71297;Mönsheim
+71299;Wimsheim
+72160;Horb am Neckar
+72178;Waldachtal
+72184;Eutingen im Gäu
+72186;Empfingen
+72202;Nagold
+72213;Altensteig
+72218;Wildberg
+72221;Haiterbach
+72224;Ebhausen
+72226;Simmersfeld
+72227;Egenhausen
+72229;Rohrdorf
+72250;Freudenstadt
+72270;Baiersbronn
+72275;Alpirsbach
+72280;Dornstetten
+72285;Pfalzgrafenweiler
+72290;Loßburg
+72291;Betzweiler-Wälde
+72293;Glatten
+72294;Grömbach
+72296;Schopfloch
+72297;Seewald
+72299;Wörnersberg
+74706;Osterburken
+74722;Buchen (Odenwald)
+74731;Walldürn
+74736;Hardheim
+74740;Adelsheim
+74743;Seckach
+74746;Höpfingen
+74747;Ravenstein
+74749;Rosenberg
+74821;Mosbach
+74834;Elztal
+74838;Limbach
+74842;Billigheim
+74847;Obrigheim
+74850;Schefflenz
+74855;Haßmersheim
+74858;Aglasterhausen
+74862;Binau
+74864;Fahrenbach
+74865;Neckarzimmern
+74867;Neunkirchen
+74869;Schwarzach
+74889;Sinsheim
+74909;Meckesheim
+74915;Waibstadt
+74918;Angelbachtal
+74921;Helmstadt-Bargen
+74924;Neckarbischofsheim
+74925;Epfenbach
+74927;Eschelbronn
+74928;Hüffenhardt
+74931;Lobbach
+74933;Neidenstein
+74934;Reichartshausen
+74937;Spechbach
+74939;Zuzenhausen
+75015;Bretten
+75038;Oberderdingen
+75045;Walzbachtal
+75053;Gondelsheim
+75056;Sulzfeld
+75057;Kürnbach
+75059;Zaisenhausen
+75172;Pforzheim
+75173;Pforzheim
+75175;Pforzheim
+75177;Pforzheim
+75179;Pforzheim
+75180;Pforzheim
+75181;Pforzheim
+75196;Remchingen
+75203;Königsbach-Stein
+75210;Keltern
+75217;Birkenfeld
+75223;Niefern-Öschelbronn
+75228;Ispringen
+75233;Tiefenbronn
+75236;Kämpfelbach
+75239;Eisingen
+75242;Neuhausen
+75245;Neulingen
+75248;Ölbronn-Dürrn
+75249;Kieselbronn
+75305;Neuenbürg
+75323;Bad Wildbad im Schwarzwald
+75328;Schömberg
+75331;Engelsbrand
+75334;Straubenhardt
+75335;Dobel
+75337;Enzklösterle
+75339;Höfen an der Enz
+75365;Calw
+75378;Bad Liebenzell
+75382;Althengstett
+75385;Bad Teinach-Zavelstein
+75387;Neubulach
+75389;Neuweiler
+75391;Gechingen
+75394;Oberreichenbach
+75395;Ostelsheim
+75397;Simmozheim
+75399;Unterreichenbach
+75417;Mühlacker
+75428;Illingen
+75433;Maulbronn
+75438;Knittlingen
+75443;Ötisheim
+75446;Wiernsheim
+75447;Sternenfels
+75449;Wurmberg
+76131;Karlsruhe
+76133;Karlsruhe
+76135;Karlsruhe
+76137;Karlsruhe
+76139;Karlsruhe
+76149;Karlsruhe
+76185;Karlsruhe
+76187;Karlsruhe
+76189;Karlsruhe
+76199;Karlsruhe
+76227;Karlsruhe
+76228;Karlsruhe
+76229;Karlsruhe
+76275;Ettlingen
+76287;Rheinstetten
+76297;Stutensee
+76307;Karlsbad
+76316;Malsch
+76327;Pfinztal
+76332;Bad Herrenalb
+76337;Waldbronn
+76344;Eggenstein-Leopoldshafen
+76351;Linkenheim-Hochstetten
+76356;Weingarten
+76359;Marxzell
+76437;Rastatt
+76448;Durmersheim
+76456;Kuppenheim
+76461;Muggensturm
+76467;Bietigheim
+76470;Ötigheim
+76473;Iffezheim
+76474;Au am Rhein
+76476;Bischweier
+76477;Elchesheim-Illingen
+76479;Steinmauern
+76530;Baden-Baden
+76532;Baden-Baden
+76534;Baden-Baden
+76547;Sinzheim
+76549;Hügelsheim
+76571;Gaggenau
+76593;Gernsbach
+76596;Forbach
+76597;Loffenau
+76599;Weisenbach
+76646;Bruchsal
+76661;Philippsburg
+76669;Bad Schönborn
+76676;Graben-Neudorf
+76684;Östringen
+76689;Karlsdorf-Neuthard
+76694;Forst
+76698;Ubstadt-Weiher
+76703;Kraichtal
+76706;Dettenheim
+76707;Hambrücken
+76709;Kronau
+77776;Bad Rippoldsau-Schapbach
+77815;Bühl
+77830;Bühlertal
+77833;Ottersweier
+77836;Rheinmünster
+77839;Lichtenau
+72172;Sulz am Neckar
+72175;Dornhan
+72189;Vöhringen
+77652;Offenburg
+77654;Offenburg
+77656;Offenburg
+77694;Kehl
+77704;Oberkirch
+77709;Wolfach
+77709;Oberwolfach
+77716;Fischerbach
+77716;Hofstetten
+77716;Haslach im Kinzigtal
+77723;Gengenbach
+77728;Oppenau
+77731;Willstätt
+77736;Zell am Harmersbach
+77740;Bad Peterstal-Griesbach
+77743;Neuried
+77746;Schutterwald
+77749;Hohberg
+77756;Hausach
+77761;Schiltach
+77767;Appenweier
+77770;Durbach
+77773;Schenkenzell
+77781;Biberach
+77784;Oberharmersbach
+77787;Nordrach
+77790;Steinach
+77791;Berghaupten
+77793;Gutach (Schwarzwaldbahn)
+77794;Lautenbach
+77796;Mühlenbach
+77797;Ohlsbach
+77799;Ortenberg
+77855;Achern
+77866;Rheinau
+77871;Renchen
+77876;Kappelrodeck
+77880;Sasbach
+77883;Ottenhöfen im Schwarzwald
+77886;Lauf
+77887;Sasbachwalden
+77889;Seebach
+77933;Lahr/Schwarzwald
+77948;Friesenheim
+77955;Ettenheim
+77960;Seelbach
+77963;Schwanau
+77966;Kappel-Grafenhausen
+77971;Kippenheim
+77972;Mahlberg
+77974;Meißenheim
+77975;Ringsheim
+77977;Rust
+77978;Schuttertal
+78048;Villingen-Schwenningen
+78050;Villingen-Schwenningen
+78052;Villingen-Schwenningen
+78054;Villingen-Schwenningen
+78056;Villingen-Schwenningen
+78073;Bad Dürrheim
+78078;Niedereschach
+78083;Dauchingen
+78086;Brigachtal
+78087;Mönchweiler
+78089;Unterkirnach
+78098;Triberg
+78112;Sankt Georgen im Schwarzwald
+78120;Furtwangen im Schwarzwald
+78126;Königsfeld im Schwarzwald
+78132;Hornberg
+78136;Schonach im Schwarzwald
+78141;Schönwald im Schwarzwald
+78144;Tennenbronn
+78147;Vöhrenbach
+78148;Gütenbach
+78166;Donaueschingen
+78176;Blumberg
+78183;Hüfingen
+78187;Geisingen
+78194;Immendingen
+78199;Bräunlingen
+78224;Singen
+78234;Engen
+78239;Rielasingen-Worblingen
+78244;Gottmadingen
+78247;Hilzingen
+78250;Tengen
+78253;Eigeltingen
+78256;Steißlingen
+78259;Mühlhausen-Ehingen
+78262;Gailingen am Hochrhein
+78266;Büsingen am Hochrhein
+78267;Aach
+78269;Volkertshausen
+78315;Radolfzell am Bodensee
+78333;Stockach
+78337;Öhningen
+78343;Gaienhofen
+78345;Moos
+78351;Bodman-Ludwigshafen
+78355;Hohenfels
+78357;Mühlingen
+78359;Orsingen-Nenzingen
+78462;Konstanz
+78464;Konstanz
+78465;Konstanz
+78467;Konstanz
+78476;Allensbach
+78479;Reichenau
+78532;Tuttlingen
+78549;Spaichingen
+78554;Aldingen
+78559;Gosheim
+78564;Wehingen
+78564;Reichenbach am Heuberg
+78567;Fridingen an der Donau
+78570;Mühlheim an der Donau
+78573;Wurmlingen
+78576;Emmingen-Liptingen
+78579;Neuhausen ob Eck
+78580;Bärenthal
+78582;Balgheim
+78583;Böttingen
+78585;Bubsheim
+78586;Deilingen
+78588;Denkingen
+78589;Dürbheim
+78591;Durchhausen
+78592;Egesheim
+78594;Gunningen
+78595;Hausen ob Verena
+78597;Irndorf
+78598;Königsheim
+78600;Kolbingen
+78601;Mahlstetten
+78603;Renquishausen
+78604;Rietheim-Weilheim
+78606;Seitingen-Oberflacht
+78607;Talheim
+78609;Tuningen
+78628;Rottweil
+78647;Trossingen
+78652;Deißlingen
+78655;Dunningen
+78658;Zimmern ob Rottweil
+78661;Dietingen
+78662;Bösingen
+78664;Eschbronn
+78665;Frittlingen
+78667;Villingendorf
+78669;Wellendingen
+78713;Schramberg
+78727;Oberndorf am Neckar
+78730;Lauterbach
+78733;Aichhalden
+78736;Epfendorf
+78737;Fluorn-Winzeln
+78739;Hardt
+79098;Freiburg im Breisgau
+79100;Freiburg im Breisgau
+79102;Freiburg im Breisgau
+79104;Freiburg im Breisgau
+79106;Freiburg im Breisgau
+79108;Freiburg im Breisgau
+79110;Freiburg im Breisgau
+79111;Freiburg im Breisgau
+79112;Freiburg im Breisgau
+79114;Freiburg im Breisgau
+79115;Freiburg im Breisgau
+79117;Freiburg im Breisgau
+79183;Waldkirch
+79189;Bad Krozingen
+79194;Heuweiler
+79194;Gundelfingen
+79199;Kirchzarten
+79206;Breisach am Rhein
+79211;Denzlingen
+79215;Biederbach
+79215;Elzach
+79219;Staufen im Breisgau
+79224;Umkirch
+79227;Schallstadt
+79232;March
+79235;Vogtsburg im Kaiserstuhl
+79238;Ehrenkirchen
+79241;Ihringen
+79244;Münstertal
+79249;Merzhausen
+79252;Stegen
+79254;Oberried
+79256;Buchenbach
+79258;Hartheim
+79261;Gutach im Breisgau
+79263;Simonswald
+79268;Bötzingen
+79271;Sankt Peter
+79274;Sankt Märgen
+79276;Reute
+79279;Vörstetten
+79280;Au
+79282;Ballrechten-Dottingen
+79283;Bollschweil
+79285;Ebringen
+79286;Glottertal
+79288;Gottenheim
+79289;Horben
+79291;Merdingen
+79292;Pfaffenweiler
+79294;Sölden
+79295;Sulzburg
+79297;Winden im Elztal
+79299;Wittnau
+79312;Emmendingen
+79331;Teningen
+79336;Herbolzheim
+79341;Kenzingen
+79346;Endingen am Kaiserstuhl
+79348;Freiamt
+79350;Sexau
+79353;Bahlingen am Kaiserstuhl
+79356;Eichstetten am Kaiserstuhl
+79359;Riegel am Kaiserstuhl
+79361;Sasbach am Kaiserstuhl
+79362;Forchheim
+79364;Malterdingen
+79365;Rheinhausen
+79367;Weisweil
+79369;Wyhl am Kaiserstuhl
+79379;Müllheim
+79395;Neuenburg am Rhein
+79400;Kandern
+79410;Badenweiler
+79415;Bad Bellingen
+79418;Schliengen
+79423;Heitersheim
+79424;Auggen
+79426;Buggingen
+79427;Eschbach
+79429;Malsburg-Marzell
+79513;Röttlerweiler
+79539;Lörrach
+79540;Lörrach
+79541;Lörrach
+79576;Weil am Rhein
+79585;Steinen
+79588;Efringen-Kirchen
+79589;Binzen
+79591;Eimeldingen
+79592;Fischingen
+79594;Inzlingen
+79595;Rümmingen
+79597;Schallbach
+79599;Wittlingen
+79618;Rheinfelden
+79639;Grenzach-Wyhlen
+79650;Schopfheim
+79664;Wehr
+79669;Zell im Wiesental
+79674;Todtnau
+79677;Schönenberg
+79677;Aitern
+79677;Schönau im Schwarzwald
+79677;Tunau
+79677;Wembach
+79677;Fröhnd
+79677;Böllen
+79682;Todtmoos
+79685;Häg-Ehrsberg
+79686;Hasel
+79688;Hausen im Wiesental
+79689;Maulburg
+79692;Tegernau
+79692;Sallneck
+79692;Elbenschwand
+79692;Raich
+79694;Utzenfeld
+79695;Wieden
+79713;Bad Säckingen
+79725;Laufenburg
+79730;Murg
+79733;Görwihl
+79736;Rickenbach
+79737;Herrischried
+79739;Schwörstadt
+79761;Waldshut-Tiengen
+79771;Klettgau
+79774;Albbruck
+79777;Ühlingen-Birkendorf
+79780;Stühlingen
+79787;Lauchringen
+79790;Küssaberg
+79793;Wutöschingen
+79798;Jestetten
+79801;Hohentengen am Hochrhein
+79802;Dettighofen
+79804;Dogern
+79805;Eggingen
+79807;Lottstetten
+79809;Weilheim
+79822;Titisee-Neustadt
+79837;Ibach
+79837;Sankt Blasien
+79837;Häusern
+79843;Löffingen
+79848;Bonndorf im Schwarzwald
+79853;Lenzkirch
+79856;Hinterzarten
+79859;Schluchsee
+79862;Höchenschwand
+79865;Grafenhausen
+79868;Feldberg
+79871;Eisenbach (Hochschwarzwald)
+79872;Bernau
+79874;Breitnau
+79875;Dachsberg
+79877;Friedenweiler
+79879;Wutach
+88637;Buchheim
+88637;Leibertingen
+72070;Tübingen
+72072;Tübingen
+72074;Tübingen
+72076;Tübingen
+72108;Rottenburg am Neckar
+72116;Mössingen
+72119;Ammerbuch
+72124;Pliezhausen
+72127;Kusterdingen
+72131;Ofterdingen
+72135;Dettenhausen
+72138;Kirchentellinsfurt
+72141;Walddorfhäslach
+72144;Dußlingen
+72145;Hirrlingen
+72147;Nehren
+72149;Neustetten
+72181;Starzach
+72336;Balingen
+72348;Rosenfeld
+72351;Geislingen
+72355;Schömberg
+72356;Dautmergen
+72358;Dormettingen
+72359;Dotternhausen
+72361;Hausen am Tann
+72362;Nusplingen
+72364;Obernheim
+72365;Ratshausen
+72367;Weilen unter den Rinnen
+72369;Zimmern unter der Burg
+72379;Hechingen
+72393;Burladingen
+72401;Haigerloch
+72406;Bisingen
+72411;Bodelshausen
+72414;Rangendingen
+72415;Grosselfingen
+72417;Jungingen
+72419;Neufra
+72458;Albstadt
+72459;Albstadt
+72461;Albstadt
+72469;Meßstetten
+72474;Winterlingen
+72475;Bitz
+72477;Schwenningen
+72479;Straßberg
+72488;Sigmaringen
+72501;Gammertingen
+72505;Krauchenwies
+72510;Stetten am kalten Markt
+72511;Bingen
+72513;Hettingen
+72514;Inzigkofen
+72516;Scheer
+72517;Sigmaringendorf
+72519;Veringenstadt
+72525;Münsingen
+72531;Hohenstein Oberstetten
+72531;Hohenstein Eglingen
+72531;Hohenstein Bernloch
+72531;Hohenstein Ödenwaldstetten
+72531;Hohenstein
+72531;Hohenstein Meidelstetten
+72532;Gomadingen
+72534;Hayingen
+72535;Heroldstatt
+72535;Heroldstatt Ennabeuren
+72535;Heroldstatt Sontheim
+72537;Mehrstetten
+72539;Pfronstetten
+72555;Metzingen
+72574;Bad Urach
+72581;Dettingen an der Erms
+72582;Grabenstetten
+72584;Hülben
+72585;Riederich
+72587;Römerstein Zainingen
+72587;Römerstein Donnstetten
+72587;Römerstein
+72589;Westerheim
+72661;Grafenberg
+72760;Reutlingen
+72762;Reutlingen
+72764;Reutlingen
+72766;Reutlingen
+72768;Reutlingen
+72770;Reutlingen
+72793;Pfullingen
+72800;Eningen unter Achalm
+72805;Lichtenstein
+72810;Gomaringen
+72813;Sankt Johann
+72818;Trochtelfingen
+72820;Sonnenbühl
+72827;Wannweil
+72829;Engstingen Großengstingen
+72829;Engstingen
+72829;Engstingen Kohlstetten
+72829;Engstingen Kleinengstingen
+73340;Amstetten
+78354;Sipplingen
+88045;Friedrichshafen
+88046;Friedrichshafen
+88048;Friedrichshafen
+88069;Tettnang
+88074;Meckenbeuren
+88079;Kressbronn am Bodensee
+88085;Langenargen
+88090;Immenstaad am Bodensee
+88094;Oberteuringen
+88097;Eriskirch
+88099;Neukirch
+88147;Achberg
+88212;Ravensburg
+88213;Ravensburg
+88214;Ravensburg
+88239;Wangen im Allgäu
+88250;Weingarten
+88255;Baindt
+88255;Baienfurt
+88260;Argenbühl
+88263;Horgenzell
+88267;Vogt
+88271;Wilhelmsdorf
+88273;Fronreute
+88276;Berg
+88279;Amtzell
+88281;Schlier
+88284;Wolpertswende
+88285;Bodnegg
+88287;Grünkraut
+88289;Waldburg
+88299;Leutkirch im Allgäu
+88316;Isny im Allgäu
+88317;Aichstetten
+88319;Aitrach
+88326;Aulendorf
+88339;Bad Waldsee
+88348;Allmannsweiler
+88348;Bad Saulgau
+88353;Kißlegg
+88356;Ostrach
+88361;Eichstegen
+88361;Boms
+88361;Altshausen
+88364;Wolfegg
+88367;Hohentengen
+88368;Bergatreute
+88370;Ebenweiler
+88371;Ebersbach-Musbach
+88373;Fleischwangen
+88374;Hoßkirch
+88376;Königseggwald
+88377;Riedhausen
+88379;Guggenhausen
+88379;Unterwaldhausen
+88400;Biberach an der Riß Bergerhausen
+88400;Biberach an der Riß
+88410;Bad Wurzach
+88416;Erlenmoos
+88416;Steinhausen an der Rottum
+88416;Ochsenhausen
+88422;Bad Buchau
+88422;Tiefenbach
+88422;Seekirch
+88422;Betzenweiler
+88422;Dürnau
+88422;Oggelshausen
+88422;Kanzach
+88422;Alleshausen
+88422;Moosburg
+88427;Bad Schussenried
+88427;Bad Schussenried Dunzenhausen
+88430;Rot an der Rot
+88433;Schemmerhofen
+88436;Eberhardzell Füramoos
+88436;Eberhardzell Füramoos, Altbellamont
+88436;Eberhardzell
+88437;Maselheim
+88441;Mittelbiberach
+88444;Ummendorf
+88447;Warthausen
+88448;Attenweiler
+88450;Berkheim
+88451;Dettingen an der Iller
+88453;Erolzheim
+88454;Hochdorf
+88456;Ingoldingen
+88457;Kirchdorf an der Iller
+88459;Tannheim
+88471;Laupheim
+88477;Schwendi
+88480;Achstetten
+88481;Balzheim
+88483;Burgrieden
+88484;Gutenzell-Hürbel
+88486;Kirchberg an der Iller
+88487;Mietingen
+88489;Wain
+88499;Riedlingen
+88499;Altheim
+88499;Emeringen
+88512;Mengen
+88515;Langenenslingen
+88518;Herbertingen
+88521;Ertingen
+88524;Uttenweiler
+88525;Dürmentingen
+88527;Unlingen
+88529;Zwiefalten
+88605;Meßkirch
+88605;Sauldorf
+88630;Pfullendorf
+88631;Beuron
+88633;Heiligenberg
+88634;Herdwangen-Schönach
+88636;Illmensee
+88639;Wald
+88662;Überlingen
+88677;Markdorf
+88682;Salem
+88690;Uhldingen-Mühlhofen
+88693;Deggenhausertal
+88696;Owingen
+88697;Bermatingen
+88699;Frickingen
+88709;Hagnau am Bodensee
+88709;Meersburg
+88718;Daisendorf
+88719;Stetten
+89073;Ulm
+89075;Ulm
+89077;Ulm
+89079;Ulm
+89081;Ulm Jungingen
+89081;Ulm
+89129;Langenau
+89129;Öllingen
+89129;Nerenstetten
+89129;Setzingen
+89134;Blaustein
+89143;Blaubeuren
+89143;Blaubeuren Gerhausen
+89143;Blaubeuren Seißen
+89143;Blaubeuren Wennenden
+89143;Blaubeuren Sonderbuch
+89143;Blaubeuren Asch
+89150;Laichingen Feldstetten
+89150;Laichingen Suppingen
+89150;Laichingen
+89150;Laichingen Machtolsheim
+89155;Erbach
+89160;Dornstadt Scharenstetten
+89160;Dornstadt
+89165;Dietenheim
+89171;Illerkirchberg
+89173;Lonsee
+89174;Altheim (Alb)
+89176;Asselfingen
+89177;Ballendorf
+89177;Börslingen
+89179;Beimerstetten
+89180;Berghülen
+89180;Berghülen Bühlenhausen
+89180;Berghülen Treffensbuch
+89182;Bernstadt
+89183;Breitingen
+89183;Holzkirch
+89185;Hüttisheim
+89186;Illerrieden
+89188;Merklingen Widderstall
+89188;Merklingen
+89189;Neenstetten
+89191;Nellingen Aichen
+89191;Nellingen Oppingen
+89191;Nellingen
+89192;Rammingen
+89194;Schnürpflingen
+89195;Staig
+89197;Weidenstetten
+89198;Westerstetten
+89584;Ehingen an der Donau
+89584;Lauterach
+89597;Munderkingen
+89597;Unterwachingen
+89597;Hausen am Bussen
+89601;Schelklingen
+89604;Allmendingen
+89605;Altheim
+89607;Emerkingen
+89608;Griesingen
+89610;Oberdischingen
+89611;Obermarchtal
+89611;Rechtenstein
+89613;Grundsheim
+89613;Oberstadion
+89614;Öpfingen
+89616;Rottenacker
+89617;Untermarchtal
+89619;Unterstadion
+71069;Sindelfingen
+76006;Karlsruhe
+77944;Friesenheim
+79578;Steinen
+79683;Bürchau
+79691;Neuenweg
+79697;Wies
+79699;Wieslet
+88086;Immenstaad am Bodensee
+89040;Ulm
+80331;München
+80333;München
+80335;München
+80336;München
+80337;München
+80339;München
+80469;München
+80538;München
+80539;München
+80634;München
+80636;München
+80637;München
+80638;München
+80639;München
+80686;München
+80687;München
+80689;München
+80796;München
+80797;München
+80798;München
+80799;München
+80801;München
+80802;München
+80803;München
+80804;München
+80805;München
+80807;München
+80809;München
+80933;München
+80935;München
+80937;München
+80939;München
+80992;München
+80993;München
+80995;München
+80997;München
+80999;München
+81241;München
+81243;München
+81245;München
+81247;München
+81249;München
+81369;München
+81371;München
+81373;München
+81375;München
+81377;München
+81379;München
+81475;München
+81476;München
+81477;München
+81479;München
+81539;München
+81541;München
+81543;München
+81545;München
+81547;München
+81549;München
+81667;München
+81669;München
+81671;München
+81673;München
+81675;München
+81677;München
+81679;München
+81735;München
+81737;München
+81739;München
+81825;München
+81827;München
+81829;München
+81925;München
+81927;München
+81929;München
+82008;Unterhaching
+82024;Taufkirchen
+82031;Grünwald
+82032;Deisenhofen bei München
+82041;Oberhaching
+82049;Pullach im Isartal
+82054;Sauerlach
+82057;Icking
+82061;Neuried
+82064;Straßlach-Dingharting
+82065;Baierbrunn
+82067;Kloster Schäftlarn
+82069;Schäftlarn
+82110;Germering
+82131;Gauting
+82140;Olching
+82152;Krailling
+82152;Planegg
+82166;Gräfelfing
+82178;Puchheim
+82194;Gröbenzell
+82205;Gilching
+82211;Herrsching am Ammersee
+82216;Maisach
+82223;Eichenau
+82229;Seefeld
+82234;Weßling
+82237;Wörthsee
+82239;Alling
+82256;Fürstenfeldbruck
+82266;Inning am Ammersee
+82269;Geltendorf
+82272;Moorenweis
+82275;Emmering
+82276;Adelshofen
+82278;Althegnenberg
+82279;Eching am Ammersee
+82281;Egenhofen
+82282;Pischertshofen
+82284;Grafrath
+82285;Hattenhofen
+82287;Jesenwang
+82288;Kottgeisering
+82290;Landsberied
+82291;Mammendorf
+82293;Mittelstetten
+82294;Oberschweinbach
+82296;Schöngeising
+82299;Türkenfeld
+82319;Starnberg
+82327;Tutzing
+82335;Berg
+82340;Feldafing
+82343;Pöcking
+82346;Andechs
+82347;Bernried
+82349;Pentenried
+82362;Weilheim in Oberbayern
+82377;Penzberg
+82380;Peißenberg
+82383;Hohenpeißenberg
+82386;Oberhausen
+82386;Huglfing
+82387;Antdorf
+82389;Böbing
+82390;Eberfing
+82392;Habach
+82393;Iffeldorf
+82395;Obersöchering
+82396;Pähl
+82398;Polling
+82399;Raisting
+82401;Rottenbuch
+82402;Seeshaupt
+82404;Sindelsdorf
+82405;Wessobrunn
+82407;Wielenbach
+82409;Wildsteig
+82418;Seehausen am Staffelsee
+82418;Riegsee
+82418;Murnau am Staffelsee
+82431;Kochel am See
+82432;Urfeld, Oberbayern
+82433;Bad Kohlgrub
+82435;Bad Bayersoien
+82436;Eglfing
+82438;Eschenlohe
+82439;Großweil
+82441;Ohlstadt
+82442;Saulgrub
+82444;Schlehdorf
+82445;Schwaigen
+82447;Spatzenhausen
+82449;Uffing am Staffelsee
+82467;Garmisch-Partenkirchen
+82481;Mittenwald
+82487;Oberammergau
+82488;Ettal
+82490;Farchant
+82491;Grainau
+82493;Klais
+82494;Krün
+82496;Oberau
+82497;Unterammergau
+82499;Wallgau
+82515;Wolfratshausen
+82538;Geretsried
+82541;Münsing
+82544;Egling
+82547;Eurasburg
+82549;Königsdorf
+83022;Rosenheim
+83024;Rosenheim
+83026;Rosenheim
+83043;Bad Aibling
+83052;Bruckmühl
+83059;Kolbermoor
+83064;Raubling
+83071;Stephanskirchen
+83075;Bad Feilnbach
+83080;Oberaudorf
+83083;Riedering
+83088;Kiefersfelden
+83093;Bad Endorf
+83098;Brannenburg
+83101;Rohrdorf
+83104;Tuntenhausen
+83109;Großkarolinenfeld
+83112;Frasdorf
+83115;Neubeuern
+83119;Obing
+83122;Samerberg
+83123;Amerang
+83125;Eggstätt
+83126;Flintsbach
+83128;Halfing
+83129;Höslwang
+83131;Nußdorf am Inn
+83132;Pittenhart
+83134;Prutting
+83135;Schechen
+83137;Schonstett
+83139;Söchtenau
+83209;Prien am Chiemsee
+83224;Grassau
+83224;Staudach-Egerndach
+83229;Aschau im Chiemgau
+83233;Bernau am Chiemsee
+83236;Übersee
+83242;Reit im Winkl
+83246;Unterwössen
+83250;Marquartstein
+83253;Rimsting
+83254;Breitbrunn am Chiemsee
+83256;Chiemsee
+83257;Gstadt am Chiemsee
+83259;Schleching
+83278;Traunstein
+83301;Traunreut
+83308;Trostberg
+83313;Siegsdorf
+83317;Teisendorf
+83324;Ruhpolding
+83329;Waging am See
+83329;Wonneberg
+83334;Inzell
+83339;Chieming
+83342;Tacherting
+83346;Bergen
+83349;Palling
+83352;Altenmarkt an der Alz
+83355;Grabenstätt
+83358;Seeon-Seebruck
+83359;Hallabruck
+83361;Kienberg
+83362;Surberg
+83364;Graben bei Neukirchen am Teisenberg
+83365;Nußdorf
+83367;Petting
+83368;Anning bei Sankt Georgen, Chiemgau
+83370;Seeon-Seebruck
+83371;Roitham bei Stein an der Traun
+83373;Taching am See
+83374;Niedling
+83376;Castrum
+83377;Vachendorf
+83379;Wonneberg
+83395;Freilassing
+83404;Ainring
+83410;Laufen
+83413;Fridolfing
+83416;Saaldorf-Surheim
+83417;Kirchanschöring
+83435;Bad Reichenhall
+83451;Piding
+83454;Anger
+83457;Bayerisch Gmain
+83458;Schneizlreuth
+83471;Berchtesgaden
+83471;Schönau am Königssee
+83483;Bischofswiesen
+83486;Ramsau
+83487;Marktschellenberg
+83489;Strub
+83512;Wasserburg am Inn
+83527;Kirchdorf
+83527;Haag in Oberbayern
+83530;Schnaitsee
+83533;Edling
+83536;Gars am Inn
+83539;Pfaffing
+83539;Albaching
+83543;Rott am Inn
+83544;Albaching
+83546;Biburg, Gemeinde Gars am Inn
+83547;Babensham
+83549;Eiselfing
+83550;Emmering
+83552;Durrhausen
+83553;Frauenneuharting
+83555;Haiden bei Gars Bahnhof
+83556;Griesstätt
+83558;Maitenbeth
+83559;Reiser, Gemeinde Gars am Inn
+83561;Ramerberg
+83562;Rechtmehring
+83564;Soyen
+83565;Ast, Gemeinde Frauenneuharting
+83567;Unterreit
+83569;Vogtareuth
+83607;Holzkirchen
+83620;Feldkirchen-Westerham
+83623;Dietramszell
+83624;Otterfing
+83626;Valley
+83627;Warngau
+83629;Weyarn
+83646;Bad Tölz
+83646;Wackersberg
+83661;Lenggries
+83666;Waakirchen
+83670;Bad Heilbrunn
+83671;Benediktbeuern
+83673;Bichl
+83674;Gaißach
+83676;Jachenau
+83677;Greiling
+83677;Reichersbeuern
+83679;Sachsenkam
+83684;Tegernsee
+83700;Rottach-Egern
+83703;Gmund am Tegernsee
+83707;Bad Wiessee
+83708;Kreuth
+83714;Miesbach
+83727;Schliersee
+83730;Fischbachau
+83734;Hausham
+83735;Bayrischzell
+83737;Irschenberg
+83739;Hofreuth bei Wörnsmühl
+84072;Au in der Hallertau
+84104;Rudelzhausen
+84405;Dorfen
+84416;Taufkirchen (Vils)
+84416;Inning am Holz
+84419;Schwindegg
+84419;Obertaufkirchen
+84424;Isen
+84427;Sankt Wolfgang
+84428;Buchbach
+84431;Heldenstein
+84431;Rattenkirchen
+84432;Hohenpolding
+84434;Kirchberg
+84435;Lengdorf
+84437;Reichertsheim
+84439;Steinkirchen
+84453;Mühldorf am Inn
+84478;Waldkraiburg
+84489;Burghausen
+84494;Niedertaufkirchen
+84494;Neumarkt-Sankt Veit
+84494;Lohkirchen
+84494;Niederbergkirchen
+84503;Altötting
+84508;Burgkirchen an der Alz
+84513;Erharting
+84513;Töging am Inn
+84518;Garching an der Alz
+84524;Neuötting
+84529;Tittmoning
+84533;Haiming
+84533;Marktl
+84533;Stammham
+84539;Ampfing
+84539;Zangberg
+84543;Winhöring
+84544;Aschau am Inn
+84546;Egglkofen
+84547;Emmerting
+84549;Engelsberg
+84550;Feichten an der Alz
+84553;Halsbach, Kreis Altötting
+84555;Jettenbach
+84556;Kastl
+84558;Tyrlaching
+84558;Kirchweidach
+84558;Halsbach
+84559;Kraiburg am Inn
+84561;Mehring
+84562;Mettenheim
+84564;Oberbergkirchen
+84565;Oberneukirchen
+84567;Perach
+84567;Erlbach
+84568;Pleiskirchen
+84570;Polling
+84571;Reischach
+84573;Schönberg
+84574;Taufkirchen
+84576;Teising
+84577;Tüßling
+84579;Unterneukirchen
+85049;Ingolstadt
+85051;Ingolstadt
+85053;Ingolstadt
+85055;Ingolstadt
+85057;Ingolstadt
+85072;Eichstätt
+85077;Manching
+85080;Gaimersheim
+85084;Reichertshofen
+85088;Vohburg an der Donau
+85092;Kösching
+85095;Denkendorf
+85098;Großmehring
+85101;Lenting
+85104;Pförring
+85107;Baar-Ebenhausen
+85110;Kipfenberg
+85111;Adelschlag
+85113;Böhmfeld
+85114;Buxheim
+85116;Egweil
+85117;Eitensheim
+85119;Ernsgaden
+85120;Hepberg
+85122;Hitzhofen
+85123;Karlskron
+85125;Kinding
+85126;Münchsmünster
+85128;Nassenfels
+85129;Oberdolling
+85131;Pollenfeld
+85132;Schernfeld
+85134;Stammham
+85135;Titting
+85137;Walting
+85139;Wettstetten
+85221;Dachau
+85229;Markt Indersdorf
+85232;Bergkirchen
+85235;Odelzhausen
+85235;Pfaffenhofen an der Glonn
+85238;Petershausen
+85241;Hebertshausen
+85244;Röhrmoos
+85247;Schwabhausen
+85250;Altomünster
+85253;Erdweg
+85254;Sulzemoos
+85256;Vierkirchen
+85258;Weichs
+85259;Wiedenzhausen
+85276;Hettenshausen
+85276;Pfaffenhofen an der Ilm
+85283;Wolnzach
+85290;Geisenfeld
+85293;Reichertshausen
+85296;Rohrbach
+85298;Scheyern
+85301;Schweitenkirchen
+85302;Gerolsbach
+85304;Ilmmünster
+85305;Jetzendorf
+85307;Paunzhausen
+85309;Pörnbach
+85354;Freising
+85356;Freising
+85368;Moosburg
+85368;Wang
+85375;Neufahrn bei Freising
+85376;Hetzenhausen
+85386;Eching
+85391;Allershausen
+85395;Attenkirchen
+85395;Wolfersdorf
+85399;Hallbergmoos
+85402;Kranzberg
+85405;Nandlstadt
+85406;Zolling
+85408;Gammelsdorf
+85410;Haag an der Amper
+85411;Hohenkammer
+85413;Hörgertshausen
+85414;Kirchdorf an der Amper
+85416;Langenbach
+85417;Marzling
+85419;Mauern
+85435;Erding
+85445;Oberding
+85447;Fraunberg
+85452;Moosinning
+85456;Wartenberg
+85457;Wörth
+85459;Berglern
+85461;Bockhorn
+85462;Eitting
+85464;Finsing
+85465;Langenpreising
+85467;Neuching
+85469;Walpertskirchen
+85521;Ottobrunn
+85540;Haar
+85551;Kirchheim bei München
+85560;Ebersberg
+85567;Bruck
+85567;Grafing bei München
+85570;Ottenhofen
+85570;Markt Schwaben
+85579;Neubiberg
+85586;Poing
+85591;Vaterstetten
+85598;Baldham
+85599;Parsdorf
+85604;Zorneding
+85609;Aschheim
+85614;Kirchseeon
+85617;Aßling
+85622;Feldkirchen
+85625;Baiern
+85625;Glonn
+85630;Grasbrunn
+85635;Höhenkirchen-Siegertsbrunn
+85640;Putzbrunn
+85643;Steinhöring
+85646;Anzing
+85649;Brunnthal
+85652;Pliening
+85653;Aying
+85655;Loibersdorf bei Großhelfendorf
+85656;Buch am Buchrain
+85658;Egmating
+85659;Forstern
+85661;Forstinning
+85662;Hohenbrunn
+85664;Hohenlinden
+85665;Moosach
+85667;Oberpframmern
+85669;Pastetten
+85716;Unterschleißheim
+85737;Ismaning
+85748;Garching bei München
+85757;Karlsfeld
+85764;Oberschleißheim
+85774;Unterföhring
+85777;Fahrenzhausen
+85778;Haimhausen
+86492;Egling an der Paar
+86529;Schrobenhausen
+86558;Hohenwart
+86561;Aresing
+86562;Berg im Gau
+86564;Brunnen
+86565;Gachenbach
+86567;Hilgertshausen-Tandern
+86571;Langenmosen
+86579;Waidhofen
+86633;Neuburg an der Donau
+86643;Rennertshofen
+86666;Burgheim
+86668;Karlshuld
+86669;Königsmoos
+86673;Bergheim
+86676;Ehekirchen
+86697;Oberhausen
+86701;Rohrenfels
+86706;Weichering
+86857;Hurlach
+86859;Igling
+86899;Landsberg am Lech
+86911;Dießen am Ammersee
+86916;Kaufering
+86919;Utting am Ammersee
+86920;Denklingen
+86922;Eresing
+86923;Finning
+86925;Fuchstal
+86926;Greifenberg
+86928;Hofstetten
+86929;Penzing
+86931;Prittriching
+86932;Pürgen
+86934;Reichling
+86935;Rott
+86937;Scheuring
+86938;Schondorf am Ammersee
+86940;Schwifting
+86941;Sankt Ottilien
+86943;Thaining
+86944;Unterdießen
+86946;Vilgertshofen
+86947;Weil
+86949;Windach
+86956;Schongau
+86971;Peiting
+86972;Altenstadt
+86974;Apfeldorf
+86975;Bernbeuren
+86977;Burggen
+86978;Hohenfurch
+86980;Ingenried
+86981;Kinsau
+86984;Prem
+86986;Schwabbruck
+86987;Schwabsoien
+86989;Steingaden
+91795;Dollnstein
+91804;Mörnsheim
+91809;Wellheim
+92339;Beilngries
+93336;Altmannstein
+93349;Mindelstetten
+84028;Landshut
+84030;Landshut
+84030;Ergolding
+84032;Altdorf
+84032;Landshut
+84034;Landshut
+84036;Kumhausen
+84036;Landshut
+84048;Mainburg
+84051;Essenbach
+84056;Rottenburg an der Laaber
+84061;Ergoldsbach
+84066;Mallersdorf-Pfaffenberg
+84076;Pfeffenhausen
+84079;Bruckberg
+84082;Laberweinting
+84085;Langquaid
+84088;Neufahrn in Niederbayern
+84089;Aiglsbach
+84091;Attenhofen
+84092;Bayerbach
+84094;Elsendorf
+84095;Furth
+84097;Herrngiersdorf
+84098;Hohenthann
+84100;Niederaichbach
+84101;Obersüßbach
+84103;Postau
+84106;Volkenschwand
+84107;Weihmichl
+84109;Wörth an der Isar
+84130;Dingolfing
+84137;Vilsbiburg
+84140;Gangkofen
+84144;Geisenhausen
+84149;Velden
+84152;Mengkofen
+84155;Bodenkirchen
+84160;Frontenhausen
+84163;Marklkofen
+84164;Moosthenning
+84166;Adlkofen
+84168;Aham
+84169;Altfraunhofen
+84171;Baierbach
+84172;Buch am Erlbach
+84174;Eching
+84175;Gerzen
+84175;Schalkham
+84177;Gottfrieding
+84178;Kröning
+84180;Loiching
+84181;Neufraunhofen
+84183;Niederviehbach
+84184;Tiefenbach
+84186;Vilsheim
+84187;Weng
+84189;Wurmsham
+84307;Eggenfelden
+84323;Massing
+84326;Falkenberg
+84326;Rimbach
+84329;Wurmannsquick
+84332;Hebertsfelden
+84333;Malgersdorf
+84335;Mitterskirchen
+84337;Schönau
+84339;Unterdietfurt
+84347;Pfarrkirchen
+84359;Simbach am Inn
+84364;Bad Birnbach
+84367;Tann
+84367;Reut
+84367;Zeilarn
+84371;Triftern
+84375;Kirchdorf am Inn
+84378;Dietersburg
+84381;Johanniskirchen
+84384;Wittibreut
+84385;Egglham
+84387;Julbach
+84389;Postmünster
+84552;Geratskirchen
+93077;Bad Abbach
+93309;Kelheim
+93326;Abensberg
+93333;Neustadt an der Donau
+93339;Riedenburg
+93342;Saal an der Donau
+93343;Essing
+93345;Hausen
+93346;Ihrlerstein
+93348;Kirchdorf
+93351;Painten
+93352;Rohr in Niederbayern
+93354;Siegenburg
+93354;Biburg
+93356;Teugn
+93358;Train
+93359;Wildenberg
+93471;Arnbruck
+94032;Passau
+94034;Passau
+94036;Passau
+94051;Hauzenberg
+94060;Pocking
+94065;Waldkirchen
+94072;Bad Füssing
+94078;Freyung
+94081;Fürstenzell
+94086;Bad Griesbach im Rottal
+94089;Neureichenau
+94094;Rotthalmünster
+94094;Malching
+94099;Ruhstorf an der Rott
+94104;Tittling
+94104;Witzmannsberg
+94107;Untergriesbach
+94110;Wegscheid
+94113;Tiefenbach
+94116;Hutthurm
+94118;Jandelsbrunn
+94121;Salzweg
+94124;Büchlberg
+94127;Neuburg am Inn
+94130;Obernzell
+94133;Röhrnbach
+94136;Thyrnau
+94137;Bayerbach
+94139;Breitenberg
+94140;Ering
+94142;Fürsteneck
+94143;Grainet
+94145;Haidmühle
+94146;Hinterschmiding
+94148;Kirchham
+94149;Kößlarn
+94151;Mauth
+94152;Neuhaus am Inn
+94154;Neukirchen vorm Wald
+94155;Otterskirchen
+94157;Perlesreut
+94158;Philippsreut
+94160;Ringelai
+94161;Ruderting
+94163;Saldenburg
+94164;Sonnen
+94166;Stubenberg
+94167;Tettenweis
+94169;Thurmansbang
+94209;Regen
+94227;Lindberg
+94227;Zwiesel
+94234;Viechtach
+94239;Gotteszell
+94239;Zachenberg
+94239;Ruhmannsfelden
+94244;Teisnach
+94244;Geiersthal
+94249;Bodenmais
+94250;Achslach
+94252;Bayerisch Eisenstein
+94253;Bischofsmais
+94255;Böbrach
+94256;Drachselsried
+94258;Frauenau
+94259;Kirchberg im Wald
+94261;Kirchdorf im Wald
+94262;Kollnburg
+94264;Langdorf
+94265;Patersdorf
+94267;Prackenbach
+94269;Rinchnach
+94315;Straubing
+94327;Bogen
+94330;Salching
+94330;Aiterhofen
+94333;Geiselhöring
+94336;Windberg
+94336;Hunderdorf
+94339;Leiblfing
+94342;Irlbach
+94342;Straßkirchen
+94344;Wiesenfelden
+94345;Aholfing
+94347;Ascha
+94348;Atting
+94350;Falkenfels
+94351;Feldkirchen
+94353;Haibach
+94354;Haselbach
+94356;Kirchroth
+94357;Konzell
+94359;Loitzendorf
+94360;Mitterfels
+94362;Neukirchen
+94363;Oberschneiding
+94365;Parkstetten
+94366;Perasdorf
+94368;Perkam
+94369;Rain
+94371;Rattenberg
+94372;Rattiszell
+94374;Schwarzach
+94375;Stallwang
+94377;Steinach
+94379;Sankt Englmar
+94405;Landau an der Isar
+94419;Reisbach
+94424;Arnstorf
+94428;Eichendorf
+94431;Pilsting
+94436;Simbach
+94437;Mamming
+94439;Roßbach
+94447;Plattling
+94469;Deggendorf
+94474;Vilshofen
+94481;Grafenau
+94486;Osterhofen
+94491;Hengersberg
+94496;Ortenburg
+94501;Beutelsbach
+94501;Aidenbach
+94501;Aldersbach
+94505;Bernried
+94508;Schöllnach
+94513;Schönberg
+94518;Spiegelau
+94522;Wallersdorf
+94526;Metten
+94527;Aholming
+94529;Aicha vorm Wald
+94530;Auerbach
+94532;Außernzell
+94533;Buchhofen
+94535;Eging am See
+94536;Eppenschlag
+94538;Fürstenstein
+94539;Grafling
+94541;Grattersdorf
+94542;Haarbach
+94544;Hofkirchen
+94545;Hohenau
+94547;Iggensbach
+94548;Innernzell
+94550;Künzing
+94551;Hunding
+94551;Lalling
+94553;Mariaposching
+94554;Moos
+94556;Neuschönau
+94557;Niederalteich
+94559;Niederwinkling
+94560;Offenberg
+94562;Oberpöring
+94563;Otzing
+94565;Erlhof bei Rathsmannsdorf
+94566;Sankt Oswald-Riedlhütte
+94568;Sankt Oswald-Riedlhütte
+94569;Stephansposching
+94571;Schaufling
+94572;Schöfweg
+94574;Wallerfing
+94575;Windorf
+94577;Winzer
+94579;Zenting
+84069;Schierling
+90602;Pyrbaum
+91249;Weigendorf
+91275;Auerbach in der Oberpfalz
+91281;Kirchenthumbach
+92224;Amberg
+92237;Sulzbach-Rosenberg
+92242;Hirschau
+92245;Kümmersbruck
+92249;Vilseck
+92253;Schnaittenbach
+92256;Hahnbach
+92259;Neukirchen bei Sulzbach-Rosenberg
+92260;Ammerthal
+92262;Birgland
+92263;Ebermannsdorf
+92265;Edelsfeld
+92266;Ensdorf
+92268;Etzelwang
+92269;Fensterbach
+92271;Freihung
+92272;Freudenberg
+92274;Gebenbach
+92275;Hirschbach
+92277;Hohenburg
+92278;Illschwang
+92280;Kastl
+92281;Königstein
+92283;Lauterhofen
+92284;Poppenricht
+92286;Rieden
+92287;Schmidmühlen
+92289;Ursensollen
+92318;Neumarkt in der Oberpfalz
+92331;Lupburg
+92331;Parsberg
+92334;Berching
+92342;Freystadt
+92345;Dietfurt an der Altmühl
+92348;Berg bei Neumarkt in der Oberpfalz
+92353;Postbauer-Heng
+92355;Velburg
+92358;Seubersdorf in der Oberpfalz
+92360;Mühlhausen
+92361;Berngau
+92363;Breitenbrunn
+92364;Deining
+92366;Hohenfels
+92367;Pilsach
+92369;Sengenthal
+92421;Schwandorf
+92431;Neunburg vorm Wald
+92436;Bruck in der Oberpfalz
+92439;Bodenwöhr
+92442;Wackersdorf
+92444;Rötz
+92445;Neukirchen-Balbini
+92447;Schwarzhofen
+92449;Steinberg
+92507;Nabburg
+92521;Schwarzenfeld
+92526;Oberviechtach
+92533;Wernberg-Köblitz
+92536;Pfreimd Untersteinbach
+92536;Pfreimd Weihern
+92536;Pfreimd
+92536;Pfreimd Hohentreswitz
+92536;Pfreimd Pamsendorf
+92536;Pfreimd Pfreimd
+92536;Iffelsdorf
+92539;Schönsee
+92540;Altendorf
+92542;Dieterskirchen
+92543;Guteneck
+92545;Niedermurach
+92546;Schmidgaden
+92548;Schwarzach bei Nabburg
+92549;Stadlern
+92551;Stulln
+92552;Teunz
+92554;Thanstein
+92555;Trausnitz
+92557;Weiding
+92559;Winklarn
+92637;Weiden
+92637;Theisseil
+92648;Vohenstrauß
+92655;Grafenwöhr
+92660;Neustadt an der Waldnaab
+92665;Altenstadt an der Waldnaab
+92665;Kirchendemenreuth
+92670;Windischeschenbach
+92676;Speinshart
+92676;Eschenbach in der Oberpfalz
+92681;Erbendorf
+92685;Floß
+92690;Pressath
+92693;Eslarn
+92694;Etzenricht
+92696;Flossenbürg
+92697;Georgenberg
+92699;Irchenrieth
+92699;Bechtsrieth
+92700;Kaltenbrunn, Oberpfalz
+92702;Kohlberg
+92703;Krummennaab
+92705;Leuchtenberg
+92706;Luhe-Wildenau
+92708;Mantel
+92709;Moosbach
+92711;Parkstein
+92712;Pirk
+92714;Pleystein
+92715;Püchersreuth
+92717;Reuth bei Erbendorf
+92718;Schirmitz
+92720;Schwarzenbach
+92721;Störnstein
+92723;Gleiritsch
+92723;Tännesberg
+92724;Trabitz
+92726;Waidhaus
+92727;Waldthurn
+92729;Weiherhammer
+93047;Regensburg
+93049;Regensburg
+93051;Regensburg
+93053;Regensburg
+93055;Regensburg
+93057;Regensburg
+93059;Regensburg
+93073;Neutraubling
+93080;Pentling
+93083;Obertraubling
+93086;Wörth an der Donau
+93087;Alteglofsheim
+93089;Aufhausen
+93090;Bach an der Donau
+93092;Barbing
+93093;Donaustauf
+93095;Hagelstadt
+93096;Köfering
+93098;Mintraching
+93099;Mötzing
+93101;Pfakofen
+93102;Pfatter
+93104;Sünching
+93104;Riekofen
+93105;Tegernheim
+93107;Thalmassing
+93109;Wiesent
+93128;Regenstauf
+93133;Burglengenfeld
+93138;Lappersdorf
+93142;Maxhütte-Haidhof
+93149;Nittenau
+93152;Nittendorf
+93155;Hemau
+93158;Teublitz
+93161;Sinzing
+93164;Brunn
+93164;Laaber
+93167;Falkenstein
+93170;Bernhardswald
+93173;Wenzenbach
+93176;Beratzhausen
+93177;Altenthann
+93179;Brennberg
+93180;Deuerling
+93182;Duggendorf
+93183;Kallmünz
+93183;Holzheim am Forst
+93185;Michelsneukirchen
+93186;Pettendorf
+93188;Pielenhofen
+93189;Reichenbach
+93191;Rettenbach
+93192;Wald
+93194;Walderbach
+93195;Wolfsegg
+93197;Zeitlarn
+93199;Zell
+93413;Cham
+93426;Roding
+93437;Furth im Wald
+93444;Kötzting
+93449;Waldmünchen
+93453;Neukirchen beim Heiligen Blut
+93455;Traitsching
+93458;Eschlkam
+93462;Lam
+93464;Tiefenbach
+93466;Chamerau
+93468;Miltach
+93470;Lohberg
+93473;Arnschwang
+93474;Arrach
+93476;Blaibach
+93477;Gleißenberg
+93479;Grafenwiesen
+93480;Hohenwarth
+93482;Pemfling
+93483;Pösing
+93485;Rimbach
+93486;Runding
+93488;Schönthal
+93489;Schorndorf
+93491;Stamsried
+93492;Treffelstein
+93494;Waffenbrunn
+93495;Weiding
+93497;Willmering
+93499;Zandt
+95478;Kemnath
+95505;Immenreuth
+95506;Kastl
+95508;Kulmain
+95514;Neustadt am Kulm
+95519;Schlammersdorf
+95519;Vorbach
+95643;Tirschenreuth
+95652;Waldsassen
+95666;Leonberg
+95666;Mitterteich
+95671;Bärnau
+95676;Wiesau
+95679;Waldershof
+95682;Brand
+95683;Ebnath
+95685;Falkenberg
+95688;Friedenfels
+95689;Fuchsmühl
+95692;Konnersreuth
+95695;Mähring
+95698;Neualbenreuth
+95700;Neusorg
+95701;Pechbrunn
+95703;Plößberg
+95704;Pullenreuth
+91077;Dormitz
+91077;Kleinsendelbach
+91077;Neunkirchen am Brand
+91077;Hetzles
+91090;Effeltrich
+91094;Langensendelbach
+91099;Poxdorf
+91257;Pegnitz
+91278;Pottenstein
+91282;Betzenstein
+91286;Obertrubach
+91287;Plech
+91289;Schnabelwaid
+91301;Forchheim
+91320;Ebermannstadt
+91322;Gräfenberg
+91327;Gößweinstein
+91330;Eggolsheim
+91332;Heiligenstadt
+91336;Heroldsbach
+91338;Igensdorf
+91344;Waischenfeld
+91346;Wiesenttal
+91347;Aufseß
+91349;Egloffstein
+91352;Hallerndorf
+91353;Hausen
+91355;Hiltpoltstein
+91356;Kirchehrenbach
+91358;Kunreuth
+91359;Leutenbach
+91361;Pinzberg
+91362;Pretzfeld
+91364;Unterleinleiter
+91365;Weilersbach
+91367;Weißenohe
+91369;Wiesenthau
+95028;Hof
+95030;Hof
+95032;Hof
+95100;Selb
+95111;Rehau
+95119;Naila
+95126;Schwarzenbach an der Saale
+95131;Schwarzenbach am Wald
+95138;Bad Steben
+95145;Oberkotzau
+95152;Selbitz
+95158;Kirchenlamitz
+95163;Weißenstadt
+95168;Marktleuthen
+95173;Schönwald
+95176;Konradsreuth
+95179;Geroldsgrün
+95180;Berg
+95182;Döhlau
+95183;Töpen
+95183;Feilitzsch
+95183;Trogen
+95185;Gattendorf
+95186;Höchstädt im Fichtelgebirge
+95188;Issigau
+95189;Köditz
+95191;Leupoldsgrün
+95192;Lichtenberg
+95194;Regnitzlosau
+95195;Röslau
+95197;Schauenstein
+95199;Thierstein
+95213;Münchberg
+95233;Helmbrechts
+95234;Sparneck
+95236;Stammbach
+95237;Weißdorf
+95239;Zell
+95326;Kulmbach
+95336;Mainleus
+95339;Neuenmarkt
+95339;Wirsberg
+95346;Stadtsteinach
+95349;Thurnau
+95352;Marktleugast
+95355;Presseck
+95356;Grafengehaig
+95358;Guttenberg
+95359;Kasendorf
+95361;Ködnitz
+95362;Kupferberg
+95364;Ludwigschorgast
+95365;Rugendorf
+95367;Trebgast
+95369;Untersteinach
+95444;Bayreuth
+95445;Bayreuth
+95447;Bayreuth
+95448;Bayreuth
+95460;Bad Berneck im Fichtelgebirge
+95463;Bindlach
+95466;Kirchenpingarten
+95466;Weidenberg
+95469;Speichersdorf
+95473;Prebitz
+95473;Creußen
+95473;Haag
+95482;Gefrees
+95485;Warmensteinach
+95488;Eckersdorf
+95490;Mistelgau
+95491;Ahorntal
+95493;Bischofsgrün
+95494;Gesees
+95496;Glashütten
+95497;Goldkronach
+95499;Harsdorf
+95500;Heinersreuth
+95502;Himmelkron
+95503;Hummeltal
+95509;Marktschorgast
+95511;Mistelbach
+95512;Neudrossenfeld
+95515;Plankenfels
+95517;Seybothenreuth
+95517;Emtmannsberg
+95615;Marktredwitz
+95632;Wunsiedel
+95659;Arzberg
+95680;Bad Alexandersbad
+95686;Fichtelberg
+95691;Hohenberg an der Eger
+95694;Mehlmeisel
+95697;Nagel
+95706;Schirnding
+95707;Thiersheim
+95709;Tröstau
+96047;Bamberg
+96049;Bamberg
+96050;Bamberg
+96052;Bamberg
+96103;Hallstadt
+96110;Scheßlitz
+96114;Hirschaid
+96117;Memmelsdorf
+96120;Bischberg
+96123;Litzendorf
+96129;Strullendorf
+96132;Schlüsselfeld
+96135;Stegaurach
+96138;Burgebrach
+96142;Hollfeld
+96145;Seßlach
+96146;Altendorf
+96148;Baunach
+96149;Breitengüßbach
+96154;Burgwindheim
+96155;Buttenheim
+96157;Ebrach
+96158;Frensdorf
+96161;Gerach
+96163;Gundelsheim
+96164;Kemmern
+96167;Königsfeld
+96169;Lauter
+96170;Lisberg
+96170;Priesendorf
+96173;Oberhaid
+96175;Pettstadt
+96178;Pommersfelden
+96179;Rattelsdorf
+96182;Reckendorf
+96185;Schönbrunn
+96187;Stadelhofen
+96191;Viereth-Trunstadt
+96194;Walsdorf
+96196;Wattendorf
+96197;Wonsees
+96199;Zapfendorf
+96215;Lichtenfels
+96224;Burgkunstadt
+96231;Bad Staffelstein
+96237;Ebersdorf
+96242;Sonnefeld
+96247;Michelau in Oberfranken
+96250;Ebensfeld
+96253;Untersiemau
+96257;Redwitz an der Rodach
+96257;Marktgraitz
+96260;Weismain
+96264;Altenkunstadt
+96268;Mitwitz
+96269;Großheirath
+96271;Grub am Forst
+96272;Hochstadt am Main
+96274;Itzgrund
+96275;Marktzeuln
+96277;Schneckenlohe
+96279;Weidhausen bei Coburg
+96317;Kronach
+96328;Küps
+96332;Pressig
+96337;Ludwigsstadt
+96342;Stockheim
+96346;Wallenfels
+96349;Steinwiesen
+96352;Wilhelmsthal
+96355;Tettau
+96358;Teuschnitz
+96358;Reichenbach
+96361;Steinbach am Wald
+96364;Marktrodach
+96365;Nordhalben
+96367;Tschirn
+96369;Weißenbrunn
+96450;Coburg
+96465;Neustadt bei Coburg
+96472;Rödental
+96476;Bad Rodach
+96479;Weitramsdorf
+96482;Ahorn
+96484;Meeder
+96486;Lautertal
+96487;Dörfles-Esbach
+96489;Niederfüllbach
+90402;Nürnberg
+90403;Nürnberg
+90408;Nürnberg
+90409;Nürnberg
+90411;Nürnberg
+90419;Nürnberg
+90425;Nürnberg
+90427;Nürnberg
+90429;Nürnberg
+90431;Nürnberg
+90439;Nürnberg
+90441;Nürnberg
+90443;Nürnberg
+90449;Nürnberg
+90451;Nürnberg
+90453;Nürnberg
+90455;Nürnberg
+90457;Moorenbrunn
+90459;Nürnberg
+90461;Nürnberg
+90469;Nürnberg
+90471;Nürnberg
+90473;Nürnberg
+90475;Nürnberg
+90478;Nürnberg
+90480;Nürnberg
+90482;Nürnberg
+90489;Nürnberg
+90491;Nürnberg
+90513;Zirndorf
+90518;Altdorf
+90522;Oberasbach
+90530;Wendelstein
+90537;Feucht
+90542;Eckental
+90547;Stein bei Nürnberg
+90552;Röthenbach an der Pegnitz
+90556;Seukendorf
+90556;Cadolzburg
+90559;Burgthann
+90562;Heroldsberg
+90562;Kalchreuth
+90571;Schwaig
+90574;Roßtal
+90579;Langenzenn
+90584;Allersberg
+90587;Obermichelbach
+90587;Veitsbronn
+90587;Tuchenbach
+90592;Schwarzenbruck
+90596;Schwanstetten
+90599;Dietenhofen
+90607;Rückersdorf
+90610;Winkelhaid
+90613;Großhabersdorf
+90614;Ammerndorf
+90616;Neuhof an der Zenn
+90617;Puschendorf
+90619;Trautskirchen
+90762;Fürth
+90763;Fürth
+90765;Fürth
+90766;Fürth
+90768;Fürth
+91052;Erlangen
+91054;Erlangen
+91054;Buckenhof
+91056;Erlangen
+91058;Erlangen
+91074;Herzogenaurach
+91080;Spardorf
+91080;Marloffstein
+91080;Uttenreuth
+91083;Baiersdorf
+91085;Weisendorf
+91086;Aurachtal
+91088;Bubenreuth
+91091;Großenseebach
+91093;Heßdorf
+91096;Möhrendorf
+91097;Oberreichenbach
+91126;Kammerstein
+91126;Schwabach
+91126;Rednitzhembach
+91154;Roth
+91161;Hilpoltstein
+91166;Georgensgmünd
+91171;Greding
+91174;Spalt
+91177;Thalmässing
+91180;Heideck
+91183;Abenberg
+91186;Büchenbach
+91187;Röttenbach
+91189;Rohr
+91207;Lauf an der Pegnitz
+91217;Hersbruck
+91220;Schnaittach
+91224;Pommelsbrunn
+91227;Leinburg
+91230;Happurg
+91233;Neunkirchen am Sand
+91235;Hartenstein
+91235;Velden
+91236;Alfeld
+91238;Engelthal
+91238;Offenhausen
+91239;Henfenfeld
+91241;Kirchensittenbach
+91242;Ottensoos
+91244;Reichenschwand
+91245;Simmelsdorf
+91247;Vorra
+91284;Neuhaus an der Pegnitz
+91315;Höchstadt an der Aisch
+91325;Adelsdorf
+91334;Hemhofen
+91341;Röttenbach
+91350;Gremsdorf
+91413;Neustadt an der Aisch
+91438;Bad Windsheim
+91443;Scheinfeld
+91448;Emskirchen
+91452;Wilhermsdorf
+91456;Diespeck
+91459;Markt Erlbach
+91460;Baudenbach
+91462;Dachsbach
+91463;Dietersheim
+91465;Ergersheim
+91466;Gerhardshofen
+91468;Gutenstetten
+91469;Hagenbüchach
+91471;Illesheim
+91472;Ipsheim
+91474;Langenfeld
+91475;Lonnerstadt
+91477;Markt Bibart
+91478;Markt Nordheim
+91480;Markt Taschendorf
+91481;Münchsteinach
+91483;Oberscheinfeld
+91484;Sugenheim
+91486;Uehlfeld
+91487;Vestenbergsgreuth
+91489;Wilhelmsdorf
+91522;Ansbach
+91541;Rothenburg ob der Tauber
+91550;Dinkelsbühl
+91555;Feuchtwangen
+91560;Heilsbronn
+91564;Neuendettelsau
+91567;Herrieden
+91572;Bechhofen
+91575;Windsbach
+91578;Leutershausen
+91580;Petersaurach
+91583;Diebach
+91583;Schillingsfürst
+91586;Lichtenau
+91587;Adelshofen
+91589;Aurach
+91590;Bruckberg
+91592;Buch am Wald
+91593;Burgbernheim
+91595;Burgoberbach
+91596;Burk
+91598;Colmberg
+91599;Dentlein am Forst
+91601;Dombühl
+91602;Dürrwangen
+91604;Flachslanden
+91605;Gallmersgarten
+91607;Gebsattel
+91608;Geslau
+91610;Insingen
+91611;Lehrberg
+91613;Marktbergel
+91614;Mönchsroth
+91616;Neusitz
+91617;Oberdachstetten
+91619;Obernzenn
+91620;Ohrenbach
+91622;Rügland
+91623;Sachsen
+91625;Schnelldorf
+91626;Schopfloch
+91628;Steinsfeld
+91629;Weihenzell
+91631;Wettringen
+91632;Wieseth
+91634;Wilburgstetten
+91635;Windelsbach
+91637;Wörnitz
+91639;Wolframs-Eschenbach
+91710;Gunzenhausen
+91717;Wassertrüdingen
+91719;Heidenheim
+91720;Absberg
+91722;Arberg
+91723;Dittenheim
+91725;Ehingen
+91726;Gerolfingen
+91728;Gnotzheim
+91729;Haundorf
+91731;Langfurth
+91732;Merkendorf
+91734;Mitteleschenbach
+91735;Muhr am See
+91737;Ornbau
+91738;Pfofeld
+91740;Röckingen
+91741;Theilenhofen
+91743;Unterschwaningen
+91744;Weiltingen
+91746;Weidenbach
+91747;Westheim
+91749;Wittelshofen
+91757;Treuchtlingen
+91781;Weißenburg in Bayern
+91785;Pleinfeld
+91788;Pappenheim
+91790;Nennslingen
+91790;Bergen
+91790;Raitenbuch
+91790;Burgsalach
+91792;Ellingen
+91793;Alesheim
+91796;Ettenstatt
+91798;Höttingen
+91799;Langenaltheim
+91801;Markt Berolzheim
+91802;Meinheim
+91805;Polsingen
+91807;Solnhofen
+96152;Burghaslach
+96172;Mühlhausen
+96193;Wachenroth
+97215;Weigenheim
+97215;Simmershofen
+97215;Uffenheim
+97258;Hemmersheim
+97258;Ippesheim
+97258;Gollhofen
+97258;Oberickelsheim
+63739;Aschaffenburg
+63741;Aschaffenburg
+63743;Aschaffenburg
+63755;Alzenau in Unterfranken
+63762;Großostheim
+63768;Hösbach
+63773;Goldbach
+63776;Mömbris
+63785;Obernburg am Main
+63791;Karlstein am Main
+63796;Kahl am Main
+63801;Kleinostheim
+63808;Haibach
+63811;Stockstadt am Main
+63814;Mainaschaff
+63820;Elsenfeld
+63825;Schöllkrippen
+63825;Blankenbach
+63825;Westerngrund
+63825;Sommerkahl
+63826;Geiselbach
+63828;Kleinkahl
+63829;Krombach
+63831;Wiesen
+63834;Sulzbach am Main
+63839;Kleinwallstadt
+63840;Hausen
+63843;Niedernberg
+63846;Laufach
+63849;Leidersbach
+63853;Mömlingen
+63856;Bessenbach
+63857;Waldaschaff
+63860;Rothenbuch
+63863;Eschau
+63864;Glattbach
+63867;Johannesberg
+63868;Großwallstadt
+63869;Heigenbrücken
+63871;Heinrichsthal
+63872;Heimbuchenthal
+63874;Dammbach
+63875;Mespelbrunn
+63877;Sailauf
+63879;Weibersbrunn
+63897;Miltenberg
+63906;Erlenbach am Main
+63911;Klingenberg am Main
+63916;Amorbach
+63920;Großheubach
+63924;Kleinheubach
+63924;Rüdenau
+63925;Laudenbach
+63927;Bürgstadt
+63928;Eichenbühl
+63930;Neunkirchen
+63931;Kirchzell
+63933;Mönchberg
+63934;Röllbach
+63936;Schneeberg
+63937;Weilbach
+63939;Wörth am Main
+96106;Ebern
+96126;Ermershausen
+96126;Maroldsweisach
+96151;Breitbrunn
+96160;Geiselwind
+96166;Kirchlauter
+96176;Pfarrweisach
+96181;Rauhenebrach
+96184;Rentweinsdorf
+96188;Stettfeld
+96190;Untermerzbach
+97070;Würzburg
+97072;Würzburg
+97074;Würzburg
+97076;Würzburg
+97078;Würzburg
+97080;Würzburg
+97082;Würzburg
+97084;Würzburg
+97199;Ochsenfurt
+97204;Höchberg
+97209;Veitshöchheim
+97218;Gerbrunn
+97222;Rimpar
+97225;Zellingen
+97228;Rottendorf
+97230;Estenfeld
+97232;Giebelstadt
+97234;Reichenberg
+97236;Randersacker
+97237;Altertheim
+97239;Aub
+97241;Bergtheim
+97241;Oberpleichfeld
+97243;Bieberehren
+97244;Bütthard
+97246;Eibelstadt
+97247;Eisenheim
+97249;Eisingen
+97250;Erlabrunn
+97252;Frickenhausen am Main
+97253;Gaukönigshofen
+97255;Gelchsheim
+97255;Sonderhofen
+97256;Geroldshausen
+97259;Greußenheim
+97261;Güntersleben
+97262;Hausen bei Würzburg
+97264;Helmstadt
+97265;Hettstadt
+97267;Himmelstadt
+97268;Kirchheim
+97270;Kist
+97271;Kleinrinderfeld
+97273;Kürnach
+97274;Leinach
+97276;Margetshöchheim
+97277;Neubrunn
+97279;Prosselsheim
+97280;Remlingen
+97282;Retzstadt
+97283;Riedenheim
+97285;Tauberrettersheim
+97285;Röttingen
+97286;Sommerhausen
+97286;Winterhausen
+97288;Theilheim
+97289;Thüngen
+97291;Thüngersheim
+97292;Uettingen
+97292;Holzkirchen
+97294;Unterpleichfeld
+97295;Waldbrunn
+97297;Waldbüttelbrunn
+97299;Zell am Main
+97318;Kitzingen
+97318;Biebelried
+97320;Sulzfeld am Main
+97320;Albertshofen
+97320;Buchbrunn
+97320;Großlangheim
+97320;Mainstockheim
+97332;Volkach
+97334;Sommerach
+97334;Nordheim am Main
+97337;Dettelbach
+97340;Segnitz
+97340;Marktbreit
+97340;Martinsheim
+97342;Obernbreit
+97342;Seinsheim
+97342;Marktsteft
+97346;Iphofen
+97348;Rödelsee
+97348;Willanzheim
+97348;Markt Einersheim
+97350;Mainbernheim
+97353;Wiesentheid
+97355;Kleinlangheim
+97355;Abtswind
+97355;Wiesenbronn
+97355;Rüdenhausen
+97355;Castell
+97357;Prichsenstadt
+97359;Schwarzach am Main
+97412;Schweinfurt
+97421;Schweinfurt
+97422;Schweinfurt
+97424;Schweinfurt
+97437;Haßfurt
+97440;Werneck
+97447;Gerolzhofen
+97447;Frankenwinheim
+97450;Arnstein
+97453;Schonungen
+97456;Dittelbrunn
+97461;Hofheim in Unterfranken
+97464;Niederwerrn
+97469;Gochsheim
+97475;Zeil am Main
+97478;Knetzgau
+97483;Eltmann
+97486;Königsberg in Bayern
+97488;Stadtlauringen
+97490;Poppenhausen
+97491;Aidhausen
+97493;Bergrheinfeld
+97494;Bundorf
+97496;Burgpreppach
+97497;Dingolshausen
+97499;Donnersdorf
+97500;Ebelsbach
+97502;Euerbach
+97503;Gädheim
+97505;Geldersheim
+97506;Grafenrheinfeld
+97508;Grettstadt
+97509;Kolitzheim
+97511;Lülsfeld
+97513;Michelau im Steigerwald
+97514;Oberaurach
+97516;Oberschwarzach
+97517;Rannungen
+97519;Riedbach
+97520;Röthlein
+97522;Sand am Main
+97523;Schwanfeld
+97525;Schwebheim
+97526;Sennfeld
+97528;Sulzdorf an der Lederhecke
+97529;Sulzheim
+97531;Theres
+97532;Üchtelhausen
+97534;Waigolshausen
+97535;Wasserlosen
+97537;Wipfeld
+97539;Wonfurt
+97616;Salz
+97616;Bad Neustadt an der Saale
+97618;Hohenroth
+97618;Rödelmaier
+97618;Niederlauer
+97618;Unsleben
+97618;Heustreu
+97618;Strahlungen
+97618;Wülfershausen an der Saale
+97618;Hollstadt
+97618;Wollbach
+97631;Bad Königshofen im Grabfeld
+97633;Aubstadt
+97633;Großeibstadt
+97633;Herbstadt
+97633;Sulzfeld
+97633;Saal an der Saale
+97633;Großbardorf
+97633;Trappstadt
+97633;Höchheim
+97638;Mellrichstadt
+97640;Hendungen
+97640;Stockheim
+97640;Oberstreu
+97645;Ostheim vor der Rhön
+97647;Hausen
+97647;Willmars
+97647;Sondheim vor der Rhön
+97647;Nordheim vor der Rhön
+97650;Fladungen
+97653;Bischofsheim an der Rhön
+97654;Bastheim
+97656;Oberelsbach
+97657;Sandberg
+97659;Schönau an der Brend
+97688;Bad Kissingen
+97702;Münnerstadt
+97705;Burkardroth
+97708;Bad Bocklet
+97711;Maßbach
+97711;Thundorf in Unterfranken
+97714;Oerlenbach
+97717;Euerdorf
+97717;Aura an der Saale
+97717;Sulzthal
+97720;Nüdlingen
+97723;Oberthulba
+97724;Burglauer
+97725;Elfershausen
+97727;Fuchsstadt
+97729;Ramsthal
+97737;Gemünden am Main
+97753;Karlstadt
+97762;Hammelburg
+97769;Bad Brückenau
+97772;Wildflecken
+97773;Aura im Sinngrund
+97775;Burgsinn
+97776;Eußenheim
+97778;Fellen
+97779;Geroda
+97780;Gössenheim
+97782;Gräfendorf
+97783;Karsbach
+97785;Mittelsinn
+97786;Motten
+97788;Neuendorf
+97789;Oberleichtersbach
+97791;Obersinn
+97792;Riedenberg
+97794;Rieneck
+97795;Schondra
+97797;Wartmannsroth
+97799;Zeitlofs
+97816;Lohr am Main
+97828;Marktheidenfeld
+97833;Frammersbach
+97834;Birkenfeld
+97836;Bischbrunn
+97837;Erlenbach bei Marktheidenfeld
+97839;Esselbach
+97840;Hafenlohr
+97842;Karbach
+97843;Neuhütten
+97845;Neustadt am Main
+97846;Partenstein
+97848;Rechtenbach
+97849;Roden
+97851;Rothenfels
+97852;Schollbrunn
+97854;Steinfeld
+97855;Triefenstein
+97857;Urspringen
+97859;Wiesthal
+97892;Kreuzwertheim
+97901;Altenbuch
+97903;Collenberg
+97904;Dorfprozelten
+97906;Faulbach
+97907;Hasloch
+97909;Stadtprozelten
+82297;Steindorf
+86150;Augsburg
+86152;Augsburg
+86153;Augsburg
+86154;Augsburg
+86156;Augsburg
+86157;Augsburg
+86159;Augsburg
+86161;Augsburg
+86163;Augsburg
+86165;Augsburg
+86167;Augsburg
+86169;Augsburg
+86179;Augsburg
+86199;Augsburg
+86316;Friedberg
+86343;Königsbrunn
+86356;Neusäß
+86368;Gersthofen
+86381;Krumbach
+86391;Stadtbergen
+86399;Bobingen
+86405;Meitingen
+86415;Mering
+86420;Diedorf
+86424;Dinkelscherben
+86438;Kissing
+86441;Zusmarshausen
+86444;Affing
+86447;Todtenweis
+86447;Aindling
+86450;Altenmünster
+86453;Dasing
+86456;Gablingen
+86459;Gessertshausen
+86462;Langweid am Lech
+86465;Heretsried
+86465;Welden
+86470;Thannhausen
+86473;Ziemetshausen
+86476;Neuburg an der Kammel
+86477;Adelsried
+86479;Aichen
+86480;Waltenhausen
+86480;Aletshausen
+86482;Aystetten
+86483;Balzhausen
+86485;Biberbach
+86486;Bonstetten
+86488;Breitenthal
+86489;Deisenhausen
+86491;Ebershausen
+86494;Emersacker
+86495;Eurasburg
+86497;Horgau
+86498;Kettershausen
+86500;Kutzenhausen
+86502;Laugna
+86504;Merching
+86505;Münsterhausen
+86507;Kleinaitingen
+86507;Oberottmarshausen
+86508;Rehling
+86510;Ried
+86511;Schmiechen
+86513;Ursberg
+86514;Ustersbach
+86517;Wehringen
+86519;Wiesenbach
+86551;Aichach
+86554;Pöttmes
+86556;Kühbach
+86559;Adelzhausen
+86568;Hollenbach
+86570;Inchenhofen
+86573;Obergriesbach
+86574;Petersdorf
+86576;Schiltberg
+86577;Sielenbach
+86609;Donauwörth
+86637;Wertingen
+86641;Rain
+86647;Buttenwiesen
+86650;Wemding
+86653;Daiting
+86653;Monheim
+86655;Harburg
+86657;Bissingen
+86660;Tapfheim
+86663;Asbach-Bäumenheim
+86672;Thierhaupten
+86674;Baar
+86675;Buchdorf
+86678;Ehingen
+86679;Ellgau
+86681;Fünfstetten
+86682;Genderkingen
+86684;Holzheim
+86685;Huisheim
+86687;Kaisheim
+86688;Marxheim
+86690;Mertingen
+86692;Münster
+86694;Niederschönenfeld
+86695;Allmannshofen
+86695;Nordendorf
+86698;Oberndorf am Lech
+86700;Otting
+86703;Rögling
+86704;Tagmersheim
+86707;Kühlenthal
+86707;Westendorf
+86709;Wolferstadt
+86720;Nördlingen
+86732;Oettingen in Bayern
+86733;Alerheim
+86735;Amerdingen
+86735;Forheim
+86736;Auhausen
+86738;Deiningen
+86739;Ederheim
+86741;Ehingen am Ries
+86742;Fremdingen
+86744;Hainsfarth
+86745;Hohenaltheim
+86747;Maihingen
+86748;Marktoffingen
+86750;Megesheim
+86751;Mönchsdeggingen
+86753;Möttingen
+86754;Munningen
+86756;Reimlingen
+86757;Wallerstein
+86759;Wechingen
+86807;Buchloe
+86825;Bad Wörishofen
+86830;Schwabmünchen
+86833;Ettringen
+86836;Graben
+86836;Untermeitingen
+86836;Klosterlechfeld
+86836;Obermeitingen
+86842;Türkheim
+86845;Großaitingen
+86850;Fischach
+86853;Langerringen
+86854;Amberg
+86856;Hiltenfingen
+86860;Jengen
+86862;Lamerdingen
+86863;Langenneufnach
+86865;Markt Wald
+86866;Mickhausen
+86868;Mittelneufnach
+86869;Oberostendorf
+86871;Rammingen
+86872;Scherstetten
+86874;Tussenhausen
+86875;Waal
+86877;Walkertshofen
+86879;Wiedergeltingen
+86983;Lechbruck
+87435;Kempten
+87437;Kempten
+87439;Kempten
+87448;Waltenhofen
+87452;Altusried
+87459;Pfronten
+87463;Dietmannsried
+87466;Oy-Mittelberg
+87471;Durach
+87474;Buchenberg
+87477;Sulzberg
+87480;Weitnau
+87484;Nesselwang
+87487;Wiggensbach
+87488;Betzigau
+87490;Haldenwang
+87493;Lauben
+87494;Rückholz
+87496;Untrasried
+87497;Wertach
+87499;Wildpoldsried
+87509;Immenstadt im Allgäu
+87527;Ofterschwang
+87527;Sonthofen
+87534;Oberstaufen
+87538;Balderschwang
+87538;Fischen im Allgäu
+87538;Obermaiselstein
+87538;Bolsterlang
+87541;Bad Hindelang
+87544;Blaichach
+87545;Burgberg im Allgäu
+87547;Missen-Wilhams
+87549;Rettenberg
+87561;Oberstdorf
+87600;Kaufbeuren
+87616;Marktoberdorf
+87616;Wald
+87629;Füssen
+87634;Obergünzburg
+87634;Günzach
+87637;Seeg
+87637;Eisenberg
+87640;Biessenhofen
+87642;Halblech
+87645;Schwangau
+87647;Unterthingau
+87647;Kraftisried
+87648;Aitrang
+87650;Baisweil
+87651;Bidingen
+87653;Eggenthal
+87654;Friesenried
+87656;Germaringen
+87657;Görisried
+87659;Hopferau
+87660;Irsee
+87662;Kaltental
+87662;Osterzell
+87663;Lengenwang
+87665;Mauerstetten
+87666;Pforzen
+87668;Rieden
+87669;Rieden am Forggensee
+87671;Ronsberg
+87672;Roßhaupten
+87674;Ruderatshofen
+87675;Rettenbach am Auerberg
+87675;Stötten am Auerberg
+87677;Stöttwang
+87679;Westendorf
+87700;Memmingen
+87719;Mindelheim
+87724;Ottobeuren
+87727;Babenhausen
+87730;Bad Grönenbach
+87733;Markt Rettenbach
+87734;Benningen
+87736;Böhen
+87737;Boos
+87739;Breitenbrunn
+87740;Buxheim
+87742;Dirlewang
+87742;Apfeltrach
+87743;Egg an der Günz
+87745;Eppishausen
+87746;Erkheim
+87748;Fellheim
+87749;Hawangen
+87751;Heimertingen
+87752;Holzgünz
+87754;Kammlach
+87755;Kirchhaslach
+87757;Kirchheim in Schwaben
+87758;Kronburg
+87760;Lachen
+87761;Lauben
+87763;Lautrach
+87764;Legau
+87766;Memmingerberg
+87767;Niederrieden
+87769;Oberrieden
+87770;Oberschönegg
+87772;Pfaffenhausen
+87773;Pleß
+87775;Salgen
+87776;Sontheim
+87778;Stetten
+87779;Trunkelsberg
+87781;Ungerhausen
+87782;Unteregg
+87784;Westerheim
+87785;Winterrieden
+87787;Wolfertschwenden
+87789;Woringen
+88131;Bodolz
+88131;Lindau (Bodensee)
+88138;Sigmarszell
+88138;Hergensweiler
+88138;Weißensberg
+88142;Wasserburg (Bodensee)
+88145;Opfenbach
+88145;Hergatz
+88149;Nonnenhorn
+88161;Lindenberg im Allgäu
+88167;Grünenbach
+88167;Röthenbach (Allgäu)
+88167;Maierhöfen
+88167;Stiefenhofen
+88167;Gestratz
+88171;Weiler-Simmerberg
+88175;Scheidegg
+88178;Heimenkirch
+88179;Oberreute
+89231;Neu-Ulm
+89233;Neu-Ulm
+89250;Senden
+89257;Illertissen
+89264;Weißenhorn
+89269;Vöhringen
+89275;Elchingen
+89278;Nersingen
+89281;Altenstadt
+89284;Pfaffenhofen an der Roth
+89287;Bellenberg
+89290;Buch
+89291;Holzheim
+89293;Kellmünz
+89294;Oberroth
+89296;Osterberg
+89297;Roggenburg
+89299;Unterroth
+89312;Günzburg
+89331;Burgau
+89335;Ichenhausen
+89340;Leipheim
+89343;Jettingen-Scheppach
+89344;Aislingen
+89346;Bibertal
+89347;Bubesheim
+89349;Burtenbach
+89350;Dürrlauingen
+89352;Ellzee
+89353;Glött
+89355;Gundremmingen
+89356;Haldenwang
+89358;Kammeltal
+89359;Kötz
+89361;Landensberg
+89362;Offingen
+89364;Rettenbach
+89365;Röfingen
+89367;Waldstetten
+89368;Winterbach
+89407;Dillingen an der Donau
+89415;Lauingen (Donau)
+89420;Höchstädt an der Donau
+89423;Gundelfingen an der Donau
+89426;Mödingen
+89426;Wittislingen
+89428;Syrgenstein
+89429;Bachhagel
+89431;Bächingen an der Brenz
+89432;Binswangen
+89434;Blindheim
+89435;Finningen
+89437;Haunsheim
+89438;Holzheim
+89440;Lutzingen
+89441;Medlingen
+89443;Schwenningen
+89444;Villenbach
+89446;Ziertheim
+89447;Zöschingen
+89449;Zusamaltheim
+83344;Bergen
+27568;Bremerhaven
+27570;Bremerhaven
+27572;Bremerhaven
+27574;Bremerhaven
+27576;Bremerhaven
+27578;Bremerhaven
+27580;Bremerhaven
+28195;Bremen
+28197;Bremen
+28199;Bremen
+28201;Bremen
+28203;Bremen
+28205;Bremen
+28207;Bremen
+28209;Bremen
+28211;Bremen
+28213;Bremen
+28215;Bremen
+28217;Bremen
+28219;Bremen
+28237;Bremen
+28239;Bremen
+28259;Bremen
+28277;Bremen
+28279;Bremen
+28307;Bremen
+28309;Bremen
+28325;Bremen
+28327;Bremen
+28329;Bremen
+28335;Bremen
+28355;Bremen
+28357;Bremen
+28359;Bremen
+28717;Bremen
+28719;Bremen
+28755;Bremen
+28757;Bremen
+28759;Bremen
+28777;Bremen
+28779;Bremen
+35510;Butzbach
+35516;Münzenberg
+35519;Rockenberg
+36381;Schlüchtern
+36391;Sinntal
+36396;Steinau an der Straße
+55252;Mainz-Kastel
+60308;Frankfurt am Main
+60311;Frankfurt am Main
+60313;Frankfurt am Main
+60314;Frankfurt am Main
+60316;Frankfurt am Main
+60318;Frankfurt am Main
+60320;Frankfurt am Main
+60322;Frankfurt am Main
+60323;Frankfurt am Main
+60325;Frankfurt am Main
+60326;Frankfurt am Main
+60327;Frankfurt am Main
+60329;Frankfurt am Main
+60385;Frankfurt am Main
+60386;Frankfurt am Main
+60388;Frankfurt am Main
+60389;Frankfurt am Main
+60431;Frankfurt am Main
+60433;Frankfurt am Main
+60435;Frankfurt am Main
+60437;Frankfurt am Main
+60438;Frankfurt am Main
+60439;Frankfurt am Main
+60486;Frankfurt am Main
+60487;Frankfurt am Main
+60488;Frankfurt am Main
+60489;Frankfurt am Main
+60528;Frankfurt am Main
+60529;Frankfurt am Main
+60549;Frankfurt am Main
+60594;Frankfurt am Main
+60596;Frankfurt am Main
+60598;Frankfurt am Main
+60599;Frankfurt am Main
+61118;Bad Vilbel
+61130;Nidderau
+61137;Schöneck
+61138;Niederdorfelden
+61169;Friedberg
+61184;Karben
+61191;Rosbach vor der Höhe Nieder-Rosbach
+61191;Rosbach vor der Höhe Ober-Rosbach
+61191;Rosbach vor der Höhe Rodheim vor der Höhe
+61191;Rosbach vor der Höhe
+61194;Niddatal
+61197;Florstadt
+61200;Wölfersheim
+61203;Reichelsheim
+61206;Wöllstadt
+61209;Echzell
+61231;Bad Nauheim
+61239;Ober-Mörlen
+61250;Usingen
+61267;Neu-Anspach
+61273;Wehrheim
+61276;Weilrod
+61279;Grävenwiesbach
+61348;Bad Homburg vor der Höhe
+61350;Bad Homburg vor der Höhe
+61352;Bad Homburg vor der Höhe
+61381;Friedrichsdorf
+61389;Schmitten
+61440;Oberursel
+61449;Steinbach (Taunus)
+61462;Königstein im Taunus Schneidhain
+61462;Königstein im Taunus Mammolshain
+61462;Königstein im Taunus Falkenstein
+61462;Königstein im Taunus
+61476;Kronberg im Taunus
+61479;Glashütten
+63065;Offenbach
+63067;Offenbach
+63069;Offenbach
+63071;Offenbach
+63073;Offenbach
+63075;Offenbach
+63110;Rodgau
+63128;Dietzenbach
+63150;Heusenstamm
+63165;Mühlheim
+63179;Obertshausen
+63225;Langen
+63263;Neu-Isenburg
+63303;Dreieich
+63322;Rödermark
+63329;Egelsbach
+63405;Hanau
+63450;Hanau
+63452;Hanau
+63454;Hanau
+63456;Hanau
+63457;Hanau
+63477;Maintal
+63486;Bruchköbel
+63500;Seligenstadt
+63505;Langenselbold
+63512;Hainburg
+63517;Rodenbach
+63526;Erlensee
+63533;Mainhausen
+63538;Großkrotzenburg
+63543;Neuberg
+63546;Hammersbach
+63549;Ronneburg
+63571;Gelnhausen
+63579;Freigericht
+63584;Gründau
+63589;Linsengericht
+63594;Hasselroth
+63599;Biebergemünd
+63607;Wächtersbach
+63619;Bad Orb
+63628;Bad Soden-Salmünster
+63633;Birstein
+63636;Brachttal
+63637;Jossgrund
+63639;Flörsbachtal
+63654;Büdingen
+63667;Nidda
+63674;Altenstadt
+63683;Ortenberg
+63688;Gedern
+63691;Ranstadt
+63694;Limeshain
+63695;Glauburg
+63697;Hirzenhain
+63699;Kefenrod
+64283;Darmstadt
+64285;Darmstadt
+64287;Darmstadt
+64289;Darmstadt
+64291;Darmstadt
+64293;Darmstadt
+64295;Darmstadt
+64297;Darmstadt
+64319;Pfungstadt
+64331;Weiterstadt
+64342;Seeheim-Jugenheim
+64347;Griesheim
+64354;Reinheim
+64367;Mühltal
+64372;Ober-Ramstadt
+64380;Roßdorf
+64385;Reichelsheim
+64390;Erzhausen
+64395;Brensbach
+64397;Modautal
+64401;Groß-Bieberau
+64404;Bickenbach
+64405;Fischbachtal
+64407;Fränkisch-Crumbach
+64409;Messel
+64521;Groß-Gerau
+64546;Mörfelden-Walldorf
+64560;Riedstadt
+64569;Nauheim
+64572;Büttelborn
+64579;Gernsheim
+64584;Biebesheim am Rhein
+64589;Stockstadt am Rhein
+64625;Bensheim
+64646;Heppenheim (Bergstraße)
+64653;Lorsch
+64658;Fürth
+64665;Alsbach-Hähnlein
+64668;Rimbach
+64673;Zwingenberg
+64678;Lindenfels
+64683;Einhausen
+64686;Lautertal
+64689;Grasellenbach
+64711;Erbach
+64720;Michelstadt
+64732;Bad König
+64739;Höchst im Odenwald
+64743;Beerfelden
+64747;Breuberg
+64750;Lützelbach
+64753;Brombachtal
+64754;Hesseneck
+64756;Mossautal
+64757;Rothenberg
+64759;Sensbachtal
+64807;Dieburg
+64823;Groß-Umstadt
+64832;Babenhausen
+64839;Münster
+64846;Groß-Zimmern
+64850;Schaafheim
+64853;Otzberg
+64859;Eppertshausen
+65183;Wiesbaden
+65185;Wiesbaden
+65187;Wiesbaden
+65189;Wiesbaden
+65191;Wiesbaden
+65193;Wiesbaden
+65195;Wiesbaden
+65197;Wiesbaden
+65199;Wiesbaden
+65201;Wiesbaden
+65203;Wiesbaden
+65205;Wiesbaden
+65207;Wiesbaden
+65219;Taunusstein
+65220;Taunusstein
+65221;Taunusstein
+65222;Taunusstein
+65223;Taunusstein
+65224;Taunusstein
+65232;Taunusstein
+65239;Hochheim am Main
+65307;Bad Schwalbach
+65321;Heidenrod
+65326;Aarbergen
+65329;Hohenstein
+65343;Eltville am Rhein
+65344;Eltville am Rhein
+65345;Eltville am Rhein
+65346;Eltville am Rhein
+65347;Eltville am Rhein
+65366;Geisenheim
+65375;Oestrich-Winkel
+65385;Rüdesheim am Rhein
+65388;Schlangenbad
+65391;Lorch
+65396;Walluf
+65399;Kiedrich
+65428;Rüsselsheim
+65439;Flörsheim
+65451;Kelsterbach
+65462;Ginsheim-Gustavsburg
+65468;Trebur
+65474;Bischofsheim
+65479;Raunheim
+65510;Idstein
+65510;Hünstetten
+65527;Niedernhausen
+65529;Waldems
+65719;Hofheim am Taunus
+65760;Eschborn
+65779;Kelkheim (Taunus)
+65795;Hattersheim
+65812;Bad Soden am Taunus
+65817;Eppstein
+65824;Schwalbach am Taunus
+65830;Kriftel
+65835;Liederbach am Taunus
+65843;Sulzbach
+65929;Frankfurt am Main
+65931;Frankfurt am Main
+65933;Frankfurt am Main
+65934;Frankfurt am Main
+65936;Frankfurt am Main
+68519;Viernheim
+68623;Lampertheim
+68642;Bürstadt
+68647;Biblis
+68649;Groß-Rohrheim
+69239;Neckarsteinach
+69434;Hirschhorn
+69434;Heddesbach
+69483;Wald-Michelbach
+69488;Birkenau
+69509;Mörlenbach
+69517;Gorxheimertal
+69518;Abtsteinach
+35037;Marburg
+35039;Marburg
+35041;Marburg
+35043;Marburg
+35075;Gladenbach
+35080;Bad Endbach
+35083;Wetter
+35085;Ebsdorfergrund
+35091;Cölbe
+35094;Lahntal
+35096;Weimar
+35102;Lohra
+35112;Fronhausen
+35117;Münchhausen
+35216;Biedenkopf
+35232;Dautphetal
+35236;Breidenbach
+35239;Steffenberg
+35260;Stadtallendorf
+35274;Kirchhain
+35279;Neustadt (Hessen)
+35282;Rauschenberg
+35287;Amöneburg
+35288;Wohratal
+35305;Grünberg
+35315;Homberg (Ohm)
+35321;Laubach
+35325;Mücke
+35327;Ulrichstein
+35329;Gemünden (Felda)
+35390;Gießen
+35392;Gießen
+35394;Gießen
+35396;Gießen
+35398;Gießen
+35410;Hungen
+35415;Pohlheim
+35418;Buseck
+35423;Lich
+35428;Langgöns
+35435;Wettenberg
+35440;Linden
+35444;Biebertal
+35447;Reiskirchen
+35452;Heuchelheim
+35457;Lollar
+35460;Staufenberg
+35463;Fernwald
+35466;Rabenau
+35469;Allendorf (Lumda)
+35576;Wetzlar
+35578;Wetzlar
+35579;Wetzlar
+35580;Wetzlar
+35581;Wetzlar
+35582;Wetzlar
+35583;Wetzlar
+35584;Wetzlar
+35585;Wetzlar
+35586;Wetzlar
+35606;Solms
+35614;Aßlar
+35619;Braunfels Bonbaden
+35619;Braunfels
+35619;Braunfels Braunfels
+35619;Braunfels Tiefenbach
+35619;Braunfels Philippstein
+35619;Braunfels Altenkirchen
+35619;Braunfels Neukirchen
+35625;Hüttenberg
+35630;Ehringshausen
+35633;Lahnau
+35638;Leun
+35641;Schöffengrund
+35644;Hohenahr
+35647;Waldsolms
+35649;Bischoffen
+35683;Dillenburg
+35684;Dillenburg
+35685;Dillenburg
+35686;Dillenburg
+35687;Dillenburg
+35688;Dillenburg
+35689;Dillenburg
+35690;Dillenburg
+35708;Haiger
+35713;Eschenburg
+35716;Dietzhölztal
+35719;Angelburg
+35745;Herborn
+35753;Greifenstein
+35756;Mittenaar
+35759;Driedorf
+35764;Sinn
+35767;Breitscheid
+35768;Siegbach
+35781;Weilburg
+35789;Weilmünster
+35792;Löhnberg
+35794;Mengerskirchen
+35796;Weinbach
+35799;Merenberg
+36110;Schlitz
+36304;Alsfeld
+36318;Schwalmtal
+36320;Kirtorf
+36323;Grebenau
+36325;Feldatal
+36326;Antrifttal
+36329;Romrod
+36341;Lauterbach
+36355;Grebenhain
+36358;Herbstein
+36367;Wartenberg
+36369;Lautertal
+36399;Freiensteinau
+63679;Schotten
+65520;Bad Camberg
+65549;Limburg an der Lahn
+65550;Limburg an der Lahn
+65551;Limburg an der Lahn
+65552;Limburg an der Lahn
+65553;Limburg an der Lahn
+65554;Limburg an der Lahn
+65555;Limburg an der Lahn
+65556;Limburg an der Lahn
+65589;Hadamar
+65594;Runkel
+65597;Hünfelden
+65599;Dornburg
+65604;Elz
+65606;Villmar
+65611;Brechen
+65614;Beselich
+65618;Selters (Taunus)
+65620;Waldbrunn (Westerwald)
+65627;Elbtal
+34117;Kassel
+34119;Kassel
+34121;Kassel
+34123;Kassel
+34125;Kassel
+34127;Kassel
+34128;Kassel
+34130;Kassel
+34131;Kassel
+34132;Kassel
+34134;Kassel
+34212;Melsungen
+34225;Baunatal
+34233;Fuldatal
+34246;Vellmar
+34253;Lohfelden
+34260;Kaufungen
+34266;Niestetal
+34270;Schauenburg
+34277;Fuldabrück
+34281;Gudensberg
+34286;Spangenberg
+34289;Zierenberg
+34292;Ahnatal
+34295;Edermünde
+34298;Helsa
+34302;Guxhagen
+34305;Niedenstein
+34308;Bad Emstal
+34311;Naumburg
+34314;Espenau
+34317;Habichtswald
+34320;Söhrewald
+34323;Malsfeld
+34326;Morschen
+34327;Körle
+34329;Nieste
+34359;Reinhardshagen
+34369;Hofgeismar
+34376;Immenhausen
+34379;Calden
+34385;Bad Karlshafen
+34388;Trendelburg
+34393;Grebenstein
+34396;Liebenau
+34399;Oberweser
+34454;Bad Arolsen
+34466;Wolfhagen
+34471;Volkmarsen
+34474;Diemelstadt
+34477;Twistetal
+34479;Breuna
+34497;Korbach
+34508;Willingen (Upland)
+34513;Waldeck
+34516;Vöhl
+34519;Diemelsee
+34537;Bad Wildungen
+34549;Edertal
+34560;Fritzlar
+34576;Homberg (Efze)
+34582;Borken
+34587;Felsberg
+34590;Wabern
+34593;Knüllwald
+34596;Bad Zwesten
+34599;Neuental
+34613;Schwalmstadt
+34621;Frielendorf
+34626;Neukirchen
+34628;Willingshausen
+34630;Gilserberg
+34632;Jesberg
+34633;Ottrau
+34637;Schrecksbach
+34639;Schwarzenborn
+35066;Frankenberg (Eder)
+35088;Battenberg (Eder)
+35099;Burgwald
+35104;Lichtenfels
+35108;Allendorf (Eder)
+35108;Allendorf (Eder) Battenfeld
+35108;Allendorf (Eder) Osterfeld
+35108;Allendorf (Eder) Rennertehausen
+35108;Allendorf (Eder) Haine
+35110;Frankenau
+35114;Haina (Kloster)
+35116;Hatzfeld (Eder)
+35119;Rosenthal
+35285;Gemünden (Wohra)
+36037;Fulda
+36039;Fulda
+36041;Fulda
+36043;Fulda
+36088;Hünfeld
+36093;Künzell
+36100;Petersberg
+36103;Flieden
+36115;Hilders
+36115;Ehrenberg
+36119;Neuhof
+36124;Eichenzell
+36129;Gersfeld
+36132;Eiterfeld
+36137;Großenlüder
+36142;Tann
+36145;Hofbieber
+36148;Kalbach
+36151;Burghaun
+36154;Hosenfeld
+36157;Ebersburg
+36160;Dipperz
+36163;Poppenhausen
+36166;Haunetal
+36167;Nüsttal
+36169;Rasdorf
+36179;Bebra
+36199;Rotenburg an der Fulda
+36205;Sontra
+36208;Wildeck
+36211;Alheim
+36214;Nentershausen
+36217;Ronshausen
+36219;Cornberg
+36251;Ludwigsau
+36251;Bad Hersfeld
+36266;Heringen (Werra)
+36269;Philippsthal (Werra)
+36272;Niederaula
+36275;Kirchheim
+36277;Schenklengsfeld
+36280;Oberaula
+36282;Hauneck
+36284;Hohenroda
+36286;Neuenstein
+36287;Breitenbach am Herzberg
+36289;Friedewald
+36364;Bad Salzschlirf
+37213;Witzenhausen
+37214;Witzenhausen
+37215;Witzenhausen
+37216;Witzenhausen
+37217;Witzenhausen
+37218;Witzenhausen
+37235;Hessisch Lichtenau
+37242;Bad Sooden-Allendorf
+37247;Großalmerode
+37249;Neu-Eichenberg
+37269;Eschwege
+37276;Meinhard
+37281;Wanfried
+37284;Waldkappel
+37287;Wehretal
+37290;Meißner
+37293;Herleshausen
+37296;Ringgau
+37297;Berkatal
+37299;Weißenborn
+55246;Mainz-Kostheim
+20038;Hamburg
+20088;Hamburg
+20095;Hamburg Altstadt
+20095;Hamburg Klostertor
+20095;Hamburg
+20095;Hamburg Sankt Georg
+20097;Hamburg Hammerbrook
+20097;Hamburg
+20097;Hamburg Sankt Georg
+20097;Hamburg Klostertor
+20099;Hamburg
+20099;Hamburg Sankt Georg
+20099;Hamburg Hamburg-Altstadt
+20144;Hamburg Rotherbaum
+20144;Hamburg Hoheluft-Ost
+20144;Hamburg
+20144;Hamburg Eimsbüttel
+20144;Hamburg Harvestehude
+20146;Hamburg Harvestehude
+20146;Hamburg Rotherbaum
+20146;Hamburg
+20148;Hamburg Rotherbaum
+20148;Hamburg Harvestehude
+20148;Hamburg
+20149;Hamburg Harvestehude
+20149;Hamburg Rotherbaum
+20149;Hamburg
+20249;Hamburg Harvestehude
+20249;Hamburg Eppendorf
+20249;Hamburg Winterhude
+20249;Hamburg
+20249;Hamburg Hoheluft-Ost
+20251;Hamburg
+20251;Hamburg Hoheluft-Ost
+20251;Hamburg Alsterdorf
+20251;Hamburg Eppendorf
+20253;Hamburg Hoheluft-West
+20253;Hamburg Eimsbüttel
+20253;Hamburg Harvestehude
+20253;Hamburg Lokstedt
+20253;Hamburg Hoheluft-Ost
+20253;Hamburg
+20255;Hamburg
+20255;Hamburg Lokstedt
+20255;Hamburg Hoheluft-West
+20255;Hamburg Stellingen
+20255;Hamburg Eimsbüttel
+20257;Hamburg Altona-Nord
+20257;Hamburg Eimsbüttel
+20257;Hamburg
+20259;Hamburg Eimsbüttel
+20259;Hamburg
+20350;Hamburg
+20354;Hamburg Sankt Pauli
+20354;Hamburg Rotherbaum
+20354;Hamburg Neustadt
+20354;Hamburg
+20355;Hamburg Neustadt
+20355;Hamburg
+20355;Hamburg Sankt Pauli
+20357;Hamburg Eimsbüttel
+20357;Hamburg Sankt Pauli
+20357;Hamburg Altona-Altstadt
+20357;Hamburg Altona-Nord
+20357;Hamburg Rotherbaum
+20357;Hamburg
+20359;Hamburg Neustadt
+20359;Hamburg Sankt Pauli
+20359;Hamburg Altona-Altstadt
+20359;Hamburg
+20457;Hamburg Neustadt
+20457;Hamburg Steinwerder
+20457;Hamburg Hamburg-Altstadt
+20457;Hamburg Klostertor
+20457;Hamburg
+20457;Hamburg Kleiner Grasbrook
+20459;Hamburg Sankt Pauli
+20459;Hamburg Neustadt
+20459;Hamburg Hamburg-Altstadt
+20459;Hamburg
+20535;Hamburg Hamm-Nord
+20535;Hamburg Borgfelde
+20535;Hamburg
+20537;Hamburg Borgfelde
+20537;Hamburg
+20537;Hamburg Hamm-Süd
+20537;Hamburg Hamm-Mitte
+20537;Hamburg Hammerbrook
+20539;Hamburg Wilhelmsburg
+20539;Hamburg Rothenburgsort
+20539;Hamburg Kleiner Grasbrook
+20539;Hamburg
+20539;Hamburg Veddel
+21029;Hamburg Altengamme
+21029;Hamburg
+21029;Hamburg Bergedorf
+21029;Hamburg Curslack
+21031;Hamburg Bergedorf
+21031;Hamburg Lohbrügge
+21031;Hamburg
+21033;Hamburg Billwerder
+21033;Hamburg Bergedorf
+21033;Hamburg Lohbrügge
+21033;Hamburg
+21035;Hamburg Allermöhe
+21035;Hamburg
+21035;Hamburg Bergedorf
+21035;Hamburg Billwerder
+21037;Hamburg Neuengamme
+21037;Hamburg Tatenberg
+21037;Hamburg Spadenland
+21037;Hamburg Curslack
+21037;Hamburg
+21037;Hamburg Allermöhe
+21037;Hamburg Ochsenwerder
+21037;Hamburg Reitbrook
+21037;Hamburg Kirchwerder
+21073;Hamburg Eißendorf
+21073;Hamburg
+21073;Hamburg Harburg
+21073;Hamburg Wilstorf
+21073;Hamburg Heimfeld
+21075;Hamburg Harburg
+21075;Hamburg Eißendorf
+21075;Hamburg Heimfeld
+21075;Hamburg Hausbruch
+21075;Hamburg
+21077;Hamburg Rönneburg
+21077;Hamburg Langenbek
+21077;Hamburg Wilstorf
+21077;Hamburg
+21077;Hamburg Sinstorf
+21077;Hamburg Eißendorf
+21077;Hamburg Marmstorf
+21079;Hamburg Wilstorf
+21079;Hamburg Moorburg
+21079;Hamburg
+21079;Hamburg Sinstorf
+21079;Hamburg Langenbek
+21079;Hamburg Harburg
+21079;Hamburg Heimfeld
+21079;Hamburg Rönneburg
+21079;Hamburg Gut Moor
+21079;Hamburg Neuland
+21079;Hamburg Hausbruch
+21107;Hamburg Wilhelmsburg
+21107;Hamburg
+21107;Hamburg Steinwerder
+21109;Hamburg
+21109;Hamburg Wilhelmsburg
+21109;Hamburg Veddel
+21129;Hamburg Neuenfelde
+21129;Hamburg Cranz
+21129;Hamburg Francop
+21129;Hamburg Waltershof
+21129;Hamburg
+21129;Hamburg Moorburg
+21129;Hamburg Altenwerder
+21129;Hamburg Finkenwerder
+21147;Hamburg
+21147;Hamburg Neugraben-Fischbek
+21147;Hamburg Hausbruch
+21149;Hamburg Neugraben-Fischbek
+21149;Hamburg Hausbruch
+21149;Hamburg
+22041;Hamburg Marienthal
+22041;Hamburg Wandsbek
+22041;Hamburg Tonndorf
+22041;Hamburg
+22043;Hamburg Marienthal
+22043;Hamburg Jenfeld
+22043;Hamburg
+22043;Hamburg Tonndorf
+22045;Hamburg Tonndorf
+22045;Hamburg
+22045;Hamburg Jenfeld
+22047;Hamburg
+22047;Hamburg Bramfeld
+22047;Hamburg Tonndorf
+22047;Hamburg Wandsbek
+22049;Hamburg Dulsberg
+22049;Hamburg Wandsbek
+22049;Hamburg
+22081;Hamburg Barmbek-Süd
+22081;Hamburg
+22081;Hamburg Uhlenhorst
+22083;Hamburg Barmbek-Süd
+22083;Hamburg
+22085;Hamburg Barmbek-Süd
+22085;Hamburg
+22085;Hamburg Uhlenhorst
+22087;Hamburg Hohenfelde
+22087;Hamburg
+22087;Hamburg Hamm-Nord
+22087;Hamburg Eilbek
+22087;Hamburg Uhlenhorst
+22089;Hamburg Marienthal
+22089;Hamburg Eilbek
+22089;Hamburg Wandsbek
+22089;Hamburg
+22089;Hamburg Hamm-Nord
+22089;Hamburg Hohenfelde
+22111;Hamburg
+22111;Hamburg Billstedt
+22111;Hamburg Horn
+22111;Hamburg Billbrook
+22115;Hamburg Billstedt
+22115;Hamburg
+22115;Hamburg Lohbrügge
+22117;Hamburg
+22117;Hamburg Billstedt
+22119;Hamburg Billstedt
+22119;Hamburg
+22119;Hamburg Horn
+22143;Hamburg Rahlstedt
+22143;Hamburg
+22147;Hamburg
+22147;Hamburg Rahlstedt
+22149;Hamburg
+22149;Hamburg Rahlstedt
+22149;Hamburg Tonndorf
+22159;Hamburg Sasel
+22159;Hamburg Bramfeld
+22159;Hamburg
+22159;Hamburg Farmsen-Berne
+22159;Hamburg Tonndorf
+22175;Hamburg Bramfeld
+22175;Hamburg
+22177;Hamburg
+22177;Hamburg Bramfeld
+22177;Hamburg Steilshoop
+22179;Hamburg Bramfeld
+22179;Hamburg
+22297;Hamburg Winterhude
+22297;Hamburg Barmbek-Nord
+22297;Hamburg
+22297;Hamburg Groß Borstel
+22297;Hamburg Alsterdorf
+22299;Hamburg
+22299;Hamburg Winterhude
+22301;Hamburg
+22301;Hamburg Winterhude
+22303;Hamburg Barmbek-Nord
+22303;Hamburg
+22303;Hamburg Winterhude
+22305;Hamburg Winterhude
+22305;Hamburg Barmbek-Süd
+22305;Hamburg Barmbek-Nord
+22305;Hamburg
+22307;Hamburg Barmbek-Nord
+22307;Hamburg
+22309;Hamburg Barmbek-Nord
+22309;Hamburg
+22309;Hamburg Bramfeld
+22309;Hamburg Ohlsdorf
+22309;Hamburg Steilshoop
+22335;Hamburg Ohlsdorf
+22335;Hamburg
+22335;Hamburg Groß Borstel
+22335;Hamburg Fuhlsbüttel
+22335;Hamburg Alsterdorf
+22337;Hamburg Ohlsdorf
+22337;Hamburg Alsterdorf
+22337;Hamburg
+22339;Hamburg Hummelsbüttel
+22339;Hamburg
+22339;Hamburg Fuhlsbüttel
+22359;Hamburg Bergstedt
+22359;Hamburg Rahlstedt
+22359;Hamburg Volksdorf
+22359;Hamburg
+22391;Hamburg Poppenbüttel
+22391;Hamburg Wellingsbüttel
+22391;Hamburg Ohlsdorf
+22391;Hamburg Hummelsbüttel
+22391;Hamburg Sasel
+22391;Hamburg
+22391;Hamburg Bramfeld
+22393;Hamburg Bramfeld
+22393;Hamburg Wellingsbüttel
+22393;Hamburg Poppenbüttel
+22393;Hamburg
+22393;Hamburg Sasel
+22395;Hamburg Poppenbüttel
+22395;Hamburg Bergstedt
+22395;Hamburg Wohldorf-Ohlstedt
+22395;Hamburg Sasel
+22395;Hamburg
+22397;Hamburg
+22397;Hamburg Duvenstedt
+22397;Hamburg Wohldorf-Ohlstedt
+22397;Hamburg Lemsahl-Mellingstedt
+22399;Hamburg Lemsahl-Mellingstedt
+22399;Hamburg Hummelsbüttel
+22399;Hamburg Poppenbüttel
+22399;Hamburg
+22415;Hamburg Fuhlsbüttel
+22415;Hamburg Hummelsbüttel
+22415;Hamburg Langenhorn
+22415;Hamburg
+22417;Hamburg Langenhorn
+22417;Hamburg Hummelsbüttel
+22417;Hamburg
+22419;Hamburg Langenhorn
+22419;Hamburg
+22453;Hamburg
+22453;Hamburg Groß Borstel
+22453;Hamburg Fuhlsbüttel
+22453;Hamburg Niendorf
+22455;Hamburg Schnelsen
+22455;Hamburg Niendorf
+22455;Hamburg
+22457;Hamburg Niendorf
+22457;Hamburg Schnelsen
+22457;Hamburg Eidelstedt
+22457;Hamburg
+22459;Hamburg Niendorf
+22459;Hamburg
+22459;Hamburg Schnelsen
+22523;Hamburg Eidelstedt
+22523;Hamburg
+22525;Hamburg Stellingen
+22525;Hamburg Eidelstedt
+22525;Hamburg Lurup
+22525;Hamburg Eimsbüttel
+22525;Hamburg Bahrenfeld
+22525;Hamburg
+22527;Hamburg Eidelstedt
+22527;Hamburg Lokstedt
+22527;Hamburg Eimsbüttel
+22527;Hamburg
+22527;Hamburg Stellingen
+22529;Hamburg Lokstedt
+22529;Hamburg Groß Borstel
+22529;Hamburg Eppendorf
+22529;Hamburg Hoheluft-West
+22529;Hamburg
+22529;Hamburg Niendorf
+22529;Hamburg Stellingen
+22547;Hamburg Bahrenfeld
+22547;Hamburg Osdorf
+22547;Hamburg Lurup
+22547;Hamburg Eidelstedt
+22547;Hamburg
+22549;Hamburg Lurup
+22549;Hamburg Osdorf
+22549;Hamburg Bahrenfeld
+22549;Hamburg
+22559;Hamburg Rissen
+22559;Hamburg
+22587;Hamburg Osdorf
+22587;Hamburg Rissen
+22587;Hamburg Nienstedten
+22587;Hamburg Blankenese
+22587;Hamburg Sülldorf
+22587;Hamburg
+22589;Hamburg Osdorf
+22589;Hamburg Iserbrook
+22589;Hamburg Blankenese
+22589;Hamburg Sülldorf
+22589;Hamburg
+22605;Hamburg Groß Flottbek
+22605;Hamburg Othmarschen
+22605;Hamburg Bahrenfeld
+22605;Hamburg
+22607;Hamburg Groß Flottbek
+22607;Hamburg Othmarschen
+22607;Hamburg Nienstedten
+22607;Hamburg
+22607;Hamburg Bahrenfeld
+22609;Hamburg Groß Flottbek
+22609;Hamburg
+22609;Hamburg Othmarschen
+22609;Hamburg Nienstedten
+22609;Hamburg Osdorf
+22761;Hamburg Bahrenfeld
+22761;Hamburg
+22763;Hamburg Othmarschen
+22763;Hamburg Ottensen
+22763;Hamburg
+22765;Hamburg Ottensen
+22765;Hamburg Altona-Nord
+22765;Hamburg Altona-Altstadt
+22765;Hamburg
+22767;Hamburg
+22767;Hamburg Altona-Altstadt
+22767;Hamburg Sankt Pauli
+22767;Hamburg Ottensen
+22769;Hamburg Sankt Pauli
+22769;Hamburg Bahrenfeld
+22769;Hamburg Eimsbüttel
+22769;Hamburg Stellingen
+22769;Hamburg Altona-Nord
+22769;Hamburg Altona-Altstadt
+22769;Hamburg
+27499;Hamburg Neuwerk
+17033;Neubrandenburg
+17034;Neubrandenburg
+17036;Neubrandenburg
+17039;Zirzow
+17039;Brunn
+17039;Blankenhof
+17039;Wulkenzin
+17039;Warlin
+17039;Staven
+17039;Beseritz
+17039;Neuenkirchen
+17039;Neverin
+17039;Trollenhagen
+17039;Neddemin
+17039;Woggersin
+17039;Sponholz
+17087;Altentreptow
+17089;Bartow
+17089;Golchen
+17089;Gültz
+17089;Gnevkow
+17089;Werder
+17089;Breest
+17089;Burow
+17089;Grapzow
+17089;Grischow
+17089;Siedenbollentin
+17091;Breesen
+17091;Rosenow
+17091;Röckwitz
+17091;Groß Teetzleben
+17091;Pripsleben
+17091;Tützpatz
+17091;Mölln
+17091;Kriesow
+17091;Knorrendorf
+17091;Altenhagen
+17091;Wolde
+17091;Wildberg
+17094;Pragsdorf
+17094;Burg Stargard
+17094;Cölpin
+17094;Teschendorf
+17094;Holldorf
+17094;Lindetal
+17094;Groß Nemerow
+17094;Cammin
+17098;Friedland
+17099;Glienke
+17099;Eichhorst
+17099;Datzetal
+17099;Schwanbeck
+17099;Genzkow
+17099;Brohm
+17109;Demmin
+17111;Kentzlin
+17111;Siedenbrünzow
+17111;Beggerow
+17111;Sanzkow
+17111;Upost
+17111;Beestland
+17111;Borrentin
+17111;Hohenbollentin
+17111;Warrenzin
+17111;Utzedel
+17111;Teusin
+17111;Lindenberg
+17111;Sommersdorf
+17111;Sarow
+17111;Nossendorf
+17111;Kletzin
+17111;Hohenmocker
+17111;Hohenbrünzow
+17111;Schönfeld
+17111;Meesiger
+17111;Wotenick
+17111;Quitzerow
+17121;Sassen
+17121;Loitz
+17121;Düvier
+17121;Wüstenfelde
+17121;Görmin
+17121;Trantow
+17126;Jarmen
+17129;Bentzin
+17129;Tutow
+17129;Daberkow
+17129;Völschow
+17129;Plötz
+17129;Alt Tellin
+17129;Schmarsow
+17129;Kruckow
+17139;Remplin
+17139;Kummerow
+17139;Gielow
+17139;Basedow
+17139;Faulenrost
+17139;Duckow
+17139;Malchin
+17139;Schwinkendorf
+17153;Ivenack
+17153;Briggow
+17153;Kittendorf
+17153;Bredenfelde
+17153;Zettemin
+17153;Ritzerow
+17153;Grammentin
+17153;Jürgenstorf
+17153;Gülzow
+17153;Reuterstadt Stavenhagen
+17154;Neukalen
+17159;Brudersdorf
+17159;Zarnekow
+17159;Dargun
+17159;Stubbendorf
+17159;Wagun
+17166;Groß Wokern
+17166;Hohen Demzin
+17166;Bristow
+17166;Teterow
+17166;Dahmen
+17166;Dalkendorf
+17166;Bülow
+17166;Groß Roge
+17166;Alt Sührkow
+17168;Levitzow
+17168;Groß Wüstenfelde
+17168;Jördenstorf
+17168;Remlin
+17168;Matgendorf
+17168;Lelkendorf
+17168;Prebberede
+17168;Thürkow
+17168;Sukow-Marienhof
+17168;Poggelow
+17168;Warnkenhagen
+17168;Neu Heinde
+17179;Wasdow
+17179;Altkalen
+17179;Boddin
+17179;Gnoien
+17179;Behren-Lübchin
+17179;Walkendorf
+17179;Lühburg
+17179;Finkenthal
+17192;Groß Plasten
+17192;Klink
+17192;Varchentin
+17192;Groß Gievitz
+17192;Waren (Müritz)
+17192;Torgelow am See
+17192;Kargow
+17192;Alt Schönau
+17192;Lansen
+17192;Schloen
+17192;Groß Dratow
+17194;Neu Gaarz
+17194;Klocksin
+17194;Jabel
+17194;Hinrichshagen
+17194;Vielist
+17194;Vollrathsruhe
+17194;Hohen Wangelin
+17194;Lupendorf
+17194;Moltzow
+17194;Grabowhöfe
+17207;Gotthun
+17207;Bollewick
+17207;Ludorf
+17207;Kambs
+17207;Groß Kelle
+17207;Röbel/Müritz
+17209;Rogeez
+17209;Walow
+17209;Satow
+17209;Melz
+17209;Grabow-Below
+17209;Jaebetz
+17209;Massow
+17209;Kieve
+17209;Vipperow
+17209;Wredenhagen
+17209;Bütow
+17209;Stuer
+17209;Altenhof
+17209;Buchholz
+17209;Zislow
+17209;Minzow
+17209;Priborn
+17209;Zepkow
+17209;Leizen
+17209;Sietow
+17209;Fincken
+17213;Lexow
+17213;Grüssow
+17213;Göhren-Lebbin
+17213;Malchow
+17213;Penkow
+17213;Kogel
+17213;Adamshoffnung
+17214;Alt Schwerin
+17214;Nossentiner Hütte
+17214;Silz
+17217;Puchow
+17217;Mollenstorf
+17217;Klein Lukow
+17217;Penzlin
+17217;Lapitz
+17217;Krukow
+17217;Alt Rehse
+17217;Groß Vielen
+17217;Mallin
+17219;Marihn
+17219;Ankershagen
+17219;Möllenhagen
+17219;Groß Flotow
+17235;Neustrelitz
+17237;Blumenholz
+17237;Kratzeburg
+17237;Carpin
+17237;Hohenzieritz
+17237;Möllenbeck
+17237;Watzkendorf
+17237;Userin
+17237;Klein Vielen
+17237;Godendorf
+17237;Grünow
+17237;Wokuhl-Dabelow
+17237;Blankensee
+17248;Rechlin
+17248;Lärz
+17252;Roggentin
+17252;Diemitz
+17252;Mirow
+17252;Schwarz
+17255;Wesenberg
+17255;Wustrow
+17255;Priepert
+17258;Feldberger Seenlandschaft
+17259;Feldberger Seenlandschaft
+17309;Belling
+17309;Marienthal
+17309;Jatznick
+17309;Fahrenwalde
+17309;Krugsdorf
+17309;Brietzig
+17309;Zerrenthin
+17309;Viereck
+17309;Züsedom
+17309;Polzow
+17309;Damerow
+17309;Rollwitz
+17309;Schönwalde
+17309;Pasewalk
+17309;Nieden
+17309;Koblentz
+17309;Papendorf
+17321;Bergholz
+17321;Plöwen
+17321;Löcknitz
+17321;Ramin
+17321;Rothenklempenow
+17321;Glashütte
+17322;Bismark
+17322;Mewegen
+17322;Glasow
+17322;Lebehn
+17322;Blankensee
+17322;Boock
+17322;Pampow
+17322;Grambow
+17322;Rossow
+17328;Penkun
+17328;Wollin
+17329;Krackow
+17329;Nadrensee
+17335;Strasburg
+17337;Klein Luckow
+17337;Groß Luckow
+17337;Uckerland
+17337;Schönhausen
+17337;Galenbeck
+17337;Blumenhagen
+17348;Lindetal
+17348;Mildenitz
+17348;Woldegk
+17348;Petersdorf
+17348;Neu Käbelich
+17348;Groß Daberkow
+17349;Lindetal
+17349;Neetzka
+17349;Helpt
+17349;Kublank
+17349;Groß Miltzow
+17349;Schönbeck
+17349;Voigtsdorf
+17358;Torgelow-Holländerei
+17358;Torgelow
+17358;Hammer
+17367;Eggesin
+17373;Ueckermünde
+17375;Luckow
+17375;Grambin
+17375;Hintersee
+17375;Vogelsang-Warsin
+17375;Mönkebude
+17375;Meiersberg
+17375;Altwarp
+17375;Ahlbeck
+17375;Leopoldshagen
+17375;Liepgarten
+17379;Lübs
+17379;Neuendorf A
+17379;Heinrichsruh
+17379;Wilhelmsburg
+17379;Ferdinandshof
+17379;Heinrichswalde
+17379;Altwigshagen
+17379;Rothemühl
+17379;Wietstock
+17389;Anklam
+17390;Ziethen
+17390;Murchin
+17390;Schmatzin
+17390;Groß Polzin
+17390;Klein Bünzow
+17390;Rubkow
+17391;Iven
+17391;Neetzow
+17391;Stolpe
+17391;Nerdin
+17391;Krusenfelde
+17391;Liepen
+17391;Steinmocker
+17391;Neuendorf B
+17391;Postlow
+17391;Medow
+17391;Krien
+17392;Butzow
+17392;Spantekow
+17392;Sarnow
+17392;Japenzin
+17392;Pelsin
+17392;Zinzow
+17392;Neuenkirchen
+17392;Blesewitz
+17392;Boldekow
+17392;Putzar
+17392;Drewelow
+17398;Neu Kosenow
+17398;Ducherow
+17398;Rathebur
+17398;Bugewitz
+17398;Löwitz
+17398;Schwerinsburg
+17398;Bargischow
+17398;Rossin
+17406;Rankwitz
+17406;Usedom
+17406;Morgenitz
+17406;Stolpe auf Usedom
+17419;Garz
+17419;Zirchow
+17419;Dargen
+17419;Korswandt
+17419;Ahlbeck
+17419;Kamminke
+17424;Heringsdorf
+17429;Mellenthin
+17429;Benz
+17429;Neppermin
+17429;Bansin
+17429;Pudagla
+17438;Wolgast
+17440;Sauzin
+17440;Krummin
+17440;Buddenhagen
+17440;Kröslin
+17440;Lütow
+17440;Buggenhagen
+17440;Hohendorf
+17440;Zemitz
+17440;Lassan
+17440;Groß Ernsthof
+17440;Pulow
+17449;Trassenheide
+17449;Mölschow
+17449;Karlshagen
+17449;Peenemünde
+17454;Zinnowitz
+17459;Koserow
+17459;Ückeritz
+17459;Zempin
+17459;Loddin
+17489;Greifswald
+17491;Greifswald
+17493;Greifswald
+17495;Züssow
+17495;Karlsburg
+17495;Ranzin
+17495;Wrangelsburg
+17495;Lühmannsdorf
+17495;Groß Kiesow
+17498;Hinrichshagen
+17498;Neuenkirchen
+17498;Wackerow
+17498;Dersekow
+17498;Dargelin
+17498;Levenhagen
+17498;Diedrichshagen
+17498;Weitenhagen
+17498;Behrenhoff
+17498;Mesekenhagen
+17506;Bandelin
+17506;Gribow
+17506;Kölzin
+17506;Breechen
+17506;Lüssow
+17506;Kammin
+17506;Gützkow
+17509;Kemnitz
+17509;Hanshagen
+17509;Lubmin
+17509;Brünzow
+17509;Rubenow
+17509;Loissin
+17509;Wusterhusen
+17509;Katzow
+17509;Neu Boltenhagen
+18055;Rostock
+18057;Rostock
+18059;Ziesendorf
+18059;Pölchow
+18059;Papendorf
+18059;Rostock
+18069;Lambrechtshagen
+18069;Rostock
+18106;Rostock
+18107;Rostock
+18107;Elmenhorst-Lichtenhagen
+18109;Rostock
+18119;Rostock
+18146;Rostock
+18147;Rostock
+18181;Seeheilbad Graal-Müritz
+18182;Blankenhagen
+18182;Gelbensande
+18182;Mönchhagen
+18182;Rövershagen
+18182;Bentwisch
+18184;Roggentin
+18184;Mandelshagen
+18184;Poppendorf
+18184;Steinfeld
+18184;Broderstorf
+18184;Klein Kussewitz
+18184;Thulendorf
+18184;Hohenfelde
+18190;Sanitz
+18195;Gnewitz
+18195;Thelkow
+18195;Selpin
+18195;Grammow
+18195;Tessin
+18195;Zarnewanz
+18195;Nustrow
+18195;Cammin
+18195;Stubbendorf
+18196;Kessin
+18196;Lieblingshof
+18196;Prisannewitz
+18196;Damm
+18196;Kavelstorf
+18196;Dummerstorf
+18198;Stäbelow
+18198;Kritzmow
+18209;Bad Doberan
+18209;Bartenshagen-Parkentin
+18209;Reddelich
+18209;Wittenbeck
+18209;Steffenshagen
+18211;Nienhagen
+18211;Börgerende-Rethwisch
+18211;Admannshagen-Bargeshagen
+18211;Retschow
+18225;Kühlungsborn
+18230;Rerik
+18230;Biendorf
+18230;Jennewitz
+18230;Bastorf
+18231;Neubukow
+18233;Krempin
+18233;Ravensberg
+18233;Pepelow
+18233;Kamin
+18233;Westenbrügge
+18233;Kirch Mulsow
+18233;Karin
+18233;Rakow
+18233;Neubukow
+18233;Alt Bukow
+18236;Kröpelin
+18236;Altenhagen
+18236;Schmadebeck
+18239;Satow
+18239;Reinshagen
+18239;Hanstorf
+18239;Heiligenhagen
+18239;Bölkow
+18239;Radegast
+18246;Bützow
+18246;Klein Belitz
+18246;Jürgenshagen
+18246;Neuendorf
+18246;Baumgarten
+18246;Rühn
+18246;Zepelin
+18246;Steinhagen
+18249;Bernitt
+18249;Tarnow
+18249;Penzin
+18249;Warnow
+18249;Dreetz
+18258;Bröbberow
+18258;Wiendorf
+18258;Kassow
+18258;Rukieten
+18258;Vorbeck
+18258;Schwaan
+18258;Benitz
+18273;Güstrow
+18276;Reimershagen
+18276;Bülow
+18276;Kuhs
+18276;Lohmen
+18276;Recknitz
+18276;Lüssow
+18276;Groß Schwiesow
+18276;Glasewitz
+18276;Gutow
+18276;Zehna
+18276;Prüzen
+18276;Mistorf
+18276;Mühl Rosin
+18276;Gülzow
+18276;Klein Upahl
+18279;Plaaz
+18279;Lalendorf
+18279;Wattmannshagen
+18279;Langhagen
+18292;Krakow am See
+18292;Kuchelmiß
+18292;Bellin
+18292;Dobbin-Linstow Dobbin
+18292;Dobbin-Linstow
+18292;Hoppenrade
+18299;Diekhof
+18299;Alt Kätwin
+18299;Wardow
+18299;Dolgen
+18299;Weitendorf
+18299;Pölitz
+18299;Laage
+18299;Hohen Sprenz
+18299;Liessow
+18311;Ribnitz-Damgarten
+18314;Löbnitz
+18314;Divitz-Spoldershagen
+18314;Lüdershagen
+18314;Kenz-Küstrow
+18314;Bartelshagen II
+18317;Saal
+18320;Trinwillershagen
+18320;Schlemmin
+18320;Ahrenshagen-Daskow
+18320;Dettmannsdorf
+18334;Böhlendorf
+18334;Semlow
+18334;Langsdorf
+18334;Eixen
+18334;Breesen
+18334;Schulenberg
+18334;Bad Sülze
+18337;Marlow
+18347;Dierhagen
+18347;Wustrow
+18347;Ahrenshoop
+18356;Fuhlendorf
+18356;Pruchten
+18356;Barth
+18374;Zingst
+18375;Prerow
+18375;Wieck
+18375;Born am Darß
+18435;Stralsund
+18437;Stralsund
+18439;Stralsund
+18442;Wendorf
+18442;Pantelitz
+18442;Groß Kordshagen
+18442;Lüssow
+18442;Kummerow
+18442;Jakobsdorf
+18442;Niepars
+18442;Neu Bartelshagen
+18442;Steinhagen
+18445;Preetz
+18445;Prohn
+18445;Altenpleen
+18445;Groß Mohrdorf
+18445;Klausdorf
+18445;Kramerhof
+18461;Weitenhagen
+18461;Richtenberg
+18461;Millienhagen-Oebelitz
+18461;Gremersdorf-Buchholz
+18461;Franzburg
+18465;Tribsees
+18465;Drechow
+18465;Hugoldsdorf
+18469;Velgast
+18469;Karnin
+18507;Grimmen
+18510;Elmenhorst
+18510;Stoltenhagen
+18510;Papenhagen
+18510;Behnkendorf
+18510;Wittenhagen
+18510;Zarrendorf
+18513;Deyelsdorf
+18513;Grammendorf
+18513;Splietsdorf
+18513;Wendisch Baggendorf
+18513;Gransebieth
+18513;Glewitz
+18516;Süderholz
+18519;Wilmshagen
+18519;Brandshagen
+18519;Reinberg
+18519;Miltzow
+18519;Kirchdorf
+18519;Horst
+18528;Buschvitz
+18528;Lietzow
+18528;Patzig
+18528;Parchtitz
+18528;Sehlen
+18528;Thesenvitz
+18528;Zirkow
+18528;Rappin
+18528;Ralswiek
+18528;Bergen auf Rügen
+18546;Sassnitz
+18551;Glowe
+18551;Lohme
+18551;Sagard
+18556;Breege
+18556;Dranske
+18556;Wiek
+18556;Putgarten
+18556;Altenkirchen
+18565;Insel Hiddensee
+18569;Kluis
+18569;Ummanz
+18569;Trent
+18569;Neuenkirchen
+18569;Schaprode
+18569;Gingst
+18573;Dreschvitz
+18573;Samtens
+18573;Rambin
+18573;Altefähr
+18574;Karnitz
+18574;Zudar
+18574;Poseritz
+18574;Gustow
+18574;Garz
+18581;Putbus
+18586;Middelhagen
+18586;Lancken-Granitz
+18586;Baabe
+18586;Sellin
+18586;Gager
+18586;Thiessow
+18586;Göhren
+18609;Binz
+19053;Schwerin
+19055;Schwerin
+19057;Schwerin
+19059;Schwerin
+19061;Schwerin
+19063;Schwerin
+19065;Godern
+19065;Pinnow
+19065;Raben Steinfeld
+19065;Gneven
+19067;Langen Brütz
+19067;Retgendorf
+19067;Leezen
+19067;Rubow
+19067;Cambs
+19069;Klein Trebbow
+19069;Pingelshagen
+19069;Seehof
+19069;Alt Meteln
+19069;Böken
+19069;Zickhusen
+19071;Brüsewitz
+19071;Cramonshagen
+19071;Dalberg-Wendelstorf
+19071;Grambow
+19073;Zülow
+19073;Stralendorf
+19073;Wittenförden
+19073;Dümmer
+19073;Klein Rogahn
+19073;Schossin
+19075;Holthusen
+19075;Pampow
+19075;Warsow
+19077;Uelitz
+19077;Rastow
+19077;Lübesse
+19077;Sülstorf
+19079;Sukow
+19079;Banzkow
+19079;Goldenstädt
+19086;Plate
+19089;Wessin
+19089;Barnin
+19089;Zapel
+19089;Göhren
+19089;Bülow
+19089;Gädebehn
+19089;Crivitz
+19089;Demen
+19089;Tramm
+19089;Ruthenbeck
+19205;Roggendorf
+19205;Rögnitz
+19205;Mühlen Eichsen
+19205;Pokrent
+19205;Kneese
+19205;Gadebusch
+19205;Veelböken
+19205;Dragun
+19205;Krembz
+19209;Renzow
+19209;Gottesgabe
+19209;Perlin
+19209;Badow
+19209;Lützow
+19217;Löwitz
+19217;Groß Rünz
+19217;Thandorf
+19217;Vitense
+19217;Holdorf
+19217;Rehna
+19217;Dechow
+19217;Bülow
+19217;Utecht
+19217;Nesow
+19217;Carlow
+19217;Demern
+19217;Köchelstorf
+19217;Schlagsdorf
+19217;Wedendorf
+19217;Groß Molzahn
+19217;Rieps
+19230;Warlitz
+19230;Bresegard
+19230;Bandenitz
+19230;Strohkirchen
+19230;Gammelin
+19230;Alt Zachun
+19230;Picher
+19230;Redefin
+19230;Kuhstorf
+19230;Hülseburg
+19230;Toddin
+19230;Pätow
+19230;Hagenow
+19230;Setzin
+19230;Hoort
+19230;Moraas
+19230;Pritzier
+19230;Groß Krams
+19230;Belsch
+19230;Kirch Jesar
+19230;Bobzin
+19243;Körchow
+19243;Wittenburg
+19243;Lehsen
+19243;Karft
+19243;Waschow
+19243;Boddin
+19243;Tessin bei Wittenburg
+19243;Dreilützow
+19243;Luckwitz
+19243;Drönnewitz
+19243;Dodow
+19243;Parum
+19246;Lassahn
+19246;Kogel
+19246;Bantin
+19246;Camin
+19246;Valluhn
+19246;Lüttow
+19246;Neuhof
+19246;Zarrentin
+19249;Lübtheen
+19249;Garlitz
+19249;Gößlow
+19249;Jessenitz
+19258;Wiebendorf
+19258;Tessin bei Boizenburg
+19258;Besitz
+19258;Greven
+19258;Neu Gülze
+19258;Boizenburg
+19258;Gresse
+19258;Nostorf
+19258;Schwanheide
+19258;Klein Bengerstorf
+19258;Gallin
+19260;Kloddram
+19260;Rodenwalde
+19260;Bennin
+19260;Banzin
+19260;Vellahn
+19260;Dersenow
+19273;Melkof
+19273;Brahlstorf
+19273;Teldau
+19273;Amt Neuhaus
+19288;Göhlen
+19288;Kummer
+19288;Warlow
+19288;Ludwigslust
+19288;Fahrbinde
+19288;Groß Laasch
+19288;Wöbbelin
+19288;Alt Krenzlin
+19288;Glaisin
+19288;Lüblow
+19288;Leussow
+19294;Karstädt
+19294;Krinitz
+19294;Bresegard
+19294;Niendorf an der Rögnitz
+19294;Eldena
+19294;Neu Kaliß
+19294;Malk Göhren
+19294;Gorlosen
+19294;Dadow
+19294;Malk Göhren Malk
+19294;Malk Göhren Göhren
+19294;Karenz
+19294;Grebs
+19294;Malliß
+19300;Kremmin
+19300;Möllenbeck
+19300;Balow
+19300;Werle
+19300;Prislich
+19300;Zierzow
+19300;Muchow
+19300;Milow
+19300;Grabow
+19300;Steesow
+19303;Tewswoos
+19303;Heidhof
+19303;Polz
+19303;Vielank
+19303;Dömitz
+19303;Rüterberg
+19303;Woosmer
+19306;Brenz
+19306;Neustadt-Glewe
+19306;Blievenstorf
+19357;Mankmuß
+19357;Garlin
+19357;Karstädt
+19357;Boberow
+19357;Pröttlin
+19357;Dambeck
+19370;Parchim
+19372;Brunow
+19372;Stralendorf
+19372;Matzlow-Garwitz
+19372;Herzfeld
+19372;Spornitz
+19372;Stolpe
+19372;Karrenzin
+19372;Ziegendorf
+19372;Groß Godems
+19372;Rom
+19374;Klinken
+19374;Severin
+19374;Mestlin
+19374;Domsühl
+19374;Grebbin
+19374;Friedrichsruhe
+19374;Raduhn
+19374;Zölkow
+19374;Herzberg
+19374;Groß Niendorf
+19374;Damm
+19376;Siggelkow
+19376;Tessenow
+19376;Suckow
+19376;Marnitz
+19386;Kreien
+19386;Broock
+19386;Werder
+19386;Granzin
+19386;Gischow
+19386;Lutheran
+19386;Kritzow
+19386;Lübz
+19386;Wahlstorf
+19386;Karbow-Vietlübbe
+19386;Passow
+19386;Gallin-Kuppentin
+19395;Wendisch Priborn
+19395;Gnevsdorf
+19395;Karow
+19395;Plauerhagen
+19395;Barkow
+19395;Plau am See
+19395;Retzow
+19395;Ganzlin
+19399;Wendisch Waren
+19399;Langenhagen
+19399;Neu Poserin
+19399;Diestelow
+19399;Techentin
+19399;Goldberg
+19399;Dobbertin
+19406;Hohen Pritz
+19406;Groß Görnow
+19406;Kobrow
+19406;Mustin
+19406;Borkow
+19406;Sternberg
+19406;Witzin
+19406;Dabel
+19412;Brüel
+19412;Weitendorf
+19412;Wendorf
+19412;Kuhlen
+19412;Blankenberg
+19412;Langen Jarchow
+19412;Zahrensdorf
+19417;Groß Labenz
+19417;Ventschow
+19417;Warin
+19417;Jesendorf
+19417;Bibow
+23923;Lockwisch
+23923;Menzendorf
+23923;Groß Siemz
+23923;Selmsdorf
+23923;Roduchelstorf
+23923;Niendorf
+23923;Lüdersdorf
+23923;Schönberg
+23936;Börzow
+23936;Bernstorf
+23936;Upahl
+23936;Hanshagen
+23936;Roggenstorf
+23936;Plüschow
+23936;Grevesmühlen
+23936;Mallentin
+23936;Papenhusen
+23936;Testorf-Steinfort
+23936;Grieben
+23936;Rüting
+23936;Warnow
+23942;Pötenitz
+23942;Dassow
+23942;Kalkhorst
+23942;Harkensee
+23944;Ostseebad Boltenhagen
+23946;Boltenhagen
+23948;Damshagen
+23948;Moor-Rolofshagen
+23948;Groß Walmstorf
+23948;Elmenhorst
+23948;Klütz
+23952;Wismar, Mecklenburg
+23966;Wismar
+23968;Gramkow
+23968;Barnekow
+23968;Zierow
+23968;Gägelow
+23968;Wismar
+23970;Benz
+23970;Wismar
+23972;Schimm
+23972;Groß Stieten
+23972;Metelsdorf
+23972;Lübow
+23972;Dorf Mecklenburg
+23974;Boiensdorf
+23974;Neuburg
+23974;Hornstorf
+23974;Krusenhagen
+23974;Blowatz
+23992;Züsow
+23992;Lübberstorf
+23992;Zurow
+23992;Glasin
+23992;Neukloster
+23992;Passee
+23996;Bobitz
+23996;Hohen Viecheln
+23996;Groß Krankow
+23996;Bad Kleinen
+23996;Beidendorf
+23999;Insel Poel
+21217;Seevetal
+21218;Seevetal
+21220;Seevetal
+21224;Rosengarten
+21227;Bendestorf
+21228;Harmstorf
+21244;Buchholz in der Nordheide
+21255;Dohren
+21255;Königsmoor
+21255;Wistedt
+21255;Kakenstorf
+21255;Tostedt
+21256;Handeloh
+21258;Heidenau
+21259;Otter
+21261;Welle
+21266;Jesteburg
+21271;Hanstedt
+21271;Asendorf
+21272;Egestorf
+21274;Undeloh
+21279;Hollenstedt
+21279;Appel
+21279;Wenzendorf
+21279;Drestedt
+21335;Lüneburg
+21337;Lüneburg
+21339;Lüneburg
+21354;Bleckede
+21357;Barum
+21357;Bardowick
+21357;Wittorf
+21358;Mechtersen
+21360;Vögelsen
+21365;Adendorf
+21368;Dahlenburg
+21368;Dahlem
+21368;Boitze
+21369;Nahrendorf
+21371;Tosterglope
+21376;Salzhausen
+21376;Gödenstorf
+21376;Eyendorf
+21376;Garlstorf
+21379;Lüdersburg
+21379;Rullstorf
+21379;Scharnebeck
+21379;Echem
+21380;Artlenburg
+21382;Brietlingen
+21385;Rehlingen
+21385;Amelinghausen
+21385;Oldendorf (Luhe)
+21386;Betzendorf
+21388;Soderstorf
+21391;Reppenstedt
+21391;Dachtmissen
+21394;Kirchgellersen
+21394;Heiligenthal
+21394;Westergellersen
+21394;Südergellersen
+21395;Tespe
+21397;Barendorf
+21397;Vastorf
+21398;Neetze
+21400;Reinstorf
+21401;Thomasburg
+21403;Wendisch Evern
+21406;Melbeck
+21406;Barnstedt
+21407;Deutsch Evern
+21409;Embsen
+21423;Drage
+21423;Winsen (Luhe)
+21435;Stelle
+21436;Marschacht
+21438;Brackel
+21439;Marxen
+21441;Garstedt
+21442;Toppenstedt
+21444;Vierhöfen
+21445;Wulfsen
+21447;Handorf
+21449;Radbruch
+21522;Hittbergen
+21522;Hohnstorf (Elbe)
+21614;Buxtehude
+21629;Neu Wulmstorf
+21635;Jork
+21640;Horneburg
+21640;Neuenkirchen
+21640;Nottensdorf
+21640;Bliedersdorf
+21641;Apensen
+21643;Beckdorf
+21644;Sauensiek
+21646;Halvesbostel
+21647;Moisburg
+21649;Regesbostel
+21680;Stade
+21682;Stade
+21683;Stade
+21684;Agathenburg
+21684;Stade
+21698;Harsefeld
+21698;Bargstedt
+21698;Brest
+21702;Ahlerstedt
+21706;Drochtersen
+21709;Düdenbüttel
+21709;Himmelpforten
+21709;Burweg
+21710;Engelschoff
+21712;Großenwörden
+21714;Hammah
+21717;Deinste
+21717;Fredenbeck
+21720;Guderhandviertel
+21720;Mittelnkirchen
+21720;Grünendeich
+21720;Steinkirchen
+21723;Hollern-Twielenfleth
+21726;Heinbockel
+21726;Kranenburg
+21726;Oldendorf
+21727;Estorf
+21729;Freiburg (Elbe)
+21730;Balje
+21732;Krummendeich
+21734;Oederquart
+21737;Wischhafen
+21739;Dollern
+21745;Hemmoor
+21755;Hechthausen
+21756;Osten
+21762;Otterndorf
+21762;Osterbruch
+21763;Neuenkirchen
+21765;Nordleda
+21769;Lamstedt
+21769;Hollnseth
+21769;Armstorf
+21770;Mittelstenahe
+21772;Stinstedt
+21775;Ihlienworth
+21775;Odisheim
+21775;Steinau
+21776;Wanna
+21781;Cadenberge
+21782;Bülkau
+21784;Geversdorf
+21785;Neuhaus an der Oste
+21785;Belum
+21787;Oberndorf
+21789;Wingst
+26121;Oldenburg (Oldenburg)
+26122;Oldenburg (Oldenburg)
+26123;Oldenburg (Oldenburg)
+26125;Oldenburg (Oldenburg)
+26127;Oldenburg (Oldenburg)
+26129;Oldenburg (Oldenburg)
+26131;Oldenburg (Oldenburg)
+26133;Oldenburg (Oldenburg)
+26135;Oldenburg (Oldenburg)
+26160;Bad Zwischenahn
+26169;Friesoythe
+26180;Rastede
+26188;Edewecht
+26197;Großenkneten
+26203;Wardenburg
+26209;Hatten
+26215;Wiefelstede
+26219;Bösel
+26316;Varel Langendamm
+26316;Varel Rosenberg
+26316;Varel Hohenberge
+26316;Varel Jeringhave
+26316;Varel Neudorf
+26316;Varel Jethausen
+26316;Varel Grünenkamp
+26316;Varel Dangastermoor
+26316;Varel Streek
+26316;Varel Moorhausen
+26316;Varel Rallenbüschen
+26316;Varel Borgstede
+26316;Varel Altjührden
+26316;Varel Winkelsheide
+26316;Varel Neuenwege
+26316;Varel Obenstrohe
+26316;Varel Hohelucht
+26316;Varel Varel
+26316;Varel
+26316;Varel Dangast
+26316;Varel Seghorn
+26316;Varel Büppel
+26340;Zetel Zetel
+26340;Zetel
+26340;Zetel Neuenburg
+26345;Bockhorn Ellenserdammersiel
+26345;Bockhorn Bockhornerfeld
+26345;Bockhorn Petersgroden
+26345;Bockhorn Goelriehenfeld
+26345;Bockhorn Bredehorn
+26345;Bockhorn Steinhausen
+26345;Bockhorn Kranenkamp
+26345;Bockhorn Adelheidsgroden
+26345;Bockhorn
+26345;Bockhorn Jührdenerfeld
+26345;Bockhorn Bockhorn
+26345;Bockhorn Moorwinkelsdamm
+26345;Bockhorn Grabstede
+26345;Bockhorn Blauhand
+26345;Bockhorn Osterforde
+26349;Jade
+26382;Wilhelmshaven
+26384;Wilhelmshaven
+26386;Wilhelmshaven
+26388;Wilhelmshaven
+26389;Wilhelmshaven
+26409;Wittmund Burhafe
+26409;Wittmund Buttforde
+26409;Wittmund
+26409;Wittmund Asel
+26409;Wittmund Willen
+26409;Wittmund Carolinensiel
+26409;Wittmund Ardorf
+26409;Wittmund Leerhafe
+26409;Wittmund Hovel
+26409;Wittmund Funnix
+26409;Wittmund Berdum
+26409;Wittmund Wittmund
+26409;Wittmund Blersum
+26409;Wittmund Uttel
+26409;Wittmund Eggelingen
+26419;Schortens Sillenstede
+26419;Schortens Schoost
+26419;Schortens Schortens
+26419;Schortens Ostiem
+26419;Schortens Upjever
+26419;Schortens Heidmühle
+26419;Schortens
+26419;Schortens Middelsfähr
+26419;Schortens Addernhausen
+26419;Schortens Accum
+26419;Schortens Oestringfelde
+26419;Schortens Grafschaft
+26419;Schortens Roffhausen
+26427;Esens
+26427;Neuharlingersiel
+26427;Stedesdorf
+26427;Moorweg
+26427;Werdum
+26427;Dunum
+26427;Holtgast
+26434;Wangerland
+26434;Wangerland Hohenkirchen
+26434;Wangerland Tettens
+26434;Wangerland Hooksiel
+26434;Wangerland Waddewarden
+26434;Wangerland Minsen
+26441;Jever
+26441;Jever Jever
+26446;Friedeburg Wiesede
+26446;Friedeburg Reepsholt, Abickhafe
+26446;Friedeburg Reepsholt, Reepsholt
+26446;Friedeburg Horsten
+26446;Friedeburg Marx
+26446;Friedeburg Reepsholt, Hoheesche
+26446;Friedeburg
+26446;Friedeburg Friedeburg
+26446;Friedeburg Hesel
+26446;Friedeburg Reepsholt
+26446;Friedeburg Wiesedermeer
+26446;Friedeburg Reepsholt, Dose
+26446;Friedeburg Etzel
+26446;Friedeburg Bentstreek
+26452;Sande Cäciliengroden
+26452;Sande Mariensiel
+26452;Sande Neustadtgödens
+26452;Sande Sanderbusch
+26452;Sande Sande
+26452;Sande Dykhausen
+26452;Sande
+26465;Langeoog
+26474;Spiekeroog
+26486;Wangerooge
+26487;Neuschoo
+26487;Blomberg
+26489;Ochtersum Westochtersum
+26489;Ochtersum Ostochtersum
+26489;Ochtersum
+26506;Norden Norddeich
+26506;Norden Tidofeld
+26506;Norden Süderneuland I
+26506;Norden
+26506;Norden Westermarsch I
+26506;Norden Norden
+26506;Norden Bargebur
+26506;Norden Westermarsch II
+26506;Norden Leybuchtpolder
+26506;Norden Ostermarsch
+26506;Norden Neuwesteel
+26506;Norden Süderneuland II
+26524;Berumbur
+26524;Hagermarsch
+26524;Hage
+26524;Lütetsburg
+26524;Halbemond
+26529;Upgant-Schott
+26529;Rechtsupweg
+26529;Marienhafe
+26529;Osteel
+26529;Wirdum
+26529;Leezdorf
+26532;Großheide Großheide
+26532;Großheide Westerende
+26532;Großheide Arle
+26532;Großheide
+26532;Großheide Menstede-Coldinne, Menstede
+26532;Großheide Menstede-Coldinne
+26532;Großheide Berumerfehn
+26532;Großheide Menstede-Coldinne, Coldinne
+26548;Norderney
+26553;Dornum Dornum
+26553;Dornum Dornumergrode
+26553;Dornum Neßmersiel
+26553;Dornum Dornumersiel
+26553;Dornum Westeraccum
+26553;Dornum
+26553;Dornum Roggenstede
+26553;Dornum Nesse
+26553;Dornum Westdorf
+26553;Dornum Westeraccumersiel
+26553;Dornum Schwittersum
+26553;Dornum Westerbur
+26556;Eversmeer
+26556;Nenndorf
+26556;Westerholt
+26556;Utarp
+26556;Schweindorf
+26571;Juist
+26579;Baltrum
+26603;Aurich
+26605;Aurich Brockzetel
+26605;Aurich
+26605;Aurich Egels
+26605;Aurich Haxtum
+26607;Aurich
+26624;Südbrookmerland Bedekaspel
+26624;Südbrookmerland Moorhusen
+26624;Südbrookmerland Victorbur
+26624;Südbrookmerland Münkeboe
+26624;Südbrookmerland Oldeborg
+26624;Südbrookmerland
+26624;Südbrookmerland Theene
+26624;Südbrookmerland Forlitz-Blaukirchen
+26624;Südbrookmerland Uthwerdum
+26624;Südbrookmerland Wiegboldsbur
+26624;Südbrookmerland Moordorf
+26629;Großefehn Bagband
+26629;Großefehn Aurich-Oldendorf
+26629;Großefehn Timmel
+26629;Großefehn Spetzerfehn
+26629;Großefehn Westgroßefehn
+26629;Großefehn Ulbargen
+26629;Großefehn Wrisse
+26629;Großefehn Strackholt
+26629;Großefehn Fiebing
+26629;Großefehn Mittegroßefehn
+26629;Großefehn Ostgroßefehn
+26629;Großefehn Holtrop
+26629;Großefehn Felde
+26629;Großefehn Akelsbarg
+26629;Großefehn
+26632;Ihlow Barstede
+26632;Ihlow Bangstede
+26632;Ihlow Ochtelbur
+26632;Ihlow Ihlowerfehn
+26632;Ihlow Riepsterhammrich
+26632;Ihlow Westerende-Holzloog
+26632;Ihlow Westerende-Kirchloog
+26632;Ihlow Simonswolde
+26632;Ihlow
+26632;Ihlow Ludwigsdorf
+26632;Ihlow Ostersander
+26632;Ihlow Riepe
+26639;Wiesmoor Wiesmoor
+26639;Wiesmoor
+26639;Wiesmoor Zwischenbergen
+26639;Wiesmoor Marcardsmoor
+26639;Wiesmoor Voßbarg
+26639;Wiesmoor Wiesederfehn
+26655;Westerstede
+26670;Uplengen
+26676;Barßel
+26683;Saterland
+26689;Apen
+26721;Emden
+26723;Emden
+26725;Emden
+26736;Krummhörn Pilsum
+26736;Krummhörn Greetsiel
+26736;Krummhörn Eilsum
+26736;Krummhörn Jennelt
+26736;Krummhörn Groothusen
+26736;Krummhörn Loquard
+26736;Krummhörn Freepsum
+26736;Krummhörn Canum
+26736;Krummhörn Grimersum
+26736;Krummhörn Manslagt
+26736;Krummhörn Rysum
+26736;Krummhörn Visquard
+26736;Krummhörn Woltzeten
+26736;Krummhörn Uttum
+26736;Krummhörn
+26736;Krummhörn Upleward
+26736;Krummhörn Pewsum
+26736;Krummhörn Woquard
+26736;Krummhörn Campen
+26736;Krummhörn Hamswehrum
+26757;Borkum
+26759;Hinte Canhusen
+26759;Hinte Groß Midlum
+26759;Hinte Cirkwehrum
+26759;Hinte
+26759;Hinte Osterhusen
+26759;Hinte Hinte
+26759;Hinte Loppersum
+26759;Hinte Suurhusen
+26759;Hinte Westerhusen
+26789;Leer (Ostfriesland)
+26802;Moormerland
+26810;Westoverledingen
+26817;Rhauderfehn
+26826;Weener
+26831;Bunderhee
+26831;Wymeer
+26831;Bunde
+26831;Dollart
+26831;Boen
+26835;Hesel
+26835;Neukamperfehn
+26835;Holtland
+26835;Schwerinsdorf
+26835;Brinkum
+26835;Firrel
+26842;Ostrhauderfehn
+26844;Jemgum
+26845;Nortmoor
+26847;Detern
+26849;Filsum
+26871;Papenburg
+26892;Wippingen
+26892;Heede
+26892;Kluse
+26892;Dörpen
+26892;Lehe
+26897;Esterwegen
+26897;Hilkenbrook
+26897;Breddenberg
+26897;Bockhorst
+26899;Rhede
+26901;Lorup
+26901;Rastdorf
+26903;Surwold
+26904;Börger
+26906;Dersum
+26907;Walchum
+26909;Neulehe
+26909;Neubörger
+26919;Brake
+26931;Elsfleth
+26935;Stadland
+26936;Stadland
+26937;Stadland
+26939;Ovelgönne
+26954;Nordenham
+26969;Butjadingen
+27211;Bassum
+27232;Sulingen
+27239;Twistringen
+27243;Groß Ippener
+27243;Winkelsett
+27243;Colnrade
+27243;Harpstedt
+27243;Dünsen
+27243;Beckeln
+27243;Kirchseelte
+27243;Prinzhöfte
+27245;Barenburg
+27245;Bahrenborstel
+27245;Kirchdorf
+27246;Borstel
+27248;Ehrenburg
+27249;Maasen
+27249;Mellinghausen
+27251;Scholen
+27251;Neuenkirchen
+27252;Schwaförden
+27254;Staffhorst
+27254;Siedenburg
+27257;Affinghausen
+27257;Sudwalde
+27259;Varrel
+27259;Freistatt
+27259;Wehrbleck
+27283;Verden (Aller)
+27299;Langwedel
+27305;Engeln
+27305;Bruchhausen-Vilsen
+27305;Süstedt
+27308;Kirchlinteln
+27313;Dörverden
+27318;Hoya
+27318;Hoyerhagen
+27318;Hilgermissen
+27321;Thedinghausen
+27321;Emtinghausen
+27321;Morsum
+27324;Gandesbergen
+27324;Hämelhausen
+27324;Hassel (Weser)
+27324;Eystrup
+27327;Schwarme
+27327;Martfeld
+27330;Asendorf
+27333;Schweringen
+27333;Warpe
+27333;Bücken
+27336;Rethem (Aller)
+27336;Frankenfeld
+27336;Häuslingen
+27337;Blender
+27339;Riede
+27356;Rotenburg (Wümme)
+27367;Bötersen
+27367;Horstedt
+27367;Hassendorf
+27367;Sottrum
+27367;Ahausen
+27367;Hellwege
+27367;Reeßum
+27374;Visselhövede
+27383;Scheeßel
+27386;Brockel
+27386;Kirchwalsede
+27386;Westerwalsede
+27386;Bothel
+27386;Hemslingen
+27386;Hemsbünde
+27389;Stemmen
+27389;Lauenbrück
+27389;Helvesiek
+27389;Vahlde
+27389;Fintel
+27404;Ostereistedt
+27404;Zeven
+27404;Heeslingen
+27404;Elsdorf
+27404;Seedorf
+27404;Rhade
+27404;Gyhum
+27412;Hepstedt
+27412;Kirchtimke
+27412;Wilstedt
+27412;Tarmstedt
+27412;Westertimke
+27412;Vorwerk
+27412;Breddorf
+27412;Bülstedt
+27419;Lengenbostel
+27419;Kalbe
+27419;Klein Meckelsen
+27419;Wohnste
+27419;Sittensen
+27419;Vierden
+27419;Hamersen
+27419;Groß Meckelsen
+27419;Tiste
+27432;Basdahl
+27432;Oerel
+27432;Alfstedt
+27432;Hipstedt
+27432;Ebersdorf
+27432;Bremervörde
+27442;Gnarrenburg
+27446;Selsingen
+27446;Anderlingen
+27446;Farven
+27446;Deinstedt
+27446;Sandbostel
+27449;Kutenholz
+27472;Cuxhaven
+27474;Cuxhaven
+27476;Cuxhaven
+27478;Cuxhaven
+27607;Langen
+27612;Loxstedt
+27616;Beverstedt
+27616;Lunestedt
+27616;Frelsdorf
+27616;Bokel
+27616;Kirchwistedt
+27616;Heerstedt
+27616;Appeln
+27616;Stubben
+27616;Hollen
+27619;Schiffdorf
+27624;Flögeln
+27624;Drangstedt
+27624;Köhlen
+27624;Elmlohe
+27624;Kührstedt
+27624;Lintig
+27624;Ringstedt
+27624;Bad Bederkesa
+27628;Bramstedt
+27628;Hagen im Bremischen
+27628;Sandstedt
+27628;Driftsethe
+27628;Uthlede
+27628;Wulsbüttel
+27632;Misselwarden
+27632;Cappel
+27632;Dorum
+27632;Midlum
+27632;Padingbüttel
+27632;Mulsum
+27637;Nordholz
+27638;Wremen
+27711;Osterholz-Scharmbeck
+27721;Ritterhude
+27726;Worpswede
+27729;Axstedt
+27729;Holste
+27729;Hambergen
+27729;Lübberstedt
+27729;Vollersode
+27749;Delmenhorst
+27751;Delmenhorst
+27753;Delmenhorst
+27755;Delmenhorst
+27777;Ganderkesee
+27793;Wildeshausen
+27798;Hude (Oldenburg)
+27801;Dötlingen
+27804;Berne
+27809;Lemwerder
+28790;Schwanewede
+28816;Stuhr
+28832;Achim
+28844;Weyhe
+28857;Syke
+28865;Lilienthal
+28870;Ottersberg
+28876;Oyten
+28879;Grasberg
+29221;Celle
+29223;Celle
+29225;Celle
+29227;Celle
+29229;Celle
+29303;Bergen
+29308;Winsen (Aller)
+29313;Hambühren
+29320;Hermannsburg
+29323;Wietze
+29328;Faßberg
+29331;Lachendorf
+29336;Nienhagen
+29339;Wathlingen
+29342;Wienhausen
+29345;Unterlüß
+29348;Eschede
+29348;Scharnhorst
+29351;Eldingen
+29352;Adelheidsdorf
+29353;Ahnsbeck
+29355;Beedenbostel
+29356;Bröckel
+29358;Eicklingen
+29359;Habighorst
+29361;Höfer
+29362;Hohne
+29364;Langlingen
+29365;Sprakensehl
+29367;Steinhorst
+29369;Ummern
+29378;Wittingen
+29379;Wittingen
+29386;Hankensbüttel
+29386;Dedelstorf
+29386;Obernholz
+29389;Bad Bodenteich
+29392;Wesendorf
+29393;Groß Oesingen
+29394;Lüder
+29396;Schönewörde
+29399;Wahrenholz
+29439;Lüchow
+29451;Dannenberg (Elbe) Tramm
+29451;Dannenberg (Elbe) Seybruch
+29451;Dannenberg (Elbe) Soven
+29451;Dannenberg (Elbe) Liepehöfen
+29451;Schaafhausen
+29451;Dannenberg (Elbe) Sipnitz
+29451;Dannenberg (Elbe) Tripkau
+29451;Dannenberg (Elbe) Klein Heide
+29451;Dannenberg (Elbe) Neu Tramm
+29451;Dannenberg (Elbe) Gümse
+29451;Dannenberg (Elbe) Bückau
+29451;Dannenberg (Elbe) Nebenstedt
+29451;Dannenberg (Elbe) Predöhlsau
+29451;Dannenberg (Elbe) Dannenberg
+29451;Dannenberg (Elbe) Riekau
+29451;Dannenberg (Elbe) Riskau
+29451;Dannenberg (Elbe) Schmarsau
+29451;Dannenberg (Elbe) Groß Heide
+29451;Dannenberg (Elbe) Dambeck
+29451;Dannenberg (Elbe) Prabstorf
+29451;Dannenberg (Elbe)
+29451;Dannenberg (Elbe) Niestedt
+29451;Dannenberg (Elbe) Lüggau
+29451;Dannenberg (Elbe) Pisselberg
+29451;Dannenberg (Elbe) Splietau
+29451;Dannenberg (Elbe) Breese in der Marsch
+29451;Dannenberg (Elbe) Streetz
+29451;Dannenberg (Elbe) Seedorf
+29451;Dannenberg (Elbe) Penkefitz
+29451;Dannenberg (Elbe) Prisser
+29456;Hitzacker Wietzetze bei Hitzacker
+29456;Hitzacker Leitstade
+29456;Hitzacker Grabau
+29456;Hitzacker Tießau
+29456;Hitzacker Wussegel
+29456;Hitzacker Meudelfitz
+29456;Hitzacker
+29456;Hitzacker Gut Hagen
+29456;Hitzacker Hitzacker
+29456;Hitzacker Posade
+29456;Hitzacker Kähmen
+29456;Hitzacker Seerau
+29456;Hitzacker Sarchem
+29456;Hitzacker Pussade
+29456;Hitzacker Meudelfitz, Gut Meudelfitz
+29456;Hitzacker Harlingen
+29456;Hitzacker Bahrendorf
+29456;Hitzacker Meudelfitz, Eichengrund
+29456;Hitzacker Tiesmesland
+29456;Hitzacker Nienwedel
+29459;Clenze Korvin
+29459;Clenze Kloster
+29459;Clenze Schlannau
+29459;Clenze
+29459;Clenze Quartzau
+29459;Clenze Granstedt
+29459;Clenze Lefitz
+29459;Clenze Gistenbeck
+29459;Clenze Meußließen
+29459;Clenze Bösen
+29459;Clenze Satkau
+29459;Clenze Kassau
+29459;Clenze Groß Sachau
+29459;Clenze Prießeck
+29459;Clenze Vaddensen
+29459;Clenze Reddereitz
+29459;Clenze Guhreitzen
+29459;Clenze Kussebode
+29459;Clenze Braudel
+29459;Clenze Bausen
+29459;Clenze Dalitz
+29459;Clenze Beseland
+29459;Clenze Clenze
+29459;Clenze Mützen
+29459;Clenze Bussau
+29459;Clenze Seelwig
+29459;Clenze Gohlefanz
+29462;Wustrow
+29465;Schnega Göhr
+29465;Schnega Kreyenhagen
+29465;Schnega Oldendorf
+29465;Schnega Bahnhof Varbitz
+29465;Schnega Proitzer Mühle
+29465;Schnega Schnega
+29465;Schnega Starrel
+29465;Schnega Külitz
+29465;Schnega Lütenthien
+29465;Schnega Billerbeck
+29465;Schnega Harpe
+29465;Schnega Proitze
+29465;Schnega Schnega/Bahnhof
+29465;Schnega Warpke
+29465;Schnega
+29465;Schnega Gielau
+29465;Schnega Leisten
+29465;Schnega Schäpingen
+29465;Schnega Winterweyhe
+29465;Schnega Thune
+29465;Schnega Solkau
+29465;Schnega Gielauer Mühle
+29465;Schnega Harper Mühle
+29465;Schnega Molden
+29465;Schnega Gledeberg
+29465;Schnega Grotenhof
+29465;Schnega Oldendorfer Mühle
+29465;Schnega Loitze
+29468;Bergen (Dumme) Nienbergen
+29468;Bergen (Dumme) Spithal
+29468;Bergen (Dumme) Wöhningen
+29468;Bergen (Dumme)
+29468;Bergen (Dumme) Banzau
+29468;Bergen (Dumme) Brüchauer Mühle
+29468;Bergen (Dumme) Belau
+29468;Bergen (Dumme) Malsleben
+29468;Bergen (Dumme) Jiggel
+29468;Bergen (Dumme) Bergen
+29471;Gartow Laasche
+29471;Gartow Rondel
+29471;Gartow Nienwalde
+29471;Gartow
+29471;Gartow Gartow
+29471;Gartow Rucksmoor
+29471;Gartow Quarnstedt
+29471;Gartow Falkenmoor
+29472;Damnatz
+29472;Damnatz Damnatz
+29472;Damnatz Kamerun
+29472;Damnatz Barnitz
+29472;Damnatz Jasebeck
+29472;Damnatz Landsatz
+29473;Göhrde Govelin
+29473;Göhrde Kollase
+29473;Göhrde Zienitz
+29473;Göhrde Sarenseck
+29473;Göhrde Schmardau
+29473;Göhrde Schnadlitz
+29473;Göhrde Metzingen
+29473;Göhrde Plumbohm
+29473;Göhrde Göhrde
+29473;Göhrde Bredenbock
+29473;Göhrde
+29473;Göhrde Nadlitz
+29473;Göhrde Wedderin
+29473;Göhrde Schmessau
+29473;Göhrde Tollendorf
+29473;Göhrde Dübbekold
+29473;Göhrde Mailage
+29475;Gorleben Gorleben
+29475;Gorleben
+29475;Gorleben Meetschow
+29476;Gusborn Klein Gusborn
+29476;Gusborn Groß Gusborn
+29476;Gusborn Siemen
+29476;Gusborn
+29476;Gusborn Zadrau
+29476;Gusborn Quickborn
+29478;Höhbeck Restorf
+29478;Höhbeck Pevestorf
+29478;Höhbeck Schwedenschanze
+29478;Höhbeck Vietze
+29478;Höhbeck
+29478;Höhbeck Brünkendorf
+29479;Jameln Platenlaase
+29479;Jameln Hoheluft
+29479;Jameln Mehlfien
+29479;Jameln Volkfien
+29479;Jameln Wibbese
+29479;Jameln Jamelner Mühle
+29479;Jameln Breese im Bruche
+29479;Jameln Teichlosen
+29479;Jameln
+29479;Jameln Jameln
+29479;Jameln Breustian
+29479;Jameln Langenhorst
+29479;Jameln Breselenz
+29481;Karwitz Pudripp/Bahnhof
+29481;Karwitz Gamehlen
+29481;Karwitz
+29481;Karwitz Nausen
+29481;Karwitz Lebbien
+29481;Karwitz Thunpadel
+29481;Karwitz Karwitz
+29481;Karwitz Lenzen
+29481;Karwitz Dragahn
+29481;Karwitz Pudripp
+29482;Küsten Krummasel
+29482;Küsten Oldemühle
+29482;Küsten Klein Witzeetze
+29482;Küsten Saggrian
+29482;Küsten Tüschau
+29482;Küsten Karmitz
+29482;Küsten Sallahn
+29482;Küsten Tolstefanz
+29482;Küsten
+29484;Langendorf
+29485;Lemgow
+29487;Luckau
+29488;Lübbow
+29490;Neu Darchau
+29491;Prezelle
+29493;Schnackenburg
+29494;Trebel
+29496;Waddeweitz Sareitz
+29496;Waddeweitz Salderatzen
+29496;Waddeweitz Wittfeitzen
+29496;Waddeweitz Bischof
+29496;Waddeweitz Klein Gaddau
+29496;Waddeweitz Kröte
+29496;Waddeweitz Wittfeitzen, Klein Wittfeitzen
+29496;Waddeweitz Hohenvolkfien
+29496;Waddeweitz Kiefen
+29496;Waddeweitz Dickfeitzen
+29496;Waddeweitz Groß Gaddau
+29496;Waddeweitz Maddau
+29496;Waddeweitz Kukate
+29496;Waddeweitz Diahren
+29496;Waddeweitz Marlin
+29496;Waddeweitz Dommatzen
+29496;Waddeweitz
+29496;Waddeweitz Waddeweitz
+29496;Waddeweitz Gohlau
+29496;Waddeweitz Zebelin
+29496;Waddeweitz Schlanze
+29496;Waddeweitz Wittfeitzen, Groß Wittfeitzen
+29497;Woltersdorf
+29499;Zernien
+29525;Uelzen
+29549;Bad Bevensen
+29553;Bienenbüttel
+29556;Suderburg
+29559;Wrestedt
+29562;Suhlendorf
+29565;Wriedel
+29568;Wieren
+29571;Rosche
+29574;Ebstorf
+29575;Altenmedingen
+29576;Barum
+29578;Eimke
+29579;Emmendorf
+29581;Gerdau
+29582;Hanstedt I
+29584;Himbergen
+29585;Jelmstorf
+29587;Natendorf
+29588;Oetzen
+29590;Rätzlingen
+29591;Römstedt
+29593;Schwienau
+29594;Soltendieck
+29596;Stadensen
+29597;Stoetze
+29599;Weste
+29614;Soltau
+29633;Munster
+29640;Schneverdingen
+29643;Neuenkirchen
+29646;Bispingen
+29649;Wietzendorf
+29664;Walsrode
+29683;Fallingbostel
+29690;Gilten
+29690;Lindwedel
+29690;Schwarmstedt
+29690;Grethem
+29690;Buchholz (Aller)
+29690;Essel
+29693;Hademstorf
+29693;Hodenhagen
+29693;Böhme
+29693;Eickeloh
+29693;Ahlden (Aller)
+29699;Bomlitz
+30159;Hannover
+30161;Hannover
+30163;Hannover
+30165;Hannover
+30167;Hannover
+30169;Hannover
+30171;Hannover
+30173;Hannover
+30175;Hannover
+30177;Hannover
+30179;Hannover
+30419;Hannover
+30449;Hannover
+30451;Hannover
+30453;Hannover
+30455;Hannover
+30457;Hannover
+30459;Hannover
+30519;Hannover
+30521;Hannover
+30539;Hannover
+30559;Hannover
+30625;Hannover
+30627;Hannover
+30629;Hannover
+30655;Hannover
+30657;Hannover
+30659;Hannover
+30669;Hannover
+30823;Garbsen
+30826;Garbsen
+30827;Garbsen
+30851;Langenhagen
+30853;Langenhagen
+30855;Langenhagen
+30880;Laatzen
+30890;Barsinghausen
+30900;Wedemark
+30916;Isernhagen
+30926;Seelze
+30938;Burgwedel
+30952;Ronnenberg
+30966;Hemmingen
+30974;Wennigsen
+30982;Pattensen
+30989;Gehrden
+31008;Elze
+31020;Salzhemmendorf
+31028;Gronau (Leine)
+31029;Banteln
+31032;Betheln
+31033;Brüggen
+31035;Despetal
+31036;Eime
+31039;Rheden
+31061;Alfeld (Leine)
+31073;Delligsen
+31079;Adenstedt
+31079;Sibbesse
+31079;Westfeld
+31079;Almstedt
+31079;Eberholzen
+31084;Freden (Leine)
+31085;Everode
+31087;Landwehr
+31088;Winzenburg
+31089;Duingen
+31091;Coppengrave
+31093;Hoyershausen
+31094;Marienhagen
+31096;Weenzen
+31097;Harbarnsen
+31099;Woltershausen
+31134;Hildesheim
+31135;Hildesheim
+31137;Hildesheim
+31139;Hildesheim
+31141;Hildesheim
+31157;Sarstedt
+31162;Bad Salzdetfurth
+31167;Bockenem
+31171;Nordstemmen
+31174;Schellerten
+31177;Harsum
+31180;Giesen
+31185;Söhlde
+31188;Holle
+31191;Algermissen
+31195;Lamspringe
+31195;Neuhof
+31196;Sehlem
+31199;Diekholzen
+31224;Peine
+31226;Peine
+31228;Peine
+31234;Edemissen
+31241;Ilsede
+31246;Lahstedt
+31249;Hohenhameln
+31275;Lehrte
+31303;Burgdorf
+31311;Uetze
+31319;Sehnde
+31515;Wunstorf
+31535;Neustadt am Rübenberge
+31542;Bad Nenndorf Bad Nenndorf
+31542;Bad Nenndorf
+31542;Bad Nenndorf Riepen
+31542;Bad Nenndorf Waltringhausen
+31542;Bad Nenndorf Horsten
+31547;Rehburg-Loccum Rehburg
+31547;Rehburg-Loccum Winzlar
+31547;Rehburg-Loccum Münchehagen
+31547;Rehburg-Loccum Bad Rehburg
+31547;Rehburg-Loccum
+31547;Rehburg-Loccum Loccum
+31552;Apelern Lyhren
+31552;Apelern Apelern
+31552;Rodenberg Rodenberg
+31552;Apelern
+31552;Apelern Soldorf
+31552;Rodenberg Algesdorf
+31552;Apelern Reinsdorf
+31552;Apelern Groß Hegesdorf
+31552;Apelern Kleinhegesdorf
+31552;Rodenberg
+31553;Auhagen Düdinghausen
+31553;Sachsenhagen
+31553;Auhagen Auhagen
+31553;Sachsenhagen Sachsenhagen
+31553;Sachsenhagen Nienbrügge
+31553;Auhagen
+31555;Suthfeld Helsinghausen
+31555;Suthfeld Riehe
+31555;Suthfeld
+31555;Suthfeld Kreuzriehe
+31556;Wölpinghausen Wiedenbrügge
+31556;Wölpinghausen Bergkirchen
+31556;Wölpinghausen Wölpinghausen
+31556;Wölpinghausen
+31556;Wölpinghausen Schmalenbruch-Windhorn
+31558;Hagenburg Altenhagen
+31558;Hagenburg
+31558;Hagenburg Hagenburg
+31559;Hohnhorst
+31559;Hohnhorst Hohnhorst
+31559;Hohnhorst Rehren A.R.
+31559;Hohnhorst Ohndorf
+31559;Haste
+31582;Nienburg (Weser)
+31582;Nienburg (Weser) Nienburg (Weser)
+31582;Nienburg (Weser) Holtorf
+31582;Nienburg (Weser) Erichshagen
+31582;Nienburg (Weser) Langendamm
+31592;Stolzenau Anemolter-Schinna
+31592;Stolzenau Anemolter-Schinna, Anemolter
+31592;Stolzenau Holzhausen
+31592;Stolzenau Frestorf
+31592;Stolzenau Müsleringen
+31592;Stolzenau Stolzenau
+31592;Stolzenau Diethe
+31592;Stolzenau
+31592;Stolzenau Hibben
+31592;Stolzenau Anemolter-Schinna, Schinna
+31592;Stolzenau Nendorf
+31595;Steyerberg Steyerberg
+31595;Steyerberg Voigtei
+31595;Steyerberg
+31595;Steyerberg Wellie
+31595;Steyerberg Deblinghausen
+31595;Steyerberg Düdinghausen
+31600;Uchte
+31603;Diepenau
+31604;Raddestorf
+31606;Warmsen
+31608;Marklohe
+31609;Balge
+31613;Wietzen
+31618;Liebenau
+31619;Binnen
+31621;Pennigsehl
+31622;Heemsen
+31622;Heemsen Heemsen
+31622;Heemsen Lichtenmoor
+31622;Heemsen Anderten
+31622;Heemsen Gadesbünden
+31623;Drakenburg
+31626;Haßbergen
+31627;Rohrsen
+31628;Landesbergen Brokeloh
+31628;Landesbergen Hahnenberg
+31628;Landesbergen Landesbergen
+31628;Landesbergen
+31628;Landesbergen Heidhausen
+31629;Estorf Estorf
+31629;Estorf Leeseringen
+31629;Estorf
+31632;Husum
+31633;Leese
+31634;Steimbke Wenden
+31634;Steimbke
+31634;Steimbke Wendenborstel
+31634;Steimbke Lichtenhorst
+31634;Steimbke Steimbke
+31636;Linsburg
+31637;Rodewald
+31638;Stöckse
+31655;Stadthagen Habichhorst-Blyinghausen, Habichhorst
+31655;Stadthagen Reinsen-Remeringhausen
+31655;Stadthagen Habichhorst-Blyinghausen, Blyinghausen
+31655;Stadthagen Probsthagen
+31655;Stadthagen Hörkamp-Langenbruch
+31655;Stadthagen Wendthagen-Ehlen
+31655;Stadthagen Krebshagen
+31655;Stadthagen Habichhorst-Blyinghausen
+31655;Stadthagen Hobbensen
+31655;Stadthagen Obernwöhren
+31655;Stadthagen Stadthagen
+31655;Stadthagen Enzen
+31655;Stadthagen
+31675;Bückeburg Achum
+31675;Bückeburg Bergdorf
+31675;Bückeburg Cammer
+31675;Bückeburg Warber
+31675;Bückeburg Bückeburg
+31675;Bückeburg Rusbend
+31675;Bückeburg
+31675;Bückeburg Evesen
+31675;Bückeburg Scheie
+31675;Bückeburg Meinsen
+31675;Bückeburg Müsingen
+31683;Obernkirchen Obernkirchen
+31683;Obernkirchen Vehlen
+31683;Obernkirchen Krainhagen
+31683;Obernkirchen Gelldorf
+31683;Obernkirchen
+31683;Obernkirchen Röhrkasten
+31688;Nienstädt Liekwegen
+31688;Nienstädt Nienstädt
+31688;Nienstädt
+31691;Helpsen Helpsen
+31691;Helpsen
+31691;Seggebruch Schierneichen-Deinsen
+31691;Seggebruch Seggebruch
+31691;Helpsen Südhorsten
+31691;Helpsen Kirchhorsten
+31691;Seggebruch
+31691;Seggebruch Tallensen-Echtorf
+31693;Hespe Levesen
+31693;Hespe Hespe-Hiddensen
+31693;Hespe
+31693;Hespe Stemmen
+31698;Lindhorst
+31698;Lindhorst Lindhorst
+31698;Lindhorst Ottensen
+31698;Lindhorst Schöttlingen
+31699;Beckedorf
+31700;Heuerßen
+31700;Heuerßen Kobbensen
+31700;Heuerßen Heuerßen
+31702;Lüdersfeld Vornhagen
+31702;Lüdersfeld
+31702;Lüdersfeld Lüdersfeld
+31707;Heeßen
+31707;Bad Eilsen
+31708;Ahnsen
+31710;Buchholz
+31711;Luhden
+31711;Luhden Luhden
+31711;Luhden Schermbeck
+31712;Niedernwöhren
+31714;Lauenhagen Lauenhagen
+31714;Lauenhagen Hülshagen
+31714;Lauenhagen
+31715;Meerbeck
+31715;Meerbeck Volksdorf
+31715;Meerbeck Kuckshagen
